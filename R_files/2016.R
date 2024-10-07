@@ -7,10 +7,10 @@ library(sf)
 
 ##################
 #read in a candidate file
-democrat <- read_csv('clinton.csv')
+democrat <- read_csv('clinton_2016.csv')
 
-#format the date column
-democrat$date <- as_date(democrat$date, format="%m/%d/%Y")
+#format the date column (if needed)
+#democrat$date <- as_date(democrat$date, format="%m/%d/%Y")
 
 #add a party column for grouping
 democrat <- democrat |> 
@@ -29,8 +29,9 @@ democrat <- democrat |>
   mutate(date_time = as.POSIXct(date, format = "%m/%d/%Y")) |> 
   mutate(date_time = date_time + date_duplicate_count*(24/(date_count+1))*60*60)
 
-#set CRS for plotting
+#set CRS for plotting, removing NAs if needed
 democrat <- democrat |> 
+  filter(!is.na(lng) | !is.na(lat)) |> 
   st_as_sf(coords=c("lng","lat")) |> 
   st_set_crs(4326)
 
@@ -38,9 +39,9 @@ democrat <- democrat |>
 usa <- st_as_sf(maps::map("state", fill=TRUE, plot=FALSE))
 
 ##################
-republican <- read_csv('trump.csv')
+republican <- read_csv('trump_2016.csv')
 
-republican$date <- as_date(republican$date, format="%m/%d/%Y")
+#republican$date <- as_date(republican$date, format="%m/%d/%Y")
 
 republican <- republican |> 
   mutate(party = "Republican")
@@ -55,6 +56,7 @@ republican <- republican |>
   mutate(date_time = date_time + date_duplicate_count*(24/(date_count+1))*60*60)
 
 republican <- republican |> 
+  filter(!is.na(lng) | !is.na(lat)) |> 
   st_as_sf(coords=c("lng","lat")) |> 
   st_set_crs(4326)
 
@@ -82,7 +84,7 @@ animation <- ggplot() +
   theme_void()+
   labs(title="2016 Presidental Campaign Trail", 
        subtitle="{format(frame_time, \"%h. %d\")}",
-       caption="<br><br>Nikhil Chinchalkar for Cornell Data Journal | FiveThirtyEight | 2024 ")+
+       caption="<br><br>Nikhil Chinchalkar for Cornell Data Journal | christopherjdevine.com | 2024 ")+
   theme(plot.title = ggtext::element_markdown(size = 22, hjust =0.5, face = "bold"), 
         plot.subtitle = ggtext::element_markdown(size = 16, hjust =0.5, face = "bold"), 
         plot.caption = ggtext::element_markdown(size = 8, hjust =0.5))+
