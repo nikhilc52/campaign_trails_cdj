@@ -1,107 +1,110 @@
 date,location,city,state,lat,lng
-9/1/2016,"Wilmington, OH",Wilmington,OH,39.4453393,-83.8285375
-9/3/2016,"Detroit, MI",Detroit,MI,42.331427,-83.0457538
-9/6/2016,"Virginia Beach, VA",Virginia Beach,VA,36.8529263,-75.977985
-9/6/2016,"Greenville, NC",Greenville,NC,35.612661,-77.3663538
-9/7/2016,"New York, NY",New York,NY,40.7127837,-74.0059413
-9/9/2016,"NW, Washington, DC",Washington,DC,38.9071923,-77.0368707
-9/9/2016,"Pensacola, FL",Pensacola,FL,30.421309,-87.2169149
-9/12/2016,"Baltimore, MD",Baltimore,MD,39.2903848,-76.6121893
-9/12/2016,"Asheville, NC",Asheville,NC,35.5950581,-82.5514869
-9/13/2016,"Des Moines, IA",Des Moines,IA,41.6005448,-93.6091064
-9/13/2016,"Aston, PA",Aston,PA,39.8648194,-75.4257325
-9/14/2016,"Canton, OH",Canton,OH,40.7989473,-81.378447
-9/15/2016,"New York, NY",New York,NY,40.7127837,-74.0059413
-9/15/2016,"Laconia, NH",Laconia,NH,43.5278546,-71.4703509
-9/16/2016,Washington DC,Washington,DC,38.9071923,-77.0368707
-9/16/2016,"Miami, FL",Miami,FL,25.7616798,-80.1917902
-9/17/2016,"Houston, TX",Houston,TX,29.7604267,-95.3698028
-9/17/2016,"Colorado Springs, CO",Colorado Springs,CO,38.8338816,-104.8213634
-9/19/2016,"Fort Myers, FL",Fort Myers,FL,26.640628,-81.8723084
-9/20/2016,"High Point, NC",High Point,NC,35.9556923,-80.0053176
-9/20/2016,"Kenansville, NC",Kenansville,NC,34.9623883,-77.9622069
-9/21/2016,"Toledo, OH",Toledo,OH,41.6639383,-83.555212
-9/22/2016,"Chester Township, PA",Chester Township,PA,39.8517618,-75.4024228
-9/24/2016,"Roanoke, VA",Roanoke,VA,37.2709704,-79.9414266
-9/26/2016,"Hemstead, NY",Hemstead,NY,40.7062128,-73.6187397
-9/27/2016,"Melbourne, FL",Melbourne,FL,28.0836269,-80.6081089
-9/28/2016,"Council Bluffs, IA",Council Bluffs,IA,41.2619444,-95.8608333
-9/28/2016,"Waukesha, WI",Waukesha,WI,43.0116784,-88.2314813
-9/29/2016,"Bedfor, NH",Bedfor,NH,42.9463291,-71.5132008
-9/30/2016,"Novi, MI",Novi,MI,42.48059,-83.4754913
-10/1/2016,"Manheim, PA",Manheim,PA,40.1634279,-76.3949614
-10/3/2016,"Pueblo, CO",Pueblo,CO,38.2544472,-104.6091409
-10/3/2016,"Loveland, CO",Loveland,CO,40.3977612,-105.0749801
-10/4/2016,"Prescott, Valley, AZ",Prescott Valley,AZ,34.6100243,-112.315721
-10/5/2016,"Henderson, NV",Henderson,NV,36.0395247,-114.9817213
-10/5/2016,"Reno, NV",Reno,NV,39.5296329,-119.8138027
-10/6/2016,"Sandown, NH",Sandown,NH,42.928698,-71.1870053
-10/9/2016,"St. Louis, MO",St. Louis,MO,38.6105426,-90.3371889
-10/10/2016,"Ambridge, PA",Ambridge,PA,40.5892339,-80.22506
-10/10/2016,"Wilkes-Barre, PA",Wilkes-Barre,PA,41.2459149,-75.8813075
-10/11/2016,"Panama City, FL",Panama City,FL,30.1588129,-85.6602058
-10/12/2016,"Ocala, FL",Ocala,FL,29.1871986,-82.1400923
-10/12/2016,"Lakeland, FL",Lakeland,FL,28.0394654,-81.9498042
-10/13/2016,"West Palm Beach, FL",West Palm Beach,FL,26.7153424,-80.0533746
-10/13/2016,"Cincinnati, OH",Cincinnati,OH,39.1031182,-84.5120196
-10/14/2016,"Greensboro, NC",Greensboro,NC,36.0726354,-79.7919754
-10/14/2016,"Charlotte, NC",Charlotte,NC,35.2270869,-80.8431267
-10/15/2016,"Portsmouth, NH",Portsmouth,NH,43.0717552,-70.7625532
-10/15/2016,"Bangor, ME",Bangor,ME,44.8011821,-68.7778138
-10/17/2016,"Green Bay, WI",Green Bay,WI,44.519159,-88.019826
-10/18/2016,"Colorado Springs, CO",Colorado Springs,CO,38.8338816,-104.8213634
-10/18/2016,"Grand Junction, CO",Grand Junction,CO,39.0638705,-108.5506486
-10/19/2016,"Las Vegas, NV",Las Vegas,NV,36.1699412,-115.1398296
-10/20/2016,"Deleware, OH",Deleware,OH,40.2986724,-83.067965
-10/20/2016,"New York, NY",New York,NY,40.7127837,-74.0059413
-10/21/2016,"Fletcher, NC",Fletcher,NC,35.4306712,-82.5012316
-10/21/2016,"Johnstown, PA",Johnstown,PA,40.3267407,-78.9219698
-10/21/2016,"Newtown, PA",Newtown,PA,40.2283371,-74.9322596
-10/22/2016,"Gettysburg, PA",Gettysburg,PA,39.8309293,-77.2310955
-10/22/2016,"Virginia Beach, VA",Virginia Beach,VA,36.8529263,-75.977985
-10/22/2016,"Cleveland, OH",Cleveland,OH,41.49932,-81.6943605
-10/23/2016,"Naples, FL",Naples,FL,26.1420358,-81.7948103
-10/24/2016,"St. Augustine, FL",St. Augustine,FL,29.9012437,-81.3124341
-10/24/2016,"Tampa, FL",Tampa,FL,27.950575,-82.4571776
-10/25/2016,"Sanford, FL",Sanford,FL,28.8028612,-81.269453
-10/25/2016,"Tallahassee, FL",Tallahassee,FL,30.4382559,-84.2807329
-10/26/2016,"Kinston, NC",Kinston,NC,35.2626635,-77.5816353
-10/27/2016,"Springfield, OH",Springfield,OH,39.9242266,-83.8088171
-10/27/2016,"Toledo, OH",Toledo,OH,41.6639383,-83.555212
-10/27/2016,"Geneva, OH",Geneva,OH,41.8050539,-80.9481489
-10/28/2016,"Manchester, NH",Manchester,NH,42.9956397,-71.4547891
-10/28/2016,"Lisbon, ME",Lisbon,ME,44.0316013,-70.1043704
-10/28/2016,"Cedar Rapids, IA",Cedar Rapids,IA,41.9778795,-91.6656232
-10/29/2016,"Golden, CO",Golden,CO,39.755543,-105.2210997
-10/29/2016,"Pheonix, AZ",Pheonix,AZ,33.4483771,-112.0740373
-10/30/2016,"Las Vegas, NV",Las Vegas,NV,36.1699412,-115.1398296
-10/30/2016,"Greeley, CO",Greeley,CO,40.4233142,-104.7091322
-10/30/2016,"Albuquerque, NM",Albuquerque,NM,35.0853336,-106.6055534
-10/31/2016,"Grand Rapids, MI",Grand Rapids,MI,42.9633599,-85.6680863
-10/31/2016,"Warren, MI",Warren,MI,42.5144566,-83.0146526
-11/1/2016,"Valley Forge, PA",Valley Forge,PA,40.0989851,-75.4690966
-11/1/2016,"Eau Claire, WI",Eau Claire,WI,44.811349,-91.4984941
-11/2/2016,"Miami, FL",Miami,FL,25.7616798,-80.1917902
-11/2/2016,"Orlando, FL",Orlando,FL,28.5383355,-81.3792365
-11/2/2016,"Pensacola, FL",Pensacola,FL,30.421309,-87.2169149
-11/3/2016,"Jacksonville, FL",Jacksonville,FL,30.3321838,-81.655651
-11/3/2016,"Concord, NC",Concord,NC,35.4087517,-80.579511
-11/3/2016,"Selma, NC",Selma,NC,35.5365485,-78.2844435
-11/4/2016,"Atkinson, NH",Atkinson,NH,42.8384221,-71.1470037
-11/4/2016,"Wilmington, OH",Wilmington,OH,39.4453393,-83.8285375
-11/4/2016,"Hershey, PA",Hershey,PA,40.2859239,-76.6502468
-11/5/2016,"Tampa, FL",Tampa,FL,27.950575,-82.4571776
-11/5/2016,"Wilmington, NC",Wilmington,NC,34.2257255,-77.9447102
-11/5/2016,"Reno, NV",Reno,NV,39.5296329,-119.8138027
-11/5/2016,"Denver, CO",Denver,CO,39.7392358,-104.990251
-11/6/2016,"Sioux City, IA",Sioux City,IA,42.4999942,-96.4003069
-11/6/2016,"Minneapolis, MN",Minneapolis,MN,44.977753,-93.2650108
-11/6/2016,"Sterling Heights, MI",Sterling Heights,MI,42.5803122,-83.0302033
-11/6/2016,"Moon Township, PA",Moon Township,PA,40.5169767,-80.2213477
-11/6/2016,"Leesburg, VA",Leesburg,VA,39.1156615,-77.5636015
-11/7/2016,"Sarasota, FL",Sarasota,FL,27.3364347,-82.5306527
-11/7/2016,"Raleigh, NC",Raleigh,NC,35.7795897,-78.6381787
-11/7/2016,"Scaranton, PA",Scaranton,PA,41.408969,-75.6624122
-11/7/2016,"Manchester, NH",Manchester,NH,42.9956397,-71.4547891
-11/7/2016,"Grand Rapids, MI",Grand Rapids,MI,42.9633599,-85.6680863
-11/8/2016,"New York, NY",New York,NY,40.7127837,-74.0059413
+2016-09-01,"Wilmington, Ohio",Wilmington,Ohio,39.4453393,-83.8285375
+2016-09-03,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007
+2016-09-05,"Brook Park, Ohio",Brook Park,Ohio,41.3983838,-81.8045788
+2016-09-05,"Canfield, Ohio",Canfield,Ohio,41.025059,-80.760912
+2016-09-06,"Greenville, North Carolina",Greenville,North Carolina,35.613224,-77.3724593
+2016-09-06,"Virginia Beach, Virginia",Virginia Beach,Virginia,36.8496579,-75.9760751
+2016-09-07,"New York City, New York",New York City,New York,40.7127281,-74.0060152
+2016-09-07,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262
+2016-09-08,"Cleveland, Ohio",Cleveland,Ohio,41.4996574,-81.6936772
+2016-09-09,"Pensacola, Florida",Pensacola,Florida,30.421309,-87.2169149
+2016-09-12,"Asheville, North Carolina",Asheville,North Carolina,35.595363,-82.5508407
+2016-09-13,"Clive, Iowa",Clive,Iowa,41.6096559,-93.7754644
+2016-09-13,"Aston, Pennsylvania",Aston,Pennsylvania,39.87265415,-75.44054729049847
+2016-09-14,"Canton, Ohio",Canton,Ohio,40.7985464,-81.3749508
+2016-09-15,"Laconia, New Hampshire",Laconia,New Hampshire,43.5278546,-71.470351
+2016-09-15,"New York City, New York",New York City,New York,40.7127281,-74.0060152
+2016-09-16,"Washington, DC, District of Columbia","Washington, DC",District of Columbia,38.8950368,-77.0365427
+2016-09-16,"Miami, Florida",Miami,Florida,25.7741728,-80.19362
+2016-09-17,"Colorado Springs, Colorado",Colorado Springs,Colorado,38.8339578,-104.825348
+2016-09-19,"Estero, Florida",Estero,Florida,26.4381474,-81.8067537
+2016-09-02,"Greensboro, North Carolina",Greensboro,North Carolina,36.0726355,-79.7919754
+2016-09-02,"High Point, North Carolina",High Point,North Carolina,35.9556924,-80.0053176
+2016-09-02,"Kenansville, North Carolina",Kenansville,North Carolina,34.9623883,-77.9622069
+2016-09-21,"Cleveland Heights, Ohio",Cleveland Heights,Ohio,41.5200518,-81.556235
+2016-09-21,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173
+2016-09-22,"Aston, Pennsylvania",Aston,Pennsylvania,39.87265415,-75.44054729049847
+2016-09-24,"Roanoke, Virginia",Roanoke,Virginia,37.270973,-79.9414313
+2016-09-27,"Melbourne, Florida",Melbourne,Florida,28.0785034,-80.6077908
+2016-09-28,"Chicago, Illinois",Chicago,Illinois,41.8755616,-87.6244212
+2016-09-28,"Council Bluffs, Iowa",Council Bluffs,Iowa,41.258841,-95.8519484
+2016-09-28,"Waukesha, Wisconsin",Waukesha,Wisconsin,43.0622536,-88.3123889
+2016-09-29,"Bedford, New Hampshire",Bedford,New Hampshire,42.9464737,-71.5159015
+2016-09-03,"Novi, Michigan",Novi,Michigan,42.48059,-83.4754913
+2016-10-01,"Manheim, Pennsylvania",Manheim,Pennsylvania,40.1637359,-76.3952429
+2016-10-03,"Loveland, Colorado",Loveland,Colorado,40.385549,-105.04436132094955
+2016-10-03,"Pueblo, Colorado",Pueblo,Colorado,38.263995,-104.6141867
+2016-10-03,"Herndon, Virginia",Herndon,Virginia,38.9695316,-77.3859479
+2016-10-04,"Prescott Valley, Arizona",Prescott Valley,Arizona,34.5950776,-112.3338634
+2016-10-05,"Henderson, Nevada",Henderson,Nevada,36.0301134,-114.9826194
+2016-10-06,"Sandown, New Hampshire",Sandown,New Hampshire,42.928698,-71.1870053
+2016-10-01,"Ambridge, Pennsylvania",Ambridge,Pennsylvania,40.586438,-80.2273615
+2016-10-01,"Wilkes-Barre, Pennsylvania",Wilkes-Barre,Pennsylvania,41.2464824,-75.8817316
+2016-10-11,"Panama City, Florida",Panama City,Florida,30.1586518,-85.6602936
+2016-10-12,"Lakeland, Florida",Lakeland,Florida,28.0394654,-81.9498042
+2016-10-12,"Ocala, Florida",Ocala,Florida,29.1871986,-82.1400923
+2016-10-13,"West Palm Beach, Florida",West Palm Beach,Florida,26.715364,-80.0532942
+2016-10-13,"Cincinnati, Ohio",Cincinnati,Ohio,39.1014537,-84.5124602
+2016-10-13,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065
+2016-10-14,"Charlotte, North Carolina",Charlotte,North Carolina,35.2272086,-80.8430827
+2016-10-14,"Greensboro, North Carolina",Greensboro,North Carolina,36.0726355,-79.7919754
+2016-10-15,"Bangor, Maine",Bangor,Maine,44.8016255,-68.7713289
+2016-10-15,"Portsmouth, New Hampshire",Portsmouth,New Hampshire,43.0764436,-70.7573936
+2016-10-17,"Green Bay, Wisconsin",Green Bay,Wisconsin,44.5126379,-88.0125794
+2016-10-18,"Colorado Springs, Colorado",Colorado Springs,Colorado,38.8339578,-104.825348
+2016-10-18,"Grand Junction, Colorado",Grand Junction,Colorado,39.0672568,-108.56448
+2016-10-02,"Delaware, Ohio",Delaware,Ohio,40.2317686,-82.9651045
+2016-10-21,"Fletcher, North Carolina",Fletcher,North Carolina,35.4309336,-82.5011239
+2016-10-21,"Johnstown, Pennsylvania",Johnstown,Pennsylvania,40.3267407,-78.9219698
+2016-10-21,"Newtown, Pennsylvania",Newtown,Pennsylvania,40.6505909,-76.3479872
+2016-10-22,"Gettysburg, Pennsylvania",Gettysburg,Pennsylvania,39.8308973,-77.231012
+2016-10-22,"Virginia Beach, Virginia",Virginia Beach,Virginia,36.8496579,-75.9760751
+2016-10-23,"Naples, Florida",Naples,Florida,26.1421976,-81.7942944
+2016-10-23,"Cleveland, Ohio",Cleveland,Ohio,41.4996574,-81.6936772
+2016-10-24,"Boynton Beach, Florida",Boynton Beach,Florida,26.5256179,-80.0666026
+2016-10-24,"St. Augustine, Florida",St. Augustine,Florida,29.8946952,-81.3145395
+2016-10-24,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444
+2016-10-25,"Sanford, Florida",Sanford,Florida,28.8117345,-81.2680223
+2016-10-25,"Tallahasee, Florida",Tallahasee,Florida,NA,NA
+2016-10-26,"Washington, DC, District of Columbia","Washington, DC",District of Columbia,38.8950368,-77.0365427
+2016-10-26,"Charlotte, North Carolina",Charlotte,North Carolina,35.2272086,-80.8430827
+2016-10-26,"Kinston, North Carolina",Kinston,North Carolina,35.2626635,-77.5816353
+2016-10-27,"Geneva, Ohio",Geneva,Ohio,41.8052539,-80.9476206
+2016-10-27,"Springfield, Ohio",Springfield,Ohio,39.9234046,-83.810138
+2016-10-27,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173
+2016-10-28,"Cedar Rapids, Iowa",Cedar Rapids,Iowa,41.9758872,-91.6704053
+2016-10-28,"Lisbon, Maine",Lisbon,Maine,43.9966919,-70.0606087
+2016-10-28,"Manchester, New Hampshire",Manchester,New Hampshire,42.9956397,-71.4547891
+2016-10-29,"Phoenix, Arizona",Phoenix,Arizona,33.4484367,-112.074141
+2016-10-29,"Golden, Colorado",Golden,Colorado,39.7546349,-105.22058
+2016-10-03,"Greeley, Colorado",Greeley,Colorado,40.4233142,-104.7091322
+2016-10-03,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516
+2016-10-03,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985
+2016-10-31,"Grand Rapids, Michigan",Grand Rapids,Michigan,42.9632425,-85.6678639
+2016-10-31,"Warren, Michigan",Warren,Michigan,42.4932575,-83.0062746
+2016-11-01,"King of Prussia, Pennsylvania",King of Prussia,Pennsylvania,40.0908111,-75.3832484
+2016-11-01,"Eau Claire, Wisconsin",Eau Claire,Wisconsin,44.811349,-91.4984941
+2016-11-02,"Miami, Florida",Miami,Florida,25.7741728,-80.19362
+2016-11-02,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304
+2016-11-02,"Pensacola, Florida",Pensacola,Florida,30.421309,-87.2169149
+2016-11-03,"Jacksonville, Florida",Jacksonville,Florida,30.3321838,-81.655651
+2016-11-03,"Concord, North Carolina",Concord,North Carolina,35.4094178,-80.5800049
+2016-11-03,"Selma, North Carolina",Selma,North Carolina,35.5365485,-78.2844435
+2016-11-04,"Atkinson, New Hampshire",Atkinson,New Hampshire,42.8384221,-71.1470037
+2016-11-04,"Wilmington, Ohio",Wilmington,Ohio,39.4453393,-83.8285375
+2016-11-04,"Hershey, Pennsylvania",Hershey,Pennsylvania,40.2854881,-76.6506001
+2016-11-05,"Denver, Colorado",Denver,Colorado,39.7392364,-104.984862
+2016-11-05,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444
+2016-11-05,"Reno, Nevada",Reno,Nevada,39.5261206,-119.8126581
+2016-11-05,"Wilmington, North Carolina",Wilmington,North Carolina,34.2257282,-77.9447107
+2016-11-06,"Sioux City, Iowa",Sioux City,Iowa,42.4966815,-96.4058782
+2016-11-06,"Sterling Heights, Michigan",Sterling Heights,Michigan,42.5803122,-83.0302033
+2016-11-06,"Minneapolis, Minnesota",Minneapolis,Minnesota,44.9772995,-93.2654692
+2016-11-06,"Moon Township, Pennsylvania",Moon Township,Pennsylvania,40.506100000000004,-80.2082
+2016-11-06,"Leesburg, Virginia",Leesburg,Virginia,39.1154506,-77.5645607
+2016-11-07,"Sarasota, Florida",Sarasota,Florida,27.3365805,-82.5308545
+2016-11-07,"Grand Rapids, Michigan",Grand Rapids,Michigan,42.9632425,-85.6678639
+2016-11-07,"Manchester, New Hampshire",Manchester,New Hampshire,42.9956397,-71.4547891
+2016-11-07,"Raleigh, North Carolina",Raleigh,North Carolina,35.7803977,-78.6390989
+2016-11-07,"Scranton, Pennsylvania",Scranton,Pennsylvania,41.4086874,-75.6621294

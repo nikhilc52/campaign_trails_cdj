@@ -1,56 +1,71 @@
 date,location,city,state,lat,lng
-9/1/2012,"Des Moines, Iowa",Des Moines, Iowa,41.5725,-93.6105
-9/1/2012,"Sioux City, Iowa",Sioux City, Iowa,42.4959,-96.3901
-9/2/2012,"Boulder, Colorado",Boulder, Colorado,40.0248,-105.2524
-9/4/2012,"Norfolk, Virginia",Norfolk, Virginia,36.8945,-76.259
-9/7/2012,"Portsmouth, New Hampshire",Portsmouth, New Hampshire,43.058,-70.7826
-9/7/2012,"Iowa City, Iowa",Iowa City, Iowa,41.6559,-91.5303
-9/8/2012,"Seminole, Florida",Seminole, Florida,27.8435,-82.784
-9/8/2012,"KIssimmee, Florida",KIssimmee, Florida,28.3041,-81.4169
-9/9/2012,"Melbourne, Florida",Melbourne, Florida,28.1086,-80.6627
-9/9/2012,"West Palm Beach, Florida",West Palm Beach, Florida,26.7469,-80.132
-9/17/2012,"Cincinnati, Ohio",Cincinnati, Ohio,39.1413,-84.506
-9/17/2012,"Columbus, Ohio",Columbus, Ohio,39.9862,-82.9855
-9/19/2012,"Coral Gables, Florida",Coral Gables, Florida,25.7037,-80.2715
-9/21/2012,"Woodbridge, Virginia",Woodbridge, Virginia,38.6409,-77.258
-9/22/2012,"Milwaukee, Wisconsin",Milwaukee, Wisconsin,43.0642,-87.9675
-9/26/2012,"Bowling Green, Ohio",Bowling Green, Ohio,41.3776,-83.6495
-9/26/2012,"Kent, Ohio",Kent, Ohio,41.149,-81.361
-9/27/2012,"Virginia Beach, Virginia",Virginia Beach, Virginia,36.7335,-76.0435
-9/30/2012,"Las Vegas, Nevada",Las Vegas, Nevada,36.2333,-115.2654
-10/4/2012,"Denver, Colorado",Denver, Colorado,39.762,-104.8758
-10/4/2012,"Madison, Wisconsin",Madison, Wisconsin,43.0822,-89.393
-10/5/2012,"Fairfax, Virginia",Fairfax, Virginia,38.8531,-77.2997
-10/5/2012,"Cleveland, Ohio",Cleveland, Ohio,41.4764,-81.6805
-10/9/2012,"Columbus, Ohio",Columbus, Ohio,39.9862,-82.9855
-10/11/2012,"Coral Gables, Florida",Coral Gables, Florida,25.7037,-80.2715
-10/17/2012,"Mount Vernon, Iowa",Mount Vernon, Iowa,41.9232,-91.4243
-10/17/2012,"Athens, Ohio",Athens, Ohio,39.327,-82.0987
-10/18/2012,"Manchester, New Hampshire",Manchester, New Hampshire,42.9848,-71.4447
-10/19/2012,"Fairfax, Virginia",Fairfax, Virginia,38.8531,-77.2997
-10/23/2012,"Delray Beach, Florida",Delray Beach, Florida,26.455,-80.0905
-10/23/2012,"Dayton, Ohio",Dayton, Ohio,39.7805,-84.2003
-10/24/2012,"Davenport, Iowa",Davenport, Iowa,41.5565,-90.6053
-10/24/2012,"Denver, Colorado",Denver, Colorado,39.762,-104.8758
-10/24/2012,"Las Vegas, Nevada",Las Vegas, Nevada,36.2333,-115.2654
-10/25/2012,"Tampa, Florida",Tampa, Florida,27.9945,-82.4447
-10/25/2012,"Richmond, Virginia",Richmond, Virginia,37.5295,-77.4756
-10/25/2012,"Cleveland, Ohio",Cleveland, Ohio,41.4764,-81.6805
-10/27/2012,"Nashua, New Hampshire",Nashua, New Hampshire,42.7491,-71.491
-11/1/2012,"Green Bay, Wisconsin",Green Bay, Wisconsin,44.5148,-87.9895
-11/1/2012,"Las Vegas, Nevada",Las Vegas, Nevada,36.2333,-115.2654
-11/1/2012,"Boulder, Colorado",Boulder, Colorado,40.0248,-105.2524
-11/2/2012,"Hilliard, Ohio",Hilliard, Ohio,40.0353,-83.1578
-11/2/2012,"Springfield, Ohio",Springfield, Ohio,39.93,-83.7959
-11/2/2012,"Lima, Ohio",Lima, Ohio,40.741,-84.112
-11/3/2012,"Mentor, Ohio",Mentor, Ohio,41.6893,-81.3362
-11/3/2012,"Milwaukee, Wisconsin",Milwaukee, Wisconsin,43.0642,-87.9675
-11/3/2012,"Dubuque, Iowa",Dubuque, Iowa,42.5002,-90.707
-11/3/2012,"Manassas, Virginia",Manassas, Virginia,38.7479,-77.4838
-11/4/2012,"Concord, New Hampshire",Concord, New Hampshire,43.2305,-71.5595
-11/4/2012,"Hollywood, Florida",Hollywood, Florida,26.0293,-80.1679
-11/4/2012,"Cincinnati, Ohio",Cincinnati, Ohio,39.1413,-84.506
-11/4/2012,"Aurora, Colorado",Aurora, Colorado,39.7083,-104.7237
-11/5/2012,"Madison, Wisconsin",Madison, Wisconsin,43.0822,-89.393
-11/5/2012,"Columbus, Ohio",Columbus, Ohio,39.9862,-82.9855
-11/5/2012,"Des Moines, Iowa",Des Moines, Iowa,41.5725,-93.6105
+2012-09-01,"Sioux City, Iowa",Sioux City,Iowa,42.4966815,-96.4058782
+2012-09-01,"Urbandale, Iowa",Urbandale,Iowa,41.6274511,-93.7380243
+2012-09-02,"Boulder, Colorado",Boulder,Colorado,40.0149856,-105.270545
+2012-09-03,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173
+2012-09-04,"Norfolk, Virginia",Norfolk,Virginia,36.8493695,-76.2899539
+2012-09-07,"Iowa City, Iowa",Iowa City,Iowa,41.6683126,-91.57952674093114
+2012-09-07,"Portsmouth, New Hampshire",Portsmouth,New Hampshire,43.0764436,-70.7573936
+2012-09-08,"Kissimmee, Florida",Kissimmee,Florida,28.2918995,-81.4075838
+2012-09-08,"Seminole, Florida",Seminole,Florida,28.7225829,-81.2353683
+2012-09-08,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444
+2012-09-08,"Windermere, Florida",Windermere,Florida,28.4944695,-81.5345547
+2012-09-09,"Cocoa, Florida",Cocoa,Florida,28.3556635,-80.7325345
+2012-09-09,"Fort Pierce, Florida",Fort Pierce,Florida,27.4467056,-80.3256056
+2012-09-09,"Melbourne, Florida",Melbourne,Florida,28.0785034,-80.6077908
+2012-09-09,"Port St. Lucie, Florida",Port St. Lucie,Florida,27.2939333,-80.3503283
+2012-09-09,"West Palm Beach, Florida",West Palm Beach,Florida,26.715364,-80.0532942
+2012-09-12,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516
+2012-09-13,"Golden, Colorado",Golden,Colorado,39.7546349,-105.22058
+2012-09-17,"Cincinnati, Ohio",Cincinnati,Ohio,39.1014537,-84.5124602
+2012-09-17,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065
+2012-09-02,"Miami, Florida",Miami,Florida,25.7741728,-80.19362
+2012-09-21,"Woodbridge, Virginia",Woodbridge,Virginia,38.6361522,-77.26783643627006
+2012-09-22,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751
+2012-09-26,"Bowling Green, Ohio",Bowling Green,Ohio,41.3747744,-83.6513229
+2012-09-26,"Kent, Ohio",Kent,Ohio,41.1513108,-81.3578047
+2012-09-27,"Virginia Beach, Virginia",Virginia Beach,Virginia,36.8496579,-75.9760751
+2012-09-03,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516
+2012-10-01,"Henderson, Nevada",Henderson,Nevada,36.0301134,-114.9826194
+2012-10-04,"Denver, Colorado",Denver,Colorado,39.7392364,-104.984862
+2012-10-04,"Madison, Wisconsin",Madison,Wisconsin,43.074761,-89.3837613
+2012-10-05,"Cleveland, Ohio",Cleveland,Ohio,41.4996574,-81.6936772
+2012-10-05,"Fairfax, Virginia",Fairfax,Virginia,38.8156356,-77.2836849
+2012-10-09,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065
+2012-10-11,"Coral Gables, Florida",Coral Gables,Florida,25.7331105,-80.2585107
+2012-10-14,"Williamsburg, Virginia",Williamsburg,Virginia,37.2708788,-76.7074042
+2012-10-17,"Mount Vernon, Iowa",Mount Vernon,Iowa,41.9222443,-91.4171209
+2012-10-17,"Athens, Ohio",Athens,Ohio,39.3289242,-82.1012479
+2012-10-18,"Manchester, New Hampshire",Manchester,New Hampshire,42.9956397,-71.4547891
+2012-10-19,"Fairfax, Virginia",Fairfax,Virginia,38.8156356,-77.2836849
+2012-10-23,"Delray Beach, Florida",Delray Beach,Florida,26.4614625,-80.0728201
+2012-10-23,"Dayton, Ohio",Dayton,Ohio,39.7589478,-84.1916069
+2012-10-24,"Denver, Colorado",Denver,Colorado,39.7392364,-104.984862
+2012-10-24,"Davenport, Iowa",Davenport,Iowa,41.5235808,-90.5770967
+2012-10-24,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516
+2012-10-25,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444
+2012-10-25,"Chicago, Illinois",Chicago,Illinois,41.8755616,-87.6244212
+2012-10-25,"Cleveland, Ohio",Cleveland,Ohio,41.4996574,-81.6936772
+2012-10-25,"Richmond, Virginia",Richmond,Virginia,37.5385087,-77.43428
+2012-10-27,"Manchester, New Hampshire",Manchester,New Hampshire,42.9956397,-71.4547891
+2012-10-27,"Merrimack, New Hampshire",Merrimack,New Hampshire,43.3260376,-71.6854725
+2012-10-27,"Nashua, New Hampshire",Nashua,New Hampshire,42.7656251,-71.4677032
+2012-10-28,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304
+2012-11-01,"Boulder, Colorado",Boulder,Colorado,40.0149856,-105.270545
+2012-11-01,"North Las Vegas, Nevada",North Las Vegas,Nevada,36.2005843,-115.121584
+2012-11-01,"Green Bay, Wisconsin",Green Bay,Wisconsin,44.5126379,-88.0125794
+2012-11-02,"Hilliard, Ohio",Hilliard,Ohio,40.033814,-83.1596108
+2012-11-02,"Lima, Ohio",Lima,Ohio,40.741735,-84.1156539566922
+2012-11-02,"Springfield, Ohio",Springfield,Ohio,39.9234046,-83.810138
+2012-11-03,"Dubuque, Iowa",Dubuque,Iowa,42.5006243,-90.6647985
+2012-11-03,"Mentor, Ohio",Mentor,Ohio,41.6664781,-81.3399769
+2012-11-03,"Bristow, Virginia",Bristow,Virginia,38.7233263,-77.5365669
+2012-11-03,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751
+2012-11-04,"Aurora, Colorado",Aurora,Colorado,39.7405111,-104.830994
+2012-11-04,"Hollywood, Florida",Hollywood,Florida,26.0112014,-80.1494901
+2012-11-04,"Concord, New Hampshire",Concord,New Hampshire,43.207178,-71.537476
+2012-11-04,"Cincinnati, Ohio",Cincinnati,Ohio,39.1014537,-84.5124602
+2012-11-05,"Des Moines, Iowa",Des Moines,Iowa,41.5868654,-93.6249494
+2012-11-05,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065
+2012-11-05,"Madison, Wisconsin",Madison,Wisconsin,43.074761,-89.3837613
+2012-11-06,"Chicago, Illinois",Chicago,Illinois,41.8755616,-87.6244212

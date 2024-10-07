@@ -1,0 +1,106 @@
+date,location,city,state,lat,lng
+2008-09-01,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007
+2008-09-01,"Monroe, Michigan",Monroe,Michigan,41.9153358,-83.5135665
+2008-09-01,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751
+2008-09-03,"Dillonvale, Ohio",Dillonvale,Ohio,39.216421600000004,-84.40081359059991
+2008-09-03,"New Philadelphia, Ohio",New Philadelphia,Ohio,40.4897871,-81.4456706
+2008-09-04,"Columbia, Pennsylvania",Columbia,Pennsylvania,41.0389186,-76.4191791
+2008-09-04,"Lancaster, Pennsylvania",Lancaster,Pennsylvania,40.08067,-76.2411283
+2008-09-04,"York, Pennsylvania",York,Pennsylvania,39.962493,-76.7276989
+2008-09-05,"Duryea, Pennsylvania",Duryea,Pennsylvania,41.347817,-75.7564267
+2008-09-05,"Wyoming, Pennsylvania",Wyoming,Pennsylvania,41.5179097,-76.019111
+2008-09-06,"Terre Haute, Indiana",Terre Haute,Indiana,39.4667025,-87.4139119
+2008-09-08,"Farmington Hills, Michigan",Farmington Hills,Michigan,42.4853125,-83.3771553
+2008-09-08,"Flint, Michigan",Flint,Michigan,43.0161693,-83.6900211
+2008-09-09,"Riverside, Ohio",Riverside,Ohio,39.7793976,-84.1246358
+2008-09-09,"Abingdon, Virginia",Abingdon,Virginia,36.7104018,-81.975249
+2008-09-09,"Lebanon, Virginia",Lebanon,Virginia,36.9009076,-82.0801257
+2008-09-01,"Norfolk, Virginia",Norfolk,Virginia,36.8493695,-76.2899539
+2008-09-12,"Concord, New Hampshire",Concord,New Hampshire,43.207178,-71.537476
+2008-09-12,"Dover, New Hampshire",Dover,New Hampshire,43.1981117,-70.8739761
+2008-09-13,"Manchester, New Hampshire",Manchester,New Hampshire,42.9956397,-71.4547891
+2008-09-15,"Grand Junction, Colorado",Grand Junction,Colorado,39.0672568,-108.56448
+2008-09-15,"Pueblo, Colorado",Pueblo,Colorado,38.263995,-104.6141867
+2008-09-16,"Golden, Colorado",Golden,Colorado,39.7546349,-105.22058
+2008-09-17,"Elko, Nevada",Elko,Nevada,41.1958128,-115.3272864
+2008-09-17,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516
+2008-09-18,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985
+2008-09-18,"Bernalillo, New Mexico",Bernalillo,New Mexico,35.0349239,-106.6870693
+2008-09-18,"Espanola, New Mexico",Espanola,New Mexico,35.9910962,-106.080835
+2008-09-19,"Coral Gables, Florida",Coral Gables,Florida,25.7331105,-80.2585107
+2008-09-02,"Daytona Beach, Florida",Daytona Beach,Florida,29.2108147,-81.0228331
+2008-09-02,"Jacksonville, Florida",Jacksonville,Florida,30.3321838,-81.655651
+2008-09-21,"Charlotte, North Carolina",Charlotte,North Carolina,35.2272086,-80.8430827
+2008-09-22,"Green Bay, Wisconsin",Green Bay,Wisconsin,44.5126379,-88.0125794
+2008-09-23,"Clearwater, Florida",Clearwater,Florida,27.9658533,-82.8001026
+2008-09-24,"Dunedin, Florida",Dunedin,Florida,28.0116627,-82.7893788
+2008-09-27,"Greensboro, North Carolina",Greensboro,North Carolina,36.0726355,-79.7919754
+2008-09-27,"Fredericksburg, Virginia",Fredericksburg,Virginia,38.3031837,-77.4605399
+2008-09-28,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007
+2008-09-29,"Westminster, Colorado",Westminster,Colorado,39.8366528,-105.0372046
+2008-09-03,"Reno, Nevada",Reno,Nevada,39.5261206,-119.8126581
+2008-10-01,"La Crosse, Wisconsin",La Crosse,Wisconsin,43.8122836,-91.2514355
+2008-10-02,"East Lansing, Michigan",East Lansing,Michigan,42.7320307,-84.4721678
+2008-10-02,"Grand Rapids, Michigan",Grand Rapids,Michigan,42.9632425,-85.6678639
+2008-10-03,"Abington, Pennsylvania",Abington,Pennsylvania,40.1142201,-75.13022997685664
+2008-10-03,"Glenside, Pennsylvania",Glenside,Pennsylvania,40.1001891,-75.1539056
+2008-10-03,"Oreland, Pennsylvania",Oreland,Pennsylvania,40.1184433,-75.1776757
+2008-10-04,"Newport News, Virginia",Newport News,Virginia,37.0914429,-76.5213892
+2008-10-05,"Asheville, North Carolina",Asheville,North Carolina,35.595363,-82.5508407
+2008-10-06,"Asheville, North Carolina",Asheville,North Carolina,35.595363,-82.5508407
+2008-10-08,"Indianapolis, Indiana",Indianapolis,Indiana,39.7683331,-86.1583502
+2008-10-09,"Cincinnati, Ohio",Cincinnati,Ohio,39.1014537,-84.5124602
+2008-10-09,"Dayton, Ohio",Dayton,Ohio,39.7589478,-84.1916069
+2008-10-09,"Georgetown, Ohio",Georgetown,Ohio,38.8645138,-83.9040944
+2008-10-09,"Portsmouth, Ohio",Portsmouth,Ohio,38.7345374,-82.9962742
+2008-10-01,"Chillicothe, Ohio",Chillicothe,Ohio,39.3331197,-82.9824019
+2008-10-01,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065
+2008-10-11,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262
+2008-10-12,"Holland, Ohio",Holland,Ohio,41.621718,-83.711604
+2008-10-13,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173
+2008-10-14,"Oregon, Ohio",Oregon,Ohio,41.6436603,-83.4868768
+2008-10-14,"Perrysburg, Ohio",Perrysburg,Ohio,41.5571178,-83.6279321
+2008-10-14,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173
+2008-10-16,"Londonderry, New Hampshire",Londonderry,New Hampshire,42.8467063,-71.3615507
+2008-10-17,"Roanoke, Virginia",Roanoke,Virginia,37.270973,-79.9414313
+2008-10-18,"Kansas City, Missouri",Kansas City,Missouri,39.100105,-94.5781416
+2008-10-18,"St. Louis, Missouri",St. Louis,Missouri,38.6280278,-90.1910154
+2008-10-19,"Fayetteville, North Carolina",Fayetteville,North Carolina,35.0525759,-78.878292
+2008-10-02,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304
+2008-10-02,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444
+2008-10-21,"Fort Lauderdale, Florida",Fort Lauderdale,Florida,26.1223084,-80.1433786
+2008-10-21,"Hollywood, Florida",Hollywood,Florida,26.0112014,-80.1494901
+2008-10-21,"Lake Worth, Florida",Lake Worth,Florida,26.615891,-80.0691435
+2008-10-21,"Miami, Florida",Miami,Florida,25.7741728,-80.19362
+2008-10-22,"Leesburg, Virginia",Leesburg,Virginia,39.1154506,-77.5645607
+2008-10-22,"Richmond, Virginia",Richmond,Virginia,37.5385087,-77.43428
+2008-10-23,"Indianapolis, Indiana",Indianapolis,Indiana,39.7683331,-86.1583502
+2008-10-25,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516
+2008-10-25,"Reno, Nevada",Reno,Nevada,39.5261206,-119.8126581
+2008-10-25,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985
+2008-10-26,"Brighton, Colorado",Brighton,Colorado,39.983721,-104.8110775
+2008-10-26,"Denver, Colorado",Denver,Colorado,39.7392364,-104.984862
+2008-10-26,"Fort Collins, Colorado",Fort Collins,Colorado,40.5871782,-105.0770113
+2008-10-27,"Canton, Ohio",Canton,Ohio,40.7985464,-81.3749508
+2008-10-27,"Pittsburgh, Pennsylvania",Pittsburgh,Pennsylvania,40.4416941,-79.9900861
+2008-10-28,"Chester, Pennsylvania",Chester,Pennsylvania,39.9829308,-75.7652424
+2008-10-28,"Harrisonburg, Virginia",Harrisonburg,Virginia,38.4493315,-78.8688833
+2008-10-28,"Norfolk, Virginia",Norfolk,Virginia,36.8493695,-76.2899539
+2008-10-29,"Kissimmee, Florida",Kissimmee,Florida,28.2918995,-81.4075838
+2008-10-29,"Sunrise, Florida",Sunrise,Florida,26.1666888,-80.2787573
+2008-10-29,"Raleigh, North Carolina",Raleigh,North Carolina,35.7803977,-78.6390989
+2008-10-03,"Sarasota, Florida",Sarasota,Florida,27.3365805,-82.5308545
+2008-10-03,"Columbia, Missouri",Columbia,Missouri,38.951883,-92.3337366
+2008-10-03,"Virginia Beach, Virginia",Virginia Beach,Virginia,36.8496579,-75.9760751
+2008-10-31,"Highland, Indiana",Highland,Indiana,41.5536529,-87.4520484
+2008-10-31,"Des Moines, Iowa",Des Moines,Iowa,41.5868654,-93.6249494
+2008-11-01,"Pueblo, Colorado",Pueblo,Colorado,38.263995,-104.6141867
+2008-11-01,"Springfield, Missouri",Springfield,Missouri,37.2081729,-93.2922715
+2008-11-01,"Henderson, Nevada",Henderson,Nevada,36.0301134,-114.9826194
+2008-11-02,"Cincinnati, Ohio",Cincinnati,Ohio,39.1014537,-84.5124602
+2008-11-02,"Cleveland, Ohio",Cleveland,Ohio,41.4996574,-81.6936772
+2008-11-02,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065
+2008-11-03,"Jacksonville, Florida",Jacksonville,Florida,30.3321838,-81.655651
+2008-11-03,"Charlotte, North Carolina",Charlotte,North Carolina,35.2272086,-80.8430827
+2008-11-03,"Manassas, Virginia",Manassas,Virginia,38.7509488,-77.4752667
+2008-11-04,"Indianapolis, Indiana",Indianapolis,Indiana,39.7683331,-86.1583502

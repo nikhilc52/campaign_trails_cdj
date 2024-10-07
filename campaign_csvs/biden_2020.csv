@@ -1,0 +1,54 @@
+date,location,city,state,lat,lng
+2020-09-03,"Kenosha, Wisconsin",Kenosha,Wisconsin,42.5846773,-87.8212263
+2020-09-03,"Wauwatosa, Wisconsin",Wauwatosa,Wisconsin,43.0494122,-88.0079271
+2020-09-07,"Harrisburg, Pennsylvania",Harrisburg,Pennsylvania,40.2663107,-76.8861122
+2020-09-07,"Lancaster Township, Pennsylvania",Lancaster Township,Pennsylvania,40.020371,-76.33623642917394
+2020-09-09,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007
+2020-09-09,"Warren, Michigan",Warren,Michigan,42.4932575,-83.0062746
+2020-09-15,"Kissimmee, Florida",Kissimmee,Florida,28.2918995,-81.4075838
+2020-09-15,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444
+2020-09-17,"Moosic, Pennsylvania",Moosic,Pennsylvania,41.353413,-75.7382478
+2020-09-18,"Duluth, Minnesota",Duluth,Minnesota,46.7729322,-92.1251218
+2020-09-18,"Hermantown, Minnesota",Hermantown,Minnesota,46.8068852,-92.2382464
+2020-09-21,"Manitowoc, Wisconsin",Manitowoc,Wisconsin,44.0998341,-87.827992
+2020-09-23,"Charlotte, North Carolina",Charlotte,North Carolina,35.2272086,-80.8430827
+2020-09-03,"Alliance, Ohio",Alliance,Ohio,40.9153362,-81.1059309
+2020-09-03,"Cleveland, Ohio",Cleveland,Ohio,41.4996574,-81.6936772
+2020-09-03,"Greensburg, Pennsylvania",Greensburg,Pennsylvania,40.3014581,-79.5389289
+2020-09-03,"Johnstown, Pennsylvania",Johnstown,Pennsylvania,40.3267407,-78.9219698
+2020-09-03,"Latrobe, Pennsylvania",Latrobe,Pennsylvania,40.317287,-79.3840301
+2020-09-03,"New Alexandria, Pennsylvania",New Alexandria,Pennsylvania,40.3949675,-79.4204948544098
+2020-09-03,"Pittsburgh, Pennsylvania",Pittsburgh,Pennsylvania,40.4416941,-79.9900861
+2020-10-02,"Grand Rapids, Michigan",Grand Rapids,Michigan,42.9632425,-85.6678639
+2020-10-05,"Miami, Florida",Miami,Florida,25.7741728,-80.19362
+2020-10-06,"Gettysburg, Pennsylvania",Gettysburg,Pennsylvania,39.8308973,-77.231012
+2020-10-08,"Phoenix, Arizona",Phoenix,Arizona,33.4484367,-112.074141
+2020-10-08,"Tempe, Arizona",Tempe,Arizona,33.4255117,-111.940016
+2020-10-09,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516
+2020-10-01,"Erie, Pennsylvania",Erie,Pennsylvania,42.1294712,-80.0852695
+2020-10-12,"Cincinnati, Ohio",Cincinnati,Ohio,39.1014537,-84.5124602
+2020-10-12,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173
+2020-10-13,"Miramar, Florida",Miramar,Florida,25.9873137,-80.2322706
+2020-10-13,"Pembroke Pines, Florida",Pembroke Pines,Florida,26.0061943,-80.2872086
+2020-10-15,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262
+2020-10-16,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007
+2020-10-16,"Southfield, Michigan",Southfield,Michigan,42.4733689,-83.2218731
+2020-10-18,"Durham, North Carolina",Durham,North Carolina,35.996653,-78.9018053
+2020-10-24,"Bristol, Pennsylvania",Bristol,Pennsylvania,40.122900200000004,-74.86447057681232
+2020-10-24,"Dallas, Pennsylvania",Dallas,Pennsylvania,41.33617,-75.9632636
+2020-10-26,"Chester, Pennsylvania",Chester,Pennsylvania,39.9829308,-75.7652424
+2020-10-27,"Atlanta, Georgia",Atlanta,Georgia,33.7489924,-84.3902644
+2020-10-27,"Warm Springs, Georgia",Warm Springs,Georgia,32.8904081,-84.6810381
+2020-10-29,"Coconut Creek, Florida",Coconut Creek,Florida,26.271462800000002,-80.18181396580121
+2020-10-29,"Fort Lauderdale, Florida",Fort Lauderdale,Florida,26.1223084,-80.1433786
+2020-10-29,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444
+2020-10-03,"Des Moines, Iowa",Des Moines,Iowa,41.5868654,-93.6249494
+2020-10-03,"St. Paul, Minnesota",St. Paul,Minnesota,44.9497487,-93.0931028
+2020-10-03,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751
+2020-10-31,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007
+2020-10-31,"Flint, Michigan",Flint,Michigan,43.0161693,-83.6900211
+2020-11-01,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262
+2020-11-02,"Cleveland, Ohio",Cleveland,Ohio,41.4996574,-81.6936772
+2020-11-02,"Monaca, Pennsylvania",Monaca,Pennsylvania,40.6872885,-80.2714505
+2020-11-02,"Pittsburgh, Pennsylvania",Pittsburgh,Pennsylvania,40.4416941,-79.9900861
+2020-11-03,"Scranton, Pennsylvania",Scranton,Pennsylvania,41.4086874,-75.6621294

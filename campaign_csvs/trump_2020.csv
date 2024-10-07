@@ -1,0 +1,74 @@
+date,location,city,state,lat,lng
+2020-09-01,"Kenosha, Wisconsin",Kenosha,Wisconsin,42.5846773,-87.8212263
+2020-09-02,"Wilmington, North Carolina",Wilmington,North Carolina,34.2257282,-77.9447107
+2020-09-03,"Latrobe, Pennsylvania",Latrobe,Pennsylvania,40.317287,-79.3840301
+2020-09-08,"Jupiter, Florida",Jupiter,Florida,26.9342246,-80.0942087
+2020-09-08,"Winston-Salem, North Carolina",Winston-Salem,North Carolina,36.0998131,-80.2440518
+2020-09-01,"Freeland, Michigan",Freeland,Michigan,43.5250265,-84.1227598
+2020-09-12,"Minden, Nevada",Minden,Nevada,38.9542487,-119.765617
+2020-09-13,"Henderson, Nevada",Henderson,Nevada,36.0301134,-114.9826194
+2020-09-13,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516
+2020-09-14,"Phoenix, Arizona",Phoenix,Arizona,33.4484367,-112.074141
+2020-09-15,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262
+2020-09-17,"Mosinee, Wisconsin",Mosinee,Wisconsin,44.7927298,-89.7035959
+2020-09-18,"Bemidji, Minnesota",Bemidji,Minnesota,47.4785418,-94.8907869
+2020-09-19,"Fayetteville, North Carolina",Fayetteville,North Carolina,35.0525759,-78.878292
+2020-09-21,"Swanton, Ohio",Swanton,Ohio,41.5906822,-83.8931809
+2020-09-21,"Vandalia, Ohio",Vandalia,Ohio,39.8906122,-84.1988308
+2020-09-22,"Moon Township, Pennsylvania",Moon Township,Pennsylvania,40.506100000000004,-80.2082
+2020-09-24,"Jacksonville, Florida",Jacksonville,Florida,30.3321838,-81.655651
+2020-09-24,"Charlotte, North Carolina",Charlotte,North Carolina,35.2272086,-80.8430827
+2020-09-25,"Doral, Florida",Doral,Florida,25.8184725,-80.35396791309786
+2020-09-25,"Atlanta, Georgia",Atlanta,Georgia,33.7489924,-84.3902644
+2020-09-25,"Newport News, Virginia",Newport News,Virginia,37.0914429,-76.5213892
+2020-09-26,"Middletown, Pennsylvania",Middletown,Pennsylvania,40.1701367,-74.8851959
+2020-09-03,"Duluth, Minnesota",Duluth,Minnesota,46.7729322,-92.1251218
+2020-10-12,"Sanford, Florida",Sanford,Florida,28.8117345,-81.2680223
+2020-10-13,"Johnstown, Pennsylvania",Johnstown,Pennsylvania,40.3267407,-78.9219698
+2020-10-14,"Des Moines, Iowa",Des Moines,Iowa,41.5868654,-93.6249494
+2020-10-15,"Miami, Florida",Miami,Florida,25.7741728,-80.19362
+2020-10-15,"Greenville, North Carolina",Greenville,North Carolina,35.613224,-77.3724593
+2020-10-16,"Fort Myers, Florida",Fort Myers,Florida,26.640628,-81.8723084
+2020-10-16,"Ocala, Florida",Ocala,Florida,29.1871986,-82.1400923
+2020-10-16,"Macon, Georgia",Macon,Georgia,32.8406946,-83.6324022
+2020-10-17,"Muskegon, Michigan",Muskegon,Michigan,43.2484584,-86.129351
+2020-10-17,"Janesville, Wisconsin",Janesville,Wisconsin,42.6829765,-89.0226793
+2020-10-18,"Carson City, Nevada",Carson City,Nevada,39.1698022,-119.7575628
+2020-10-18,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516
+2020-10-19,"Prescott, Arizona",Prescott,Arizona,34.539984,-112.468812
+2020-10-19,"Tucson, Arizona",Tucson,Arizona,32.2228765,-110.974847
+2020-10-02,"Erie, Pennsylvania",Erie,Pennsylvania,42.1294712,-80.0852695
+2020-10-21,"Gastonia, North Carolina",Gastonia,North Carolina,35.2622654,-81.1838186
+2020-10-23,"Pensacola, Florida",Pensacola,Florida,30.421309,-87.2169149
+2020-10-23,"The Villages, Florida",The Villages,Florida,28.8759024,-81.98457902636167
+2020-10-24,"Lumberton, North Carolina",Lumberton,North Carolina,34.6183305,-79.008205
+2020-10-24,"Circleville, Ohio",Circleville,Ohio,39.600618,-82.9460133
+2020-10-24,"Waukesha, Wisconsin",Waukesha,Wisconsin,43.0622536,-88.3123889
+2020-10-25,"Levant, Maine",Levant,Maine,44.869496,-68.935089
+2020-10-25,"Londonderry, New Hampshire",Londonderry,New Hampshire,42.8467063,-71.3615507
+2020-10-26,"Hanover Township, Pennsylvania",Hanover Township,Pennsylvania,40.65140635,-75.44067895874832
+2020-10-26,"Lititz, Pennsylvania",Lititz,Pennsylvania,40.1571324,-76.307162
+2020-10-26,"Martinsburg, Pennsylvania",Martinsburg,Pennsylvania,40.3111875,-78.3241796
+2020-10-27,"Lansing, Michigan",Lansing,Michigan,42.7338254,-84.5546295
+2020-10-27,"Omaha, Nebraska",Omaha,Nebraska,41.2587459,-95.9383758
+2020-10-27,"West Salem, Wisconsin",West Salem,Wisconsin,43.8980198,-91.0813561
+2020-10-28,"Bullhead City, Arizona",Bullhead City,Arizona,35.1477774,-114.568298
+2020-10-28,"Phoenix, Arizona",Phoenix,Arizona,33.4484367,-112.074141
+2020-10-29,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444
+2020-10-03,"Waterford Township, Michigan",Waterford Township,Michigan,42.6706391,-83.3896241
+2020-10-03,"Rochester, Minnesota",Rochester,Minnesota,44.0234387,-92.4630182
+2020-10-03,"Green Bay, Wisconsin",Green Bay,Wisconsin,44.5126379,-88.0125794
+2020-10-31,"Bern Township, Pennsylvania",Bern Township,Pennsylvania,40.4010502,-75.99986739678769
+2020-10-31,"Butler, Pennsylvania",Butler,Pennsylvania,40.86108,-79.895197
+2020-10-31,"Montoursville, Pennsylvania",Montoursville,Pennsylvania,41.2495431,-76.9267035
+2020-10-31,"Upper Makefield Township, Pennsylvania",Upper Makefield Township,Pennsylvania,40.2939645,-74.9171755
+2020-11-01,"Opa-locka, Florida",Opa-locka,Florida,25.9023168,-80.2503271
+2020-11-01,"Rome, Georgia",Rome,Georgia,34.257038,-85.1646726
+2020-11-01,"Dubuque, Iowa",Dubuque,Iowa,42.5006243,-90.6647985
+2020-11-01,"Washington Township, Michigan",Washington Township,Michigan,43.382429200000004,-82.68849726539784
+2020-11-01,"Hickory, North Carolina",Hickory,North Carolina,35.7333312,-81.3442915
+2020-11-02,"Grand Rapids, Michigan",Grand Rapids,Michigan,42.9632425,-85.6678639
+2020-11-02,"Traverse City, Michigan",Traverse City,Michigan,44.7606481,-85.6165976
+2020-11-02,"Fayetteville, North Carolina",Fayetteville,North Carolina,35.0525759,-78.878292
+2020-11-02,"Pittston, Pennsylvania",Pittston,Pennsylvania,41.3259134,-75.7893604
+2020-11-02,"Kenosha, Wisconsin",Kenosha,Wisconsin,42.5846773,-87.8212263
