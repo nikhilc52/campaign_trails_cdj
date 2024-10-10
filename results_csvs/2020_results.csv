@@ -1,0 +1,53 @@
+state,electoral_votes,biden_2020,trump_2020,winner_2020
+Alabama,9,0,9,Trump
+Alaska,3,0,3,Trump
+Arizona,11,11,0,Biden
+Arkansas,6,0,6,Trump
+California,55,55,0,Biden
+Colorado,9,9,0,Biden
+Connecticut,7,7,0,Biden
+Delaware,3,3,0,Biden
+District of Columbia,3,3,0,Biden
+Florida,29,0,29,Trump
+Georgia,16,16,0,Biden
+Hawaii,4,4,0,Biden
+Idaho,4,0,4,Trump
+Illinois,20,20,0,Biden
+Indiana,11,0,11,Trump
+Iowa,6,0,6,Trump
+Kansas,6,0,6,Trump
+Kentucky,8,0,8,Trump
+Louisiana,8,0,8,Trump
+Maine,4,3,1,Biden
+Maryland,10,10,0,Biden
+Massachusetts,11,11,0,Biden
+Michigan,16,16,0,Biden
+Minnesota,10,10,0,Biden
+Mississippi,6,0,6,Trump
+Missouri,10,0,10,Trump
+Montana,3,0,3,Trump
+Nebraska,5,1,4,Trump
+Nevada,6,6,0,Biden
+New Hampshire,4,4,0,Biden
+New Jersey,14,14,0,Biden
+New Mexico,5,5,0,Biden
+New York,29,29,0,Biden
+North Carolina,15,0,15,Trump
+North Dakota,3,0,3,Trump
+Ohio,18,0,18,Trump
+Oklahoma,7,0,7,Trump
+Oregon,7,7,0,Biden
+Pennsylvania,20,20,0,Biden
+Rhode Island,4,4,0,Biden
+South Carolina,9,0,9,Trump
+South Dakota,3,0,3,Trump
+Tennessee,11,0,11,Trump
+Texas,38,0,38,Trump
+Utah,6,0,6,Trump
+Vermont,3,3,0,Biden
+Virginia,13,13,0,Biden
+Washington,12,12,0,Biden
+West Virginia,5,0,5,Trump
+Wisconsin,10,10,0,Biden
+Wyoming,3,0,3,Trump
+Total,538,306,232,Biden

@@ -1,0 +1,53 @@
+state,electoral_votes,bush_2004,kerry_2004,winner_2004
+Alabama,9,9,0,Bush
+Alaska,3,3,0,Bush
+Arizona,10,10,0,Bush
+Arkansas,6,6,0,Bush
+California,55,0,55,Kerry
+Colorado,9,9,0,Bush
+Connecticut,7,0,7,Kerry
+Delaware,3,0,3,Kerry
+District of Columbia,3,0,3,Kerry
+Florida,27,27,0,Bush
+Georgia,15,15,0,Bush
+Hawaii,4,0,4,Kerry
+Idaho,4,4,0,Bush
+Illinois,21,0,21,Kerry
+Indiana,11,11,0,Bush
+Iowa,7,7,0,Bush
+Kansas,6,6,0,Bush
+Kentucky,8,8,0,Bush
+Louisiana,9,9,0,Bush
+Maine,4,0,4,Kerry
+Maryland,10,0,10,Kerry
+Massachusetts,12,0,12,Kerry
+Michigan,17,0,17,Kerry
+Minnesota,10,0,9,Kerry
+Mississippi,6,6,0,Bush
+Missouri,11,11,0,Bush
+Montana,3,3,0,Bush
+Nebraska,5,5,0,Bush
+Nevada,5,5,0,Bush
+New Hampshire,4,0,4,Kerry
+New Jersey,15,0,15,Kerry
+New Mexico,5,5,0,Bush
+New York,31,0,31,Kerry
+North Carolina,15,15,0,Bush
+North Dakota,3,3,0,Bush
+Ohio,20,20,0,Bush
+Oklahoma,7,7,0,Bush
+Oregon,7,0,7,Kerry
+Pennsylvania,21,0,21,Kerry
+Rhode Island,4,0,4,Kerry
+South Carolina,8,8,0,Bush
+South Dakota,3,3,0,Bush
+Tennessee,11,11,0,Bush
+Texas,34,34,0,Bush
+Utah,5,5,0,Bush
+Vermont,3,0,3,Kerry
+Virginia,13,13,0,Bush
+Washington,11,0,11,Kerry
+West Virginia,5,5,0,Bush
+Wisconsin,10,0,10,Kerry
+Wyoming,3,3,0,Bush
+Total,538,286,251,Bush

@@ -1,0 +1,922 @@
+date,location,city,state,lat,lng,candidate,year,candidate_party
+2020-09-01,"Kenosha, Wisconsin",Kenosha,Wisconsin,42.5846773,-87.8212263,Trump,2020,Republican
+2020-09-02,"Wilmington, North Carolina",Wilmington,North Carolina,34.2257282,-77.9447107,Trump,2020,Republican
+2020-09-03,"Latrobe, Pennsylvania",Latrobe,Pennsylvania,40.317287,-79.3840301,Trump,2020,Republican
+2020-09-08,"Jupiter, Florida",Jupiter,Florida,26.9342246,-80.0942087,Trump,2020,Republican
+2020-09-08,"Winston-Salem, North Carolina",Winston-Salem,North Carolina,36.0998131,-80.2440518,Trump,2020,Republican
+2020-09-01,"Freeland, Michigan",Freeland,Michigan,43.5250265,-84.1227598,Trump,2020,Republican
+2020-09-12,"Minden, Nevada",Minden,Nevada,38.9542487,-119.765617,Trump,2020,Republican
+2020-09-13,"Henderson, Nevada",Henderson,Nevada,36.0301134,-114.9826194,Trump,2020,Republican
+2020-09-13,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516,Trump,2020,Republican
+2020-09-14,"Phoenix, Arizona",Phoenix,Arizona,33.4484367,-112.074141,Trump,2020,Republican
+2020-09-15,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262,Trump,2020,Republican
+2020-09-17,"Mosinee, Wisconsin",Mosinee,Wisconsin,44.7927298,-89.7035959,Trump,2020,Republican
+2020-09-18,"Bemidji, Minnesota",Bemidji,Minnesota,47.4785418,-94.8907869,Trump,2020,Republican
+2020-09-19,"Fayetteville, North Carolina",Fayetteville,North Carolina,35.0525759,-78.878292,Trump,2020,Republican
+2020-09-21,"Swanton, Ohio",Swanton,Ohio,41.5906822,-83.8931809,Trump,2020,Republican
+2020-09-21,"Vandalia, Ohio",Vandalia,Ohio,39.8906122,-84.1988308,Trump,2020,Republican
+2020-09-22,"Moon Township, Pennsylvania",Moon Township,Pennsylvania,40.506100000000004,-80.2082,Trump,2020,Republican
+2020-09-24,"Jacksonville, Florida",Jacksonville,Florida,30.3321838,-81.655651,Trump,2020,Republican
+2020-09-24,"Charlotte, North Carolina",Charlotte,North Carolina,35.2272086,-80.8430827,Trump,2020,Republican
+2020-09-25,"Doral, Florida",Doral,Florida,25.8184725,-80.35396791309786,Trump,2020,Republican
+2020-09-25,"Atlanta, Georgia",Atlanta,Georgia,33.7489924,-84.3902644,Trump,2020,Republican
+2020-09-25,"Newport News, Virginia",Newport News,Virginia,37.0914429,-76.5213892,Trump,2020,Republican
+2020-09-26,"Middletown, Pennsylvania",Middletown,Pennsylvania,40.1701367,-74.8851959,Trump,2020,Republican
+2020-09-03,"Duluth, Minnesota",Duluth,Minnesota,46.7729322,-92.1251218,Trump,2020,Republican
+2020-10-12,"Sanford, Florida",Sanford,Florida,28.8117345,-81.2680223,Trump,2020,Republican
+2020-10-13,"Johnstown, Pennsylvania",Johnstown,Pennsylvania,40.3267407,-78.9219698,Trump,2020,Republican
+2020-10-14,"Des Moines, Iowa",Des Moines,Iowa,41.5868654,-93.6249494,Trump,2020,Republican
+2020-10-15,"Miami, Florida",Miami,Florida,25.7741728,-80.19362,Trump,2020,Republican
+2020-10-15,"Greenville, North Carolina",Greenville,North Carolina,35.613224,-77.3724593,Trump,2020,Republican
+2020-10-16,"Fort Myers, Florida",Fort Myers,Florida,26.640628,-81.8723084,Trump,2020,Republican
+2020-10-16,"Ocala, Florida",Ocala,Florida,29.1871986,-82.1400923,Trump,2020,Republican
+2020-10-16,"Macon, Georgia",Macon,Georgia,32.8406946,-83.6324022,Trump,2020,Republican
+2020-10-17,"Muskegon, Michigan",Muskegon,Michigan,43.2484584,-86.129351,Trump,2020,Republican
+2020-10-17,"Janesville, Wisconsin",Janesville,Wisconsin,42.6829765,-89.0226793,Trump,2020,Republican
+2020-10-18,"Carson City, Nevada",Carson City,Nevada,39.1698022,-119.7575628,Trump,2020,Republican
+2020-10-18,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516,Trump,2020,Republican
+2020-10-19,"Prescott, Arizona",Prescott,Arizona,34.539984,-112.468812,Trump,2020,Republican
+2020-10-19,"Tucson, Arizona",Tucson,Arizona,32.2228765,-110.974847,Trump,2020,Republican
+2020-10-02,"Erie, Pennsylvania",Erie,Pennsylvania,42.1294712,-80.0852695,Trump,2020,Republican
+2020-10-21,"Gastonia, North Carolina",Gastonia,North Carolina,35.2622654,-81.1838186,Trump,2020,Republican
+2020-10-23,"Pensacola, Florida",Pensacola,Florida,30.421309,-87.2169149,Trump,2020,Republican
+2020-10-23,"The Villages, Florida",The Villages,Florida,28.8759024,-81.98457902636167,Trump,2020,Republican
+2020-10-24,"Lumberton, North Carolina",Lumberton,North Carolina,34.6183305,-79.008205,Trump,2020,Republican
+2020-10-24,"Circleville, Ohio",Circleville,Ohio,39.600618,-82.9460133,Trump,2020,Republican
+2020-10-24,"Waukesha, Wisconsin",Waukesha,Wisconsin,43.0622536,-88.3123889,Trump,2020,Republican
+2020-10-25,"Levant, Maine",Levant,Maine,44.869496,-68.935089,Trump,2020,Republican
+2020-10-25,"Londonderry, New Hampshire",Londonderry,New Hampshire,42.8467063,-71.3615507,Trump,2020,Republican
+2020-10-26,"Hanover Township, Pennsylvania",Hanover Township,Pennsylvania,40.65140635,-75.44067895874832,Trump,2020,Republican
+2020-10-26,"Lititz, Pennsylvania",Lititz,Pennsylvania,40.1571324,-76.307162,Trump,2020,Republican
+2020-10-26,"Martinsburg, Pennsylvania",Martinsburg,Pennsylvania,40.3111875,-78.3241796,Trump,2020,Republican
+2020-10-27,"Lansing, Michigan",Lansing,Michigan,42.7338254,-84.5546295,Trump,2020,Republican
+2020-10-27,"Omaha, Nebraska",Omaha,Nebraska,41.2587459,-95.9383758,Trump,2020,Republican
+2020-10-27,"West Salem, Wisconsin",West Salem,Wisconsin,43.8980198,-91.0813561,Trump,2020,Republican
+2020-10-28,"Bullhead City, Arizona",Bullhead City,Arizona,35.1477774,-114.568298,Trump,2020,Republican
+2020-10-28,"Phoenix, Arizona",Phoenix,Arizona,33.4484367,-112.074141,Trump,2020,Republican
+2020-10-29,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444,Trump,2020,Republican
+2020-10-03,"Waterford Township, Michigan",Waterford Township,Michigan,42.6706391,-83.3896241,Trump,2020,Republican
+2020-10-03,"Rochester, Minnesota",Rochester,Minnesota,44.0234387,-92.4630182,Trump,2020,Republican
+2020-10-03,"Green Bay, Wisconsin",Green Bay,Wisconsin,44.5126379,-88.0125794,Trump,2020,Republican
+2020-10-31,"Bern Township, Pennsylvania",Bern Township,Pennsylvania,40.4010502,-75.99986739678769,Trump,2020,Republican
+2020-10-31,"Butler, Pennsylvania",Butler,Pennsylvania,40.86108,-79.895197,Trump,2020,Republican
+2020-10-31,"Montoursville, Pennsylvania",Montoursville,Pennsylvania,41.2495431,-76.9267035,Trump,2020,Republican
+2020-10-31,"Upper Makefield Township, Pennsylvania",Upper Makefield Township,Pennsylvania,40.2939645,-74.9171755,Trump,2020,Republican
+2020-11-01,"Opa-locka, Florida",Opa-locka,Florida,25.9023168,-80.2503271,Trump,2020,Republican
+2020-11-01,"Rome, Georgia",Rome,Georgia,34.257038,-85.1646726,Trump,2020,Republican
+2020-11-01,"Dubuque, Iowa",Dubuque,Iowa,42.5006243,-90.6647985,Trump,2020,Republican
+2020-11-01,"Washington Township, Michigan",Washington Township,Michigan,43.3824292,-82.68849726539784,Trump,2020,Republican
+2020-11-01,"Hickory, North Carolina",Hickory,North Carolina,35.7333312,-81.3442915,Trump,2020,Republican
+2020-11-02,"Grand Rapids, Michigan",Grand Rapids,Michigan,42.9632425,-85.6678639,Trump,2020,Republican
+2020-11-02,"Traverse City, Michigan",Traverse City,Michigan,44.7606481,-85.6165976,Trump,2020,Republican
+2020-11-02,"Fayetteville, North Carolina",Fayetteville,North Carolina,35.0525759,-78.878292,Trump,2020,Republican
+2020-11-02,"Pittston, Pennsylvania",Pittston,Pennsylvania,41.3259134,-75.7893604,Trump,2020,Republican
+2020-11-02,"Kenosha, Wisconsin",Kenosha,Wisconsin,42.5846773,-87.8212263,Trump,2020,Republican
+2020-09-03,"Kenosha, Wisconsin",Kenosha,Wisconsin,42.5846773,-87.8212263,Biden,2020,Democrat
+2020-09-03,"Wauwatosa, Wisconsin",Wauwatosa,Wisconsin,43.0494122,-88.0079271,Biden,2020,Democrat
+2020-09-07,"Harrisburg, Pennsylvania",Harrisburg,Pennsylvania,40.2663107,-76.8861122,Biden,2020,Democrat
+2020-09-07,"Lancaster Township, Pennsylvania",Lancaster Township,Pennsylvania,40.020371,-76.33623642917394,Biden,2020,Democrat
+2020-09-09,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007,Biden,2020,Democrat
+2020-09-09,"Warren, Michigan",Warren,Michigan,42.4932575,-83.0062746,Biden,2020,Democrat
+2020-09-15,"Kissimmee, Florida",Kissimmee,Florida,28.2918995,-81.4075838,Biden,2020,Democrat
+2020-09-15,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444,Biden,2020,Democrat
+2020-09-17,"Moosic, Pennsylvania",Moosic,Pennsylvania,41.353413,-75.7382478,Biden,2020,Democrat
+2020-09-18,"Duluth, Minnesota",Duluth,Minnesota,46.7729322,-92.1251218,Biden,2020,Democrat
+2020-09-18,"Hermantown, Minnesota",Hermantown,Minnesota,46.8068852,-92.2382464,Biden,2020,Democrat
+2020-09-21,"Manitowoc, Wisconsin",Manitowoc,Wisconsin,44.0998341,-87.827992,Biden,2020,Democrat
+2020-09-23,"Charlotte, North Carolina",Charlotte,North Carolina,35.2272086,-80.8430827,Biden,2020,Democrat
+2020-09-03,"Alliance, Ohio",Alliance,Ohio,40.9153362,-81.1059309,Biden,2020,Democrat
+2020-09-03,"Cleveland, Ohio",Cleveland,Ohio,41.4996574,-81.6936772,Biden,2020,Democrat
+2020-09-03,"Greensburg, Pennsylvania",Greensburg,Pennsylvania,40.3014581,-79.5389289,Biden,2020,Democrat
+2020-09-03,"Johnstown, Pennsylvania",Johnstown,Pennsylvania,40.3267407,-78.9219698,Biden,2020,Democrat
+2020-09-03,"Latrobe, Pennsylvania",Latrobe,Pennsylvania,40.317287,-79.3840301,Biden,2020,Democrat
+2020-09-03,"New Alexandria, Pennsylvania",New Alexandria,Pennsylvania,40.3949675,-79.4204948544098,Biden,2020,Democrat
+2020-09-03,"Pittsburgh, Pennsylvania",Pittsburgh,Pennsylvania,40.4416941,-79.9900861,Biden,2020,Democrat
+2020-10-02,"Grand Rapids, Michigan",Grand Rapids,Michigan,42.9632425,-85.6678639,Biden,2020,Democrat
+2020-10-05,"Miami, Florida",Miami,Florida,25.7741728,-80.19362,Biden,2020,Democrat
+2020-10-06,"Gettysburg, Pennsylvania",Gettysburg,Pennsylvania,39.8308973,-77.231012,Biden,2020,Democrat
+2020-10-08,"Phoenix, Arizona",Phoenix,Arizona,33.4484367,-112.074141,Biden,2020,Democrat
+2020-10-08,"Tempe, Arizona",Tempe,Arizona,33.4255117,-111.940016,Biden,2020,Democrat
+2020-10-09,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516,Biden,2020,Democrat
+2020-10-01,"Erie, Pennsylvania",Erie,Pennsylvania,42.1294712,-80.0852695,Biden,2020,Democrat
+2020-10-12,"Cincinnati, Ohio",Cincinnati,Ohio,39.1014537,-84.5124602,Biden,2020,Democrat
+2020-10-12,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173,Biden,2020,Democrat
+2020-10-13,"Miramar, Florida",Miramar,Florida,25.9873137,-80.2322706,Biden,2020,Democrat
+2020-10-13,"Pembroke Pines, Florida",Pembroke Pines,Florida,26.0061943,-80.2872086,Biden,2020,Democrat
+2020-10-15,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262,Biden,2020,Democrat
+2020-10-16,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007,Biden,2020,Democrat
+2020-10-16,"Southfield, Michigan",Southfield,Michigan,42.4733689,-83.2218731,Biden,2020,Democrat
+2020-10-18,"Durham, North Carolina",Durham,North Carolina,35.996653,-78.9018053,Biden,2020,Democrat
+2020-10-24,"Bristol, Pennsylvania",Bristol,Pennsylvania,40.1229002,-74.86447057681232,Biden,2020,Democrat
+2020-10-24,"Dallas, Pennsylvania",Dallas,Pennsylvania,41.33617,-75.9632636,Biden,2020,Democrat
+2020-10-26,"Chester, Pennsylvania",Chester,Pennsylvania,39.9829308,-75.7652424,Biden,2020,Democrat
+2020-10-27,"Atlanta, Georgia",Atlanta,Georgia,33.7489924,-84.3902644,Biden,2020,Democrat
+2020-10-27,"Warm Springs, Georgia",Warm Springs,Georgia,32.8904081,-84.6810381,Biden,2020,Democrat
+2020-10-29,"Coconut Creek, Florida",Coconut Creek,Florida,26.2714628,-80.18181396580121,Biden,2020,Democrat
+2020-10-29,"Fort Lauderdale, Florida",Fort Lauderdale,Florida,26.1223084,-80.1433786,Biden,2020,Democrat
+2020-10-29,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444,Biden,2020,Democrat
+2020-10-03,"Des Moines, Iowa",Des Moines,Iowa,41.5868654,-93.6249494,Biden,2020,Democrat
+2020-10-03,"St. Paul, Minnesota",St. Paul,Minnesota,44.9497487,-93.0931028,Biden,2020,Democrat
+2020-10-03,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751,Biden,2020,Democrat
+2020-10-31,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007,Biden,2020,Democrat
+2020-10-31,"Flint, Michigan",Flint,Michigan,43.0161693,-83.6900211,Biden,2020,Democrat
+2020-11-01,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262,Biden,2020,Democrat
+2020-11-02,"Cleveland, Ohio",Cleveland,Ohio,41.4996574,-81.6936772,Biden,2020,Democrat
+2020-11-02,"Monaca, Pennsylvania",Monaca,Pennsylvania,40.6872885,-80.2714505,Biden,2020,Democrat
+2020-11-02,"Pittsburgh, Pennsylvania",Pittsburgh,Pennsylvania,40.4416941,-79.9900861,Biden,2020,Democrat
+2020-11-03,"Scranton, Pennsylvania",Scranton,Pennsylvania,41.4086874,-75.6621294,Biden,2020,Democrat
+2016-09-05,"Hampton, Illinois",Hampton,Illinois,41.5561473,-90.4096858,Clinton,2016,Democrat
+2016-09-05,"Cleveland, Ohio",Cleveland,Ohio,41.4996574,-81.6936772,Clinton,2016,Democrat
+2016-09-06,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444,Clinton,2016,Democrat
+2016-09-08,"Charlotte, North Carolina",Charlotte,North Carolina,35.2272086,-80.8430827,Clinton,2016,Democrat
+2016-09-15,"Greensboro, North Carolina",Greensboro,North Carolina,36.0726355,-79.7919754,Clinton,2016,Democrat
+2016-09-19,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262,Clinton,2016,Democrat
+2016-09-21,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304,Clinton,2016,Democrat
+2016-09-27,"Raleigh, North Carolina",Raleigh,North Carolina,35.7803977,-78.6390989,Clinton,2016,Democrat
+2016-09-28,"Durham, New Hampshire",Durham,New Hampshire,43.134564,-70.927048,Clinton,2016,Democrat
+2016-09-29,"Des Moines, Iowa",Des Moines,Iowa,41.5868654,-93.6249494,Clinton,2016,Democrat
+2016-09-03,"Coral Springs, Florida",Coral Springs,Florida,26.271192,-80.2706044,Clinton,2016,Democrat
+2016-09-03,"Fort Pierce, Florida",Fort Pierce,Florida,27.4467056,-80.3256056,Clinton,2016,Democrat
+2016-10-02,"Charlotte, North Carolina",Charlotte,North Carolina,35.2272086,-80.8430827,Clinton,2016,Democrat
+2016-10-03,"Akron, Ohio",Akron,Ohio,41.083064,-81.518485,Clinton,2016,Democrat
+2016-10-03,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173,Clinton,2016,Democrat
+2016-10-04,"Harrisburg, Pennsylvania",Harrisburg,Pennsylvania,40.2663107,-76.8861122,Clinton,2016,Democrat
+2016-10-04,"Haverford, Pennsylvania",Haverford,Pennsylvania,40.0131672,-75.2943516,Clinton,2016,Democrat
+2016-10-01,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007,Clinton,2016,Democrat
+2016-10-01,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065,Clinton,2016,Democrat
+2016-10-11,"Miami, Florida",Miami,Florida,25.7741728,-80.19362,Clinton,2016,Democrat
+2016-10-12,"Pueblo, Colorado",Pueblo,Colorado,38.263995,-104.6141867,Clinton,2016,Democrat
+2016-10-12,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516,Clinton,2016,Democrat
+2016-10-21,"Highland Hills, Ohio",Highland Hills,Ohio,41.448387,-81.51901,Clinton,2016,Democrat
+2016-10-22,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262,Clinton,2016,Democrat
+2016-10-22,"Pittsburgh, Pennsylvania",Pittsburgh,Pennsylvania,40.4416941,-79.9900861,Clinton,2016,Democrat
+2016-10-23,"Charlotte, North Carolina",Charlotte,North Carolina,35.2272086,-80.8430827,Clinton,2016,Democrat
+2016-10-23,"Durham, North Carolina",Durham,North Carolina,35.996653,-78.9018053,Clinton,2016,Democrat
+2016-10-23,"Raleigh, North Carolina",Raleigh,North Carolina,35.7803977,-78.6390989,Clinton,2016,Democrat
+2016-10-24,"Manchester, New Hampshire",Manchester,New Hampshire,42.9956397,-71.4547891,Clinton,2016,Democrat
+2016-10-25,"Coconut Creek, Florida",Coconut Creek,Florida,26.2714628,-80.18181396580121,Clinton,2016,Democrat
+2016-10-26,"Lake Worth, Florida",Lake Worth,Florida,26.615891,-80.0691435,Clinton,2016,Democrat
+2016-10-26,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444,Clinton,2016,Democrat
+2016-10-27,"Greensboro, North Carolina",Greensboro,North Carolina,36.0726355,-79.7919754,Clinton,2016,Democrat
+2016-10-27,"Winston-Salem, North Carolina",Winston-Salem,North Carolina,36.0998131,-80.2440518,Clinton,2016,Democrat
+2016-10-28,"Cedar Rapids, Iowa",Cedar Rapids,Iowa,41.9758872,-91.6704053,Clinton,2016,Democrat
+2016-10-28,"Des Moines, Iowa",Des Moines,Iowa,41.5868654,-93.6249494,Clinton,2016,Democrat
+2016-10-29,"Daytona Beach, Florida",Daytona Beach,Florida,29.2108147,-81.0228331,Clinton,2016,Democrat
+2016-10-29,"Miami, Florida",Miami,Florida,25.7741728,-80.19362,Clinton,2016,Democrat
+2016-10-03,"Fort Lauderdale, Florida",Fort Lauderdale,Florida,26.1223084,-80.1433786,Clinton,2016,Democrat
+2016-10-03,"Wilton Manors, Florida",Wilton Manors,Florida,26.1603626,-80.138934,Clinton,2016,Democrat
+2016-10-31,"Cincinnati, Ohio",Cincinnati,Ohio,39.1014537,-84.5124602,Clinton,2016,Democrat
+2016-10-31,"Cleveland, Ohio",Cleveland,Ohio,41.4996574,-81.6936772,Clinton,2016,Democrat
+2016-10-31,"Kent, Ohio",Kent,Ohio,41.1513108,-81.3578047,Clinton,2016,Democrat
+2016-11-01,"Dade City, Florida",Dade City,Florida,28.3647248,-82.1959178,Clinton,2016,Democrat
+2016-11-01,"Fort Lauderdale, Florida",Fort Lauderdale,Florida,26.1223084,-80.1433786,Clinton,2016,Democrat
+2016-11-01,"Sanford, Florida",Sanford,Florida,28.8117345,-81.2680223,Clinton,2016,Democrat
+2016-11-02,"Tempe, Arizona",Tempe,Arizona,33.4255117,-111.940016,Clinton,2016,Democrat
+2016-11-02,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516,Clinton,2016,Democrat
+2016-11-02,"North Las Vegas, Nevada",North Las Vegas,Nevada,36.2005843,-115.121584,Clinton,2016,Democrat
+2016-11-03,"Durham, North Carolina",Durham,North Carolina,35.996653,-78.9018053,Clinton,2016,Democrat
+2016-11-03,"Raleigh, North Carolina",Raleigh,North Carolina,35.7803977,-78.6390989,Clinton,2016,Democrat
+2016-11-03,"Winterville, North Carolina",Winterville,North Carolina,35.5290511,-77.4010762,Clinton,2016,Democrat
+2016-11-04,"Dearborn, Michigan",Dearborn,Michigan,42.3222599,-83.1763145,Clinton,2016,Democrat
+2016-11-04,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007,Clinton,2016,Democrat
+2016-11-04,"Cleveland, Ohio",Cleveland,Ohio,41.4996574,-81.6936772,Clinton,2016,Democrat
+2016-11-04,"Pittsburgh, Pennsylvania",Pittsburgh,Pennsylvania,40.4416941,-79.9900861,Clinton,2016,Democrat
+2016-11-05,"Miami, Florida",Miami,Florida,25.7741728,-80.19362,Clinton,2016,Democrat
+2016-11-05,"Pembroke Pines, Florida",Pembroke Pines,Florida,26.0061943,-80.2872086,Clinton,2016,Democrat
+2016-11-05,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262,Clinton,2016,Democrat
+2016-11-06,"Manchester, New Hampshire",Manchester,New Hampshire,42.9956397,-71.4547891,Clinton,2016,Democrat
+2016-11-06,"Cleveland, Ohio",Cleveland,Ohio,41.4996574,-81.6936772,Clinton,2016,Democrat
+2016-11-06,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262,Clinton,2016,Democrat
+2016-11-07,"Allendale Charter Township, Michigan",Allendale Charter Township,Michigan,42.982786,-85.94981414122381,Clinton,2016,Democrat
+2016-11-07,"Raleigh, North Carolina",Raleigh,North Carolina,35.7803977,-78.6390989,Clinton,2016,Democrat
+2016-11-07,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262,Clinton,2016,Democrat
+2016-11-07,"Pittsburgh, Pennsylvania",Pittsburgh,Pennsylvania,40.4416941,-79.9900861,Clinton,2016,Democrat
+2016-09-01,"Wilmington, Ohio",Wilmington,Ohio,39.4453393,-83.8285375,Trump,2016,Republican
+2016-09-03,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007,Trump,2016,Republican
+2016-09-05,"Brook Park, Ohio",Brook Park,Ohio,41.3983838,-81.8045788,Trump,2016,Republican
+2016-09-05,"Canfield, Ohio",Canfield,Ohio,41.025059,-80.760912,Trump,2016,Republican
+2016-09-06,"Greenville, North Carolina",Greenville,North Carolina,35.613224,-77.3724593,Trump,2016,Republican
+2016-09-06,"Virginia Beach, Virginia",Virginia Beach,Virginia,36.8496579,-75.9760751,Trump,2016,Republican
+2016-09-07,"New York City, New York",New York City,New York,40.7127281,-74.0060152,Trump,2016,Republican
+2016-09-07,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262,Trump,2016,Republican
+2016-09-08,"Cleveland, Ohio",Cleveland,Ohio,41.4996574,-81.6936772,Trump,2016,Republican
+2016-09-09,"Pensacola, Florida",Pensacola,Florida,30.421309,-87.2169149,Trump,2016,Republican
+2016-09-12,"Asheville, North Carolina",Asheville,North Carolina,35.595363,-82.5508407,Trump,2016,Republican
+2016-09-13,"Clive, Iowa",Clive,Iowa,41.6096559,-93.7754644,Trump,2016,Republican
+2016-09-13,"Aston, Pennsylvania",Aston,Pennsylvania,39.87265415,-75.44054729049847,Trump,2016,Republican
+2016-09-14,"Canton, Ohio",Canton,Ohio,40.7985464,-81.3749508,Trump,2016,Republican
+2016-09-15,"Laconia, New Hampshire",Laconia,New Hampshire,43.5278546,-71.470351,Trump,2016,Republican
+2016-09-15,"New York City, New York",New York City,New York,40.7127281,-74.0060152,Trump,2016,Republican
+2016-09-16,"Washington, DC, District of Columbia","Washington, DC",District of Columbia,38.8950368,-77.0365427,Trump,2016,Republican
+2016-09-16,"Miami, Florida",Miami,Florida,25.7741728,-80.19362,Trump,2016,Republican
+2016-09-17,"Colorado Springs, Colorado",Colorado Springs,Colorado,38.8339578,-104.825348,Trump,2016,Republican
+2016-09-19,"Estero, Florida",Estero,Florida,26.4381474,-81.8067537,Trump,2016,Republican
+2016-09-02,"Greensboro, North Carolina",Greensboro,North Carolina,36.0726355,-79.7919754,Trump,2016,Republican
+2016-09-02,"High Point, North Carolina",High Point,North Carolina,35.9556924,-80.0053176,Trump,2016,Republican
+2016-09-02,"Kenansville, North Carolina",Kenansville,North Carolina,34.9623883,-77.9622069,Trump,2016,Republican
+2016-09-21,"Cleveland Heights, Ohio",Cleveland Heights,Ohio,41.5200518,-81.556235,Trump,2016,Republican
+2016-09-21,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173,Trump,2016,Republican
+2016-09-22,"Aston, Pennsylvania",Aston,Pennsylvania,39.87265415,-75.44054729049847,Trump,2016,Republican
+2016-09-24,"Roanoke, Virginia",Roanoke,Virginia,37.270973,-79.9414313,Trump,2016,Republican
+2016-09-27,"Melbourne, Florida",Melbourne,Florida,28.0785034,-80.6077908,Trump,2016,Republican
+2016-09-28,"Chicago, Illinois",Chicago,Illinois,41.8755616,-87.6244212,Trump,2016,Republican
+2016-09-28,"Council Bluffs, Iowa",Council Bluffs,Iowa,41.258841,-95.8519484,Trump,2016,Republican
+2016-09-28,"Waukesha, Wisconsin",Waukesha,Wisconsin,43.0622536,-88.3123889,Trump,2016,Republican
+2016-09-29,"Bedford, New Hampshire",Bedford,New Hampshire,42.9464737,-71.5159015,Trump,2016,Republican
+2016-09-03,"Novi, Michigan",Novi,Michigan,42.48059,-83.4754913,Trump,2016,Republican
+2016-10-01,"Manheim, Pennsylvania",Manheim,Pennsylvania,40.1637359,-76.3952429,Trump,2016,Republican
+2016-10-03,"Loveland, Colorado",Loveland,Colorado,40.385549,-105.04436132094956,Trump,2016,Republican
+2016-10-03,"Pueblo, Colorado",Pueblo,Colorado,38.263995,-104.6141867,Trump,2016,Republican
+2016-10-03,"Herndon, Virginia",Herndon,Virginia,38.9695316,-77.3859479,Trump,2016,Republican
+2016-10-04,"Prescott Valley, Arizona",Prescott Valley,Arizona,34.5950776,-112.3338634,Trump,2016,Republican
+2016-10-05,"Henderson, Nevada",Henderson,Nevada,36.0301134,-114.9826194,Trump,2016,Republican
+2016-10-06,"Sandown, New Hampshire",Sandown,New Hampshire,42.928698,-71.1870053,Trump,2016,Republican
+2016-10-01,"Ambridge, Pennsylvania",Ambridge,Pennsylvania,40.586438,-80.2273615,Trump,2016,Republican
+2016-10-01,"Wilkes-Barre, Pennsylvania",Wilkes-Barre,Pennsylvania,41.2464824,-75.8817316,Trump,2016,Republican
+2016-10-11,"Panama City, Florida",Panama City,Florida,30.1586518,-85.6602936,Trump,2016,Republican
+2016-10-12,"Lakeland, Florida",Lakeland,Florida,28.0394654,-81.9498042,Trump,2016,Republican
+2016-10-12,"Ocala, Florida",Ocala,Florida,29.1871986,-82.1400923,Trump,2016,Republican
+2016-10-13,"West Palm Beach, Florida",West Palm Beach,Florida,26.715364,-80.0532942,Trump,2016,Republican
+2016-10-13,"Cincinnati, Ohio",Cincinnati,Ohio,39.1014537,-84.5124602,Trump,2016,Republican
+2016-10-13,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065,Trump,2016,Republican
+2016-10-14,"Charlotte, North Carolina",Charlotte,North Carolina,35.2272086,-80.8430827,Trump,2016,Republican
+2016-10-14,"Greensboro, North Carolina",Greensboro,North Carolina,36.0726355,-79.7919754,Trump,2016,Republican
+2016-10-15,"Bangor, Maine",Bangor,Maine,44.8016255,-68.7713289,Trump,2016,Republican
+2016-10-15,"Portsmouth, New Hampshire",Portsmouth,New Hampshire,43.0764436,-70.7573936,Trump,2016,Republican
+2016-10-17,"Green Bay, Wisconsin",Green Bay,Wisconsin,44.5126379,-88.0125794,Trump,2016,Republican
+2016-10-18,"Colorado Springs, Colorado",Colorado Springs,Colorado,38.8339578,-104.825348,Trump,2016,Republican
+2016-10-18,"Grand Junction, Colorado",Grand Junction,Colorado,39.0672568,-108.56448,Trump,2016,Republican
+2016-10-02,"Delaware, Ohio",Delaware,Ohio,40.2317686,-82.9651045,Trump,2016,Republican
+2016-10-21,"Fletcher, North Carolina",Fletcher,North Carolina,35.4309336,-82.5011239,Trump,2016,Republican
+2016-10-21,"Johnstown, Pennsylvania",Johnstown,Pennsylvania,40.3267407,-78.9219698,Trump,2016,Republican
+2016-10-21,"Newtown, Pennsylvania",Newtown,Pennsylvania,40.6505909,-76.3479872,Trump,2016,Republican
+2016-10-22,"Gettysburg, Pennsylvania",Gettysburg,Pennsylvania,39.8308973,-77.231012,Trump,2016,Republican
+2016-10-22,"Virginia Beach, Virginia",Virginia Beach,Virginia,36.8496579,-75.9760751,Trump,2016,Republican
+2016-10-23,"Naples, Florida",Naples,Florida,26.1421976,-81.7942944,Trump,2016,Republican
+2016-10-23,"Cleveland, Ohio",Cleveland,Ohio,41.4996574,-81.6936772,Trump,2016,Republican
+2016-10-24,"Boynton Beach, Florida",Boynton Beach,Florida,26.5256179,-80.0666026,Trump,2016,Republican
+2016-10-24,"St. Augustine, Florida",St. Augustine,Florida,29.8946952,-81.3145395,Trump,2016,Republican
+2016-10-24,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444,Trump,2016,Republican
+2016-10-25,"Sanford, Florida",Sanford,Florida,28.8117345,-81.2680223,Trump,2016,Republican
+2016-10-25,"Tallahasee, Florida",Tallahasee,Florida,NA,NA,Trump,2016,Republican
+2016-10-26,"Washington, DC, District of Columbia","Washington, DC",District of Columbia,38.8950368,-77.0365427,Trump,2016,Republican
+2016-10-26,"Charlotte, North Carolina",Charlotte,North Carolina,35.2272086,-80.8430827,Trump,2016,Republican
+2016-10-26,"Kinston, North Carolina",Kinston,North Carolina,35.2626635,-77.5816353,Trump,2016,Republican
+2016-10-27,"Geneva, Ohio",Geneva,Ohio,41.8052539,-80.9476206,Trump,2016,Republican
+2016-10-27,"Springfield, Ohio",Springfield,Ohio,39.9234046,-83.810138,Trump,2016,Republican
+2016-10-27,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173,Trump,2016,Republican
+2016-10-28,"Cedar Rapids, Iowa",Cedar Rapids,Iowa,41.9758872,-91.6704053,Trump,2016,Republican
+2016-10-28,"Lisbon, Maine",Lisbon,Maine,43.9966919,-70.0606087,Trump,2016,Republican
+2016-10-28,"Manchester, New Hampshire",Manchester,New Hampshire,42.9956397,-71.4547891,Trump,2016,Republican
+2016-10-29,"Phoenix, Arizona",Phoenix,Arizona,33.4484367,-112.074141,Trump,2016,Republican
+2016-10-29,"Golden, Colorado",Golden,Colorado,39.7546349,-105.22058,Trump,2016,Republican
+2016-10-03,"Greeley, Colorado",Greeley,Colorado,40.4233142,-104.7091322,Trump,2016,Republican
+2016-10-03,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516,Trump,2016,Republican
+2016-10-03,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985,Trump,2016,Republican
+2016-10-31,"Grand Rapids, Michigan",Grand Rapids,Michigan,42.9632425,-85.6678639,Trump,2016,Republican
+2016-10-31,"Warren, Michigan",Warren,Michigan,42.4932575,-83.0062746,Trump,2016,Republican
+2016-11-01,"King of Prussia, Pennsylvania",King of Prussia,Pennsylvania,40.0908111,-75.3832484,Trump,2016,Republican
+2016-11-01,"Eau Claire, Wisconsin",Eau Claire,Wisconsin,44.811349,-91.4984941,Trump,2016,Republican
+2016-11-02,"Miami, Florida",Miami,Florida,25.7741728,-80.19362,Trump,2016,Republican
+2016-11-02,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304,Trump,2016,Republican
+2016-11-02,"Pensacola, Florida",Pensacola,Florida,30.421309,-87.2169149,Trump,2016,Republican
+2016-11-03,"Jacksonville, Florida",Jacksonville,Florida,30.3321838,-81.655651,Trump,2016,Republican
+2016-11-03,"Concord, North Carolina",Concord,North Carolina,35.4094178,-80.5800049,Trump,2016,Republican
+2016-11-03,"Selma, North Carolina",Selma,North Carolina,35.5365485,-78.2844435,Trump,2016,Republican
+2016-11-04,"Atkinson, New Hampshire",Atkinson,New Hampshire,42.8384221,-71.1470037,Trump,2016,Republican
+2016-11-04,"Wilmington, Ohio",Wilmington,Ohio,39.4453393,-83.8285375,Trump,2016,Republican
+2016-11-04,"Hershey, Pennsylvania",Hershey,Pennsylvania,40.2854881,-76.6506001,Trump,2016,Republican
+2016-11-05,"Denver, Colorado",Denver,Colorado,39.7392364,-104.984862,Trump,2016,Republican
+2016-11-05,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444,Trump,2016,Republican
+2016-11-05,"Reno, Nevada",Reno,Nevada,39.5261206,-119.8126581,Trump,2016,Republican
+2016-11-05,"Wilmington, North Carolina",Wilmington,North Carolina,34.2257282,-77.9447107,Trump,2016,Republican
+2016-11-06,"Sioux City, Iowa",Sioux City,Iowa,42.4966815,-96.4058782,Trump,2016,Republican
+2016-11-06,"Sterling Heights, Michigan",Sterling Heights,Michigan,42.5803122,-83.0302033,Trump,2016,Republican
+2016-11-06,"Minneapolis, Minnesota",Minneapolis,Minnesota,44.9772995,-93.2654692,Trump,2016,Republican
+2016-11-06,"Moon Township, Pennsylvania",Moon Township,Pennsylvania,40.506100000000004,-80.2082,Trump,2016,Republican
+2016-11-06,"Leesburg, Virginia",Leesburg,Virginia,39.1154506,-77.5645607,Trump,2016,Republican
+2016-11-07,"Sarasota, Florida",Sarasota,Florida,27.3365805,-82.5308545,Trump,2016,Republican
+2016-11-07,"Grand Rapids, Michigan",Grand Rapids,Michigan,42.9632425,-85.6678639,Trump,2016,Republican
+2016-11-07,"Manchester, New Hampshire",Manchester,New Hampshire,42.9956397,-71.4547891,Trump,2016,Republican
+2016-11-07,"Raleigh, North Carolina",Raleigh,North Carolina,35.7803977,-78.6390989,Trump,2016,Republican
+2016-11-07,"Scranton, Pennsylvania",Scranton,Pennsylvania,41.4086874,-75.6621294,Trump,2016,Republican
+2012-09-01,"Jacksonville, Florida",Jacksonville,Florida,30.3321838,-81.655651,Romney,2012,Republican
+2012-09-01,"Cincinnati, Ohio",Cincinnati,Ohio,39.1014537,-84.5124602,Romney,2012,Republican
+2012-09-05,"West Lebanon, New Hampshire",West Lebanon,New Hampshire,43.6482811,-72.3102794,Romney,2012,Republican
+2012-09-06,"Concord, New Hampshire",Concord,New Hampshire,43.207178,-71.537476,Romney,2012,Republican
+2012-09-07,"Orange City, Iowa",Orange City,Iowa,43.0072424,-96.0583138,Romney,2012,Republican
+2012-09-07,"Nashua, New Hampshire",Nashua,New Hampshire,42.7656251,-71.4677032,Romney,2012,Republican
+2012-09-08,"Richmond, Virginia",Richmond,Virginia,37.5385087,-77.43428,Romney,2012,Republican
+2012-09-08,"Virginia Beach, Virginia",Virginia Beach,Virginia,36.8496579,-75.9760751,Romney,2012,Republican
+2012-09-01,"Mansfield, Ohio",Mansfield,Ohio,40.75839,-82.5154471,Romney,2012,Republican
+2012-09-12,"Jacksonville, Florida",Jacksonville,Florida,30.3321838,-81.655651,Romney,2012,Republican
+2012-09-13,"Fairfax, Virginia",Fairfax,Virginia,38.8156356,-77.2836849,Romney,2012,Republican
+2012-09-14,"Painesville, Ohio",Painesville,Ohio,41.7244885,-81.245657,Romney,2012,Republican
+2012-09-16,"Kansas City, Missouri",Kansas City,Missouri,39.100105,-94.5781416,Romney,2012,Republican
+2012-09-19,"Miami, Florida",Miami,Florida,25.7741728,-80.19362,Romney,2012,Republican
+2012-09-02,"Sarasota, Florida",Sarasota,Florida,27.3365805,-82.5308545,Romney,2012,Republican
+2012-09-21,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516,Romney,2012,Republican
+2012-09-23,"Denver, Colorado",Denver,Colorado,39.7392364,-104.984862,Romney,2012,Republican
+2012-09-24,"Pueblo, Colorado",Pueblo,Colorado,38.263995,-104.6141867,Romney,2012,Republican
+2012-09-25,"Vandalia, Ohio",Vandalia,Ohio,39.8906122,-84.1988308,Romney,2012,Republican
+2012-09-26,"Bedford Heights, Ohio",Bedford Heights,Ohio,41.4143826,-81.5061146,Romney,2012,Republican
+2012-09-26,"Swanton, Ohio",Swanton,Ohio,41.5906822,-83.8931809,Romney,2012,Republican
+2012-09-26,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173,Romney,2012,Republican
+2012-09-26,"Westerville, Ohio",Westerville,Ohio,40.126139,-82.9295287,Romney,2012,Republican
+2012-09-27,"Springfield, Virginia",Springfield,Virginia,38.7767435,-77.1807019310668,Romney,2012,Republican
+2012-09-28,"Radnor Township, Pennsylvania",Radnor Township,Pennsylvania,40.02897395,-75.36802874885015,Romney,2012,Republican
+2012-10-01,"Denver, Colorado",Denver,Colorado,39.7392364,-104.984862,Romney,2012,Republican
+2012-10-02,"Denver, Colorado",Denver,Colorado,39.7392364,-104.984862,Romney,2012,Republican
+2012-10-04,"Denver, Colorado",Denver,Colorado,39.7392364,-104.984862,Romney,2012,Republican
+2012-10-04,"Fishersville, Virginia",Fishersville,Virginia,38.098961,-78.98593583061749,Romney,2012,Republican
+2012-10-05,"St. Petersburg, Florida",St. Petersburg,Florida,27.7700475,-82.6359078,Romney,2012,Republican
+2012-10-05,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444,Romney,2012,Republican
+2012-10-05,"Abingdon, Virginia",Abingdon,Virginia,36.7104018,-81.975249,Romney,2012,Republican
+2012-10-06,"Apopka, Florida",Apopka,Florida,28.678013,-81.511398,Romney,2012,Republican
+2012-10-07,"Port St. Lucie, Florida",Port St. Lucie,Florida,27.2939333,-80.3503283,Romney,2012,Republican
+2012-10-08,"Fairfield, Virginia",Fairfield,Virginia,37.8792991,-79.2894784,Romney,2012,Republican
+2012-10-08,"Lexington, Virginia",Lexington,Virginia,37.7840208,-79.4428157,Romney,2012,Republican
+2012-10-08,"Newport News, Virginia",Newport News,Virginia,37.0914429,-76.5213892,Romney,2012,Republican
+2012-10-09,"Van Meter, Iowa",Van Meter,Iowa,41.5332166,-93.9548406,Romney,2012,Republican
+2012-10-09,"Cuyahoga Falls, Ohio",Cuyahoga Falls,Ohio,41.1362729,-81.4828123,Romney,2012,Republican
+2012-10-01,"Delaware, Ohio",Delaware,Ohio,40.2317686,-82.9651045,Romney,2012,Republican
+2012-10-01,"Mount Vernon, Ohio",Mount Vernon,Ohio,40.3933956,-82.4857181,Romney,2012,Republican
+2012-10-01,"Sidney, Ohio",Sidney,Ohio,40.284241,-84.1555267,Romney,2012,Republican
+2012-10-11,"Asheville, North Carolina",Asheville,North Carolina,35.595363,-82.5508407,Romney,2012,Republican
+2012-10-12,"Gahanna, Ohio",Gahanna,Ohio,40.0195625,-82.8791363,Romney,2012,Republican
+2012-10-12,"Lancaster, Ohio",Lancaster,Ohio,39.7136754,-82.5993294,Romney,2012,Republican
+2012-10-12,"Richmond, Virginia",Richmond,Virginia,37.5385087,-77.43428,Romney,2012,Republican
+2012-10-13,"Lebanon, Ohio",Lebanon,Ohio,39.4353373,-84.2029922,Romney,2012,Republican
+2012-10-13,"Portsmouth, Ohio",Portsmouth,Ohio,38.7345374,-82.9962742,Romney,2012,Republican
+2012-10-17,"Chesapeake, Virginia",Chesapeake,Virginia,36.7168315,-76.2494453,Romney,2012,Republican
+2012-10-17,"Leesburg, Virginia",Leesburg,Virginia,39.1154506,-77.5645607,Romney,2012,Republican
+2012-10-19,"Daytona Beach, Florida",Daytona Beach,Florida,29.2108147,-81.0228331,Romney,2012,Republican
+2012-10-21,"Delray Beach, Florida",Delray Beach,Florida,26.4614625,-80.0728201,Romney,2012,Republican
+2012-10-23,"Morrison, Colorado",Morrison,Colorado,39.6535988,-105.191099,Romney,2012,Republican
+2012-10-23,"Henderson, Nevada",Henderson,Nevada,36.0301134,-114.9826194,Romney,2012,Republican
+2012-10-24,"Cedar Rapids, Iowa",Cedar Rapids,Iowa,41.9758872,-91.6704053,Romney,2012,Republican
+2012-10-24,"Reno, Nevada",Reno,Nevada,39.5261206,-119.8126581,Romney,2012,Republican
+2012-10-25,"Cincinnati, Ohio",Cincinnati,Ohio,39.1014537,-84.5124602,Romney,2012,Republican
+2012-10-25,"Defiance, Ohio",Defiance,Ohio,41.3203058,-84.5084835,Romney,2012,Republican
+2012-10-25,"Worthington, Ohio",Worthington,Ohio,40.0930945,-83.0179593,Romney,2012,Republican
+2012-10-26,"Ames, Iowa",Ames,Iowa,42.0267567,-93.6170448,Romney,2012,Republican
+2012-10-26,"North Canton, Ohio",North Canton,Ohio,40.875891,-81.4023356,Romney,2012,Republican
+2012-10-27,"Kissimmee, Florida",Kissimmee,Florida,28.2918995,-81.4075838,Romney,2012,Republican
+2012-10-27,"Land O'Lakes, Florida",Land O'Lakes,Florida,28.2144905,-82.44559288497652,Romney,2012,Republican
+2012-10-27,"Pensacola, Florida",Pensacola,Florida,30.421309,-87.2169149,Romney,2012,Republican
+2012-10-28,"Celina, Ohio",Celina,Ohio,40.5489358,-84.5702338,Romney,2012,Republican
+2012-10-28,"Findlay, Ohio",Findlay,Ohio,41.0413873,-83.6503982,Romney,2012,Republican
+2012-10-28,"Marion, Ohio",Marion,Ohio,40.5885271,-83.1895249,Romney,2012,Republican
+2012-10-29,"Davenport, Iowa",Davenport,Iowa,41.5235808,-90.5770967,Romney,2012,Republican
+2012-10-29,"Avon Lake, Ohio",Avon Lake,Ohio,41.510033,-82.0185895,Romney,2012,Republican
+2012-10-03,"Kettering, Ohio",Kettering,Ohio,39.6895036,-84.1688274,Romney,2012,Republican
+2012-10-31,"Coral Gables, Florida",Coral Gables,Florida,25.7331105,-80.2585107,Romney,2012,Republican
+2012-10-31,"Jacksonville, Florida",Jacksonville,Florida,30.3321838,-81.655651,Romney,2012,Republican
+2012-10-31,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444,Romney,2012,Republican
+2012-11-01,"Doswell, Virginia",Doswell,Virginia,37.8601402,-77.4641492,Romney,2012,Republican
+2012-11-01,"Richmond, Virginia",Richmond,Virginia,37.5385087,-77.43428,Romney,2012,Republican
+2012-11-01,"Roanoke, Virginia",Roanoke,Virginia,37.270973,-79.9414313,Romney,2012,Republican
+2012-11-01,"Virginia Beach, Virginia",Virginia Beach,Virginia,36.8496579,-75.9760751,Romney,2012,Republican
+2012-11-02,"Etna, Ohio",Etna,Ohio,39.957562,-82.6819548,Romney,2012,Republican
+2012-11-02,"West Chester Township, Ohio",West Chester Township,Ohio,39.3357398,-84.41557411264533,Romney,2012,Republican
+2012-11-02,"West Allis, Wisconsin",West Allis,Wisconsin,43.0166806,-88.0070315,Romney,2012,Republican
+2012-11-03,"Colorado Springs, Colorado",Colorado Springs,Colorado,38.8339578,-104.825348,Romney,2012,Republican
+2012-11-03,"Englewood, Colorado",Englewood,Colorado,39.6482059,-104.9879641,Romney,2012,Republican
+2012-11-03,"Dubuque, Iowa",Dubuque,Iowa,42.5006243,-90.6647985,Romney,2012,Republican
+2012-11-03,"Newington, New Hampshire",Newington,New Hampshire,43.100482,-70.834351,Romney,2012,Republican
+2012-11-04,"Des Moines, Iowa",Des Moines,Iowa,41.5868654,-93.6249494,Romney,2012,Republican
+2012-11-04,"Cleveland, Ohio",Cleveland,Ohio,41.4996574,-81.6936772,Romney,2012,Republican
+2012-11-04,"Yardley, Pennsylvania",Yardley,Pennsylvania,40.245664,-74.8459972,Romney,2012,Republican
+2012-11-04,"Newport News, Virginia",Newport News,Virginia,37.0914429,-76.5213892,Romney,2012,Republican
+2012-11-05,"Sanford, Florida",Sanford,Florida,28.8117345,-81.2680223,Romney,2012,Republican
+2012-11-05,"Manchester, New Hampshire",Manchester,New Hampshire,42.9956397,-71.4547891,Romney,2012,Republican
+2012-11-05,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065,Romney,2012,Republican
+2012-11-05,"Fairfax, Virginia",Fairfax,Virginia,38.8156356,-77.2836849,Romney,2012,Republican
+2012-11-05,"Lynchburg, Virginia",Lynchburg,Virginia,37.4137536,-79.1422464,Romney,2012,Republican
+2012-11-06,"Richmond Heights, Ohio",Richmond Heights,Ohio,41.552829,-81.510121,Romney,2012,Republican
+2012-11-06,"Green Tree, Pennsylvania",Green Tree,Pennsylvania,40.4162501,-80.0541911,Romney,2012,Republican
+2012-09-01,"Sioux City, Iowa",Sioux City,Iowa,42.4966815,-96.4058782,Obama,2012,Democrat
+2012-09-01,"Urbandale, Iowa",Urbandale,Iowa,41.6274511,-93.7380243,Obama,2012,Democrat
+2012-09-02,"Boulder, Colorado",Boulder,Colorado,40.0149856,-105.270545,Obama,2012,Democrat
+2012-09-03,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173,Obama,2012,Democrat
+2012-09-04,"Norfolk, Virginia",Norfolk,Virginia,36.8493695,-76.2899539,Obama,2012,Democrat
+2012-09-07,"Iowa City, Iowa",Iowa City,Iowa,41.6683126,-91.57952674093114,Obama,2012,Democrat
+2012-09-07,"Portsmouth, New Hampshire",Portsmouth,New Hampshire,43.0764436,-70.7573936,Obama,2012,Democrat
+2012-09-08,"Kissimmee, Florida",Kissimmee,Florida,28.2918995,-81.4075838,Obama,2012,Democrat
+2012-09-08,"Seminole, Florida",Seminole,Florida,28.7225829,-81.2353683,Obama,2012,Democrat
+2012-09-08,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444,Obama,2012,Democrat
+2012-09-08,"Windermere, Florida",Windermere,Florida,28.4944695,-81.5345547,Obama,2012,Democrat
+2012-09-09,"Cocoa, Florida",Cocoa,Florida,28.3556635,-80.7325345,Obama,2012,Democrat
+2012-09-09,"Fort Pierce, Florida",Fort Pierce,Florida,27.4467056,-80.3256056,Obama,2012,Democrat
+2012-09-09,"Melbourne, Florida",Melbourne,Florida,28.0785034,-80.6077908,Obama,2012,Democrat
+2012-09-09,"Port St. Lucie, Florida",Port St. Lucie,Florida,27.2939333,-80.3503283,Obama,2012,Democrat
+2012-09-09,"West Palm Beach, Florida",West Palm Beach,Florida,26.715364,-80.0532942,Obama,2012,Democrat
+2012-09-12,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516,Obama,2012,Democrat
+2012-09-13,"Golden, Colorado",Golden,Colorado,39.7546349,-105.22058,Obama,2012,Democrat
+2012-09-17,"Cincinnati, Ohio",Cincinnati,Ohio,39.1014537,-84.5124602,Obama,2012,Democrat
+2012-09-17,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065,Obama,2012,Democrat
+2012-09-02,"Miami, Florida",Miami,Florida,25.7741728,-80.19362,Obama,2012,Democrat
+2012-09-21,"Woodbridge, Virginia",Woodbridge,Virginia,38.6361522,-77.26783643627006,Obama,2012,Democrat
+2012-09-22,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751,Obama,2012,Democrat
+2012-09-26,"Bowling Green, Ohio",Bowling Green,Ohio,41.3747744,-83.6513229,Obama,2012,Democrat
+2012-09-26,"Kent, Ohio",Kent,Ohio,41.1513108,-81.3578047,Obama,2012,Democrat
+2012-09-27,"Virginia Beach, Virginia",Virginia Beach,Virginia,36.8496579,-75.9760751,Obama,2012,Democrat
+2012-09-03,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516,Obama,2012,Democrat
+2012-10-01,"Henderson, Nevada",Henderson,Nevada,36.0301134,-114.9826194,Obama,2012,Democrat
+2012-10-04,"Denver, Colorado",Denver,Colorado,39.7392364,-104.984862,Obama,2012,Democrat
+2012-10-04,"Madison, Wisconsin",Madison,Wisconsin,43.074761,-89.3837613,Obama,2012,Democrat
+2012-10-05,"Cleveland, Ohio",Cleveland,Ohio,41.4996574,-81.6936772,Obama,2012,Democrat
+2012-10-05,"Fairfax, Virginia",Fairfax,Virginia,38.8156356,-77.2836849,Obama,2012,Democrat
+2012-10-09,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065,Obama,2012,Democrat
+2012-10-11,"Coral Gables, Florida",Coral Gables,Florida,25.7331105,-80.2585107,Obama,2012,Democrat
+2012-10-14,"Williamsburg, Virginia",Williamsburg,Virginia,37.2708788,-76.7074042,Obama,2012,Democrat
+2012-10-17,"Mount Vernon, Iowa",Mount Vernon,Iowa,41.9222443,-91.4171209,Obama,2012,Democrat
+2012-10-17,"Athens, Ohio",Athens,Ohio,39.3289242,-82.1012479,Obama,2012,Democrat
+2012-10-18,"Manchester, New Hampshire",Manchester,New Hampshire,42.9956397,-71.4547891,Obama,2012,Democrat
+2012-10-19,"Fairfax, Virginia",Fairfax,Virginia,38.8156356,-77.2836849,Obama,2012,Democrat
+2012-10-23,"Delray Beach, Florida",Delray Beach,Florida,26.4614625,-80.0728201,Obama,2012,Democrat
+2012-10-23,"Dayton, Ohio",Dayton,Ohio,39.7589478,-84.1916069,Obama,2012,Democrat
+2012-10-24,"Denver, Colorado",Denver,Colorado,39.7392364,-104.984862,Obama,2012,Democrat
+2012-10-24,"Davenport, Iowa",Davenport,Iowa,41.5235808,-90.5770967,Obama,2012,Democrat
+2012-10-24,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516,Obama,2012,Democrat
+2012-10-25,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444,Obama,2012,Democrat
+2012-10-25,"Chicago, Illinois",Chicago,Illinois,41.8755616,-87.6244212,Obama,2012,Democrat
+2012-10-25,"Cleveland, Ohio",Cleveland,Ohio,41.4996574,-81.6936772,Obama,2012,Democrat
+2012-10-25,"Richmond, Virginia",Richmond,Virginia,37.5385087,-77.43428,Obama,2012,Democrat
+2012-10-27,"Manchester, New Hampshire",Manchester,New Hampshire,42.9956397,-71.4547891,Obama,2012,Democrat
+2012-10-27,"Merrimack, New Hampshire",Merrimack,New Hampshire,43.3260376,-71.6854725,Obama,2012,Democrat
+2012-10-27,"Nashua, New Hampshire",Nashua,New Hampshire,42.7656251,-71.4677032,Obama,2012,Democrat
+2012-10-28,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304,Obama,2012,Democrat
+2012-11-01,"Boulder, Colorado",Boulder,Colorado,40.0149856,-105.270545,Obama,2012,Democrat
+2012-11-01,"North Las Vegas, Nevada",North Las Vegas,Nevada,36.2005843,-115.121584,Obama,2012,Democrat
+2012-11-01,"Green Bay, Wisconsin",Green Bay,Wisconsin,44.5126379,-88.0125794,Obama,2012,Democrat
+2012-11-02,"Hilliard, Ohio",Hilliard,Ohio,40.033814,-83.1596108,Obama,2012,Democrat
+2012-11-02,"Lima, Ohio",Lima,Ohio,40.741735,-84.1156539566922,Obama,2012,Democrat
+2012-11-02,"Springfield, Ohio",Springfield,Ohio,39.9234046,-83.810138,Obama,2012,Democrat
+2012-11-03,"Dubuque, Iowa",Dubuque,Iowa,42.5006243,-90.6647985,Obama,2012,Democrat
+2012-11-03,"Mentor, Ohio",Mentor,Ohio,41.6664781,-81.3399769,Obama,2012,Democrat
+2012-11-03,"Bristow, Virginia",Bristow,Virginia,38.7233263,-77.5365669,Obama,2012,Democrat
+2012-11-03,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751,Obama,2012,Democrat
+2012-11-04,"Aurora, Colorado",Aurora,Colorado,39.7405111,-104.830994,Obama,2012,Democrat
+2012-11-04,"Hollywood, Florida",Hollywood,Florida,26.0112014,-80.1494901,Obama,2012,Democrat
+2012-11-04,"Concord, New Hampshire",Concord,New Hampshire,43.207178,-71.537476,Obama,2012,Democrat
+2012-11-04,"Cincinnati, Ohio",Cincinnati,Ohio,39.1014537,-84.5124602,Obama,2012,Democrat
+2012-11-05,"Des Moines, Iowa",Des Moines,Iowa,41.5868654,-93.6249494,Obama,2012,Democrat
+2012-11-05,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065,Obama,2012,Democrat
+2012-11-05,"Madison, Wisconsin",Madison,Wisconsin,43.074761,-89.3837613,Obama,2012,Democrat
+2012-11-06,"Chicago, Illinois",Chicago,Illinois,41.8755616,-87.6244212,Obama,2012,Democrat
+2008-09-01,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007,Obama,2008,Democrat
+2008-09-01,"Monroe, Michigan",Monroe,Michigan,41.9153358,-83.5135665,Obama,2008,Democrat
+2008-09-01,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751,Obama,2008,Democrat
+2008-09-03,"Dillonvale, Ohio",Dillonvale,Ohio,39.2164216,-84.40081359059991,Obama,2008,Democrat
+2008-09-03,"New Philadelphia, Ohio",New Philadelphia,Ohio,40.4897871,-81.4456706,Obama,2008,Democrat
+2008-09-04,"Columbia, Pennsylvania",Columbia,Pennsylvania,41.0389186,-76.4191791,Obama,2008,Democrat
+2008-09-04,"Lancaster, Pennsylvania",Lancaster,Pennsylvania,40.08067,-76.2411283,Obama,2008,Democrat
+2008-09-04,"York, Pennsylvania",York,Pennsylvania,39.962493,-76.7276989,Obama,2008,Democrat
+2008-09-05,"Duryea, Pennsylvania",Duryea,Pennsylvania,41.347817,-75.7564267,Obama,2008,Democrat
+2008-09-05,"Wyoming, Pennsylvania",Wyoming,Pennsylvania,41.5179097,-76.019111,Obama,2008,Democrat
+2008-09-06,"Terre Haute, Indiana",Terre Haute,Indiana,39.4667025,-87.4139119,Obama,2008,Democrat
+2008-09-08,"Farmington Hills, Michigan",Farmington Hills,Michigan,42.4853125,-83.3771553,Obama,2008,Democrat
+2008-09-08,"Flint, Michigan",Flint,Michigan,43.0161693,-83.6900211,Obama,2008,Democrat
+2008-09-09,"Riverside, Ohio",Riverside,Ohio,39.7793976,-84.1246358,Obama,2008,Democrat
+2008-09-09,"Abingdon, Virginia",Abingdon,Virginia,36.7104018,-81.975249,Obama,2008,Democrat
+2008-09-09,"Lebanon, Virginia",Lebanon,Virginia,36.9009076,-82.0801257,Obama,2008,Democrat
+2008-09-01,"Norfolk, Virginia",Norfolk,Virginia,36.8493695,-76.2899539,Obama,2008,Democrat
+2008-09-12,"Concord, New Hampshire",Concord,New Hampshire,43.207178,-71.537476,Obama,2008,Democrat
+2008-09-12,"Dover, New Hampshire",Dover,New Hampshire,43.1981117,-70.8739761,Obama,2008,Democrat
+2008-09-13,"Manchester, New Hampshire",Manchester,New Hampshire,42.9956397,-71.4547891,Obama,2008,Democrat
+2008-09-15,"Grand Junction, Colorado",Grand Junction,Colorado,39.0672568,-108.56448,Obama,2008,Democrat
+2008-09-15,"Pueblo, Colorado",Pueblo,Colorado,38.263995,-104.6141867,Obama,2008,Democrat
+2008-09-16,"Golden, Colorado",Golden,Colorado,39.7546349,-105.22058,Obama,2008,Democrat
+2008-09-17,"Elko, Nevada",Elko,Nevada,41.1958128,-115.3272864,Obama,2008,Democrat
+2008-09-17,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516,Obama,2008,Democrat
+2008-09-18,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985,Obama,2008,Democrat
+2008-09-18,"Bernalillo, New Mexico",Bernalillo,New Mexico,35.0349239,-106.6870693,Obama,2008,Democrat
+2008-09-18,"Espanola, New Mexico",Espanola,New Mexico,35.9910962,-106.080835,Obama,2008,Democrat
+2008-09-19,"Coral Gables, Florida",Coral Gables,Florida,25.7331105,-80.2585107,Obama,2008,Democrat
+2008-09-02,"Daytona Beach, Florida",Daytona Beach,Florida,29.2108147,-81.0228331,Obama,2008,Democrat
+2008-09-02,"Jacksonville, Florida",Jacksonville,Florida,30.3321838,-81.655651,Obama,2008,Democrat
+2008-09-21,"Charlotte, North Carolina",Charlotte,North Carolina,35.2272086,-80.8430827,Obama,2008,Democrat
+2008-09-22,"Green Bay, Wisconsin",Green Bay,Wisconsin,44.5126379,-88.0125794,Obama,2008,Democrat
+2008-09-23,"Clearwater, Florida",Clearwater,Florida,27.9658533,-82.8001026,Obama,2008,Democrat
+2008-09-24,"Dunedin, Florida",Dunedin,Florida,28.0116627,-82.7893788,Obama,2008,Democrat
+2008-09-27,"Greensboro, North Carolina",Greensboro,North Carolina,36.0726355,-79.7919754,Obama,2008,Democrat
+2008-09-27,"Fredericksburg, Virginia",Fredericksburg,Virginia,38.3031837,-77.4605399,Obama,2008,Democrat
+2008-09-28,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007,Obama,2008,Democrat
+2008-09-29,"Westminster, Colorado",Westminster,Colorado,39.8366528,-105.0372046,Obama,2008,Democrat
+2008-09-03,"Reno, Nevada",Reno,Nevada,39.5261206,-119.8126581,Obama,2008,Democrat
+2008-10-01,"La Crosse, Wisconsin",La Crosse,Wisconsin,43.8122836,-91.2514355,Obama,2008,Democrat
+2008-10-02,"East Lansing, Michigan",East Lansing,Michigan,42.7320307,-84.4721678,Obama,2008,Democrat
+2008-10-02,"Grand Rapids, Michigan",Grand Rapids,Michigan,42.9632425,-85.6678639,Obama,2008,Democrat
+2008-10-03,"Abington, Pennsylvania",Abington,Pennsylvania,40.1142201,-75.13022997685664,Obama,2008,Democrat
+2008-10-03,"Glenside, Pennsylvania",Glenside,Pennsylvania,40.1001891,-75.1539056,Obama,2008,Democrat
+2008-10-03,"Oreland, Pennsylvania",Oreland,Pennsylvania,40.1184433,-75.1776757,Obama,2008,Democrat
+2008-10-04,"Newport News, Virginia",Newport News,Virginia,37.0914429,-76.5213892,Obama,2008,Democrat
+2008-10-05,"Asheville, North Carolina",Asheville,North Carolina,35.595363,-82.5508407,Obama,2008,Democrat
+2008-10-06,"Asheville, North Carolina",Asheville,North Carolina,35.595363,-82.5508407,Obama,2008,Democrat
+2008-10-08,"Indianapolis, Indiana",Indianapolis,Indiana,39.7683331,-86.1583502,Obama,2008,Democrat
+2008-10-09,"Cincinnati, Ohio",Cincinnati,Ohio,39.1014537,-84.5124602,Obama,2008,Democrat
+2008-10-09,"Dayton, Ohio",Dayton,Ohio,39.7589478,-84.1916069,Obama,2008,Democrat
+2008-10-09,"Georgetown, Ohio",Georgetown,Ohio,38.8645138,-83.9040944,Obama,2008,Democrat
+2008-10-09,"Portsmouth, Ohio",Portsmouth,Ohio,38.7345374,-82.9962742,Obama,2008,Democrat
+2008-10-01,"Chillicothe, Ohio",Chillicothe,Ohio,39.3331197,-82.9824019,Obama,2008,Democrat
+2008-10-01,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065,Obama,2008,Democrat
+2008-10-11,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262,Obama,2008,Democrat
+2008-10-12,"Holland, Ohio",Holland,Ohio,41.621718,-83.711604,Obama,2008,Democrat
+2008-10-13,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173,Obama,2008,Democrat
+2008-10-14,"Oregon, Ohio",Oregon,Ohio,41.6436603,-83.4868768,Obama,2008,Democrat
+2008-10-14,"Perrysburg, Ohio",Perrysburg,Ohio,41.5571178,-83.6279321,Obama,2008,Democrat
+2008-10-14,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173,Obama,2008,Democrat
+2008-10-16,"Londonderry, New Hampshire",Londonderry,New Hampshire,42.8467063,-71.3615507,Obama,2008,Democrat
+2008-10-17,"Roanoke, Virginia",Roanoke,Virginia,37.270973,-79.9414313,Obama,2008,Democrat
+2008-10-18,"Kansas City, Missouri",Kansas City,Missouri,39.100105,-94.5781416,Obama,2008,Democrat
+2008-10-18,"St. Louis, Missouri",St. Louis,Missouri,38.6280278,-90.1910154,Obama,2008,Democrat
+2008-10-19,"Fayetteville, North Carolina",Fayetteville,North Carolina,35.0525759,-78.878292,Obama,2008,Democrat
+2008-10-02,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304,Obama,2008,Democrat
+2008-10-02,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444,Obama,2008,Democrat
+2008-10-21,"Fort Lauderdale, Florida",Fort Lauderdale,Florida,26.1223084,-80.1433786,Obama,2008,Democrat
+2008-10-21,"Hollywood, Florida",Hollywood,Florida,26.0112014,-80.1494901,Obama,2008,Democrat
+2008-10-21,"Lake Worth, Florida",Lake Worth,Florida,26.615891,-80.0691435,Obama,2008,Democrat
+2008-10-21,"Miami, Florida",Miami,Florida,25.7741728,-80.19362,Obama,2008,Democrat
+2008-10-22,"Leesburg, Virginia",Leesburg,Virginia,39.1154506,-77.5645607,Obama,2008,Democrat
+2008-10-22,"Richmond, Virginia",Richmond,Virginia,37.5385087,-77.43428,Obama,2008,Democrat
+2008-10-23,"Indianapolis, Indiana",Indianapolis,Indiana,39.7683331,-86.1583502,Obama,2008,Democrat
+2008-10-25,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516,Obama,2008,Democrat
+2008-10-25,"Reno, Nevada",Reno,Nevada,39.5261206,-119.8126581,Obama,2008,Democrat
+2008-10-25,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985,Obama,2008,Democrat
+2008-10-26,"Brighton, Colorado",Brighton,Colorado,39.983721,-104.8110775,Obama,2008,Democrat
+2008-10-26,"Denver, Colorado",Denver,Colorado,39.7392364,-104.984862,Obama,2008,Democrat
+2008-10-26,"Fort Collins, Colorado",Fort Collins,Colorado,40.5871782,-105.0770113,Obama,2008,Democrat
+2008-10-27,"Canton, Ohio",Canton,Ohio,40.7985464,-81.3749508,Obama,2008,Democrat
+2008-10-27,"Pittsburgh, Pennsylvania",Pittsburgh,Pennsylvania,40.4416941,-79.9900861,Obama,2008,Democrat
+2008-10-28,"Chester, Pennsylvania",Chester,Pennsylvania,39.9829308,-75.7652424,Obama,2008,Democrat
+2008-10-28,"Harrisonburg, Virginia",Harrisonburg,Virginia,38.4493315,-78.8688833,Obama,2008,Democrat
+2008-10-28,"Norfolk, Virginia",Norfolk,Virginia,36.8493695,-76.2899539,Obama,2008,Democrat
+2008-10-29,"Kissimmee, Florida",Kissimmee,Florida,28.2918995,-81.4075838,Obama,2008,Democrat
+2008-10-29,"Sunrise, Florida",Sunrise,Florida,26.1666888,-80.2787573,Obama,2008,Democrat
+2008-10-29,"Raleigh, North Carolina",Raleigh,North Carolina,35.7803977,-78.6390989,Obama,2008,Democrat
+2008-10-03,"Sarasota, Florida",Sarasota,Florida,27.3365805,-82.5308545,Obama,2008,Democrat
+2008-10-03,"Columbia, Missouri",Columbia,Missouri,38.951883,-92.3337366,Obama,2008,Democrat
+2008-10-03,"Virginia Beach, Virginia",Virginia Beach,Virginia,36.8496579,-75.9760751,Obama,2008,Democrat
+2008-10-31,"Highland, Indiana",Highland,Indiana,41.5536529,-87.4520484,Obama,2008,Democrat
+2008-10-31,"Des Moines, Iowa",Des Moines,Iowa,41.5868654,-93.6249494,Obama,2008,Democrat
+2008-11-01,"Pueblo, Colorado",Pueblo,Colorado,38.263995,-104.6141867,Obama,2008,Democrat
+2008-11-01,"Springfield, Missouri",Springfield,Missouri,37.2081729,-93.2922715,Obama,2008,Democrat
+2008-11-01,"Henderson, Nevada",Henderson,Nevada,36.0301134,-114.9826194,Obama,2008,Democrat
+2008-11-02,"Cincinnati, Ohio",Cincinnati,Ohio,39.1014537,-84.5124602,Obama,2008,Democrat
+2008-11-02,"Cleveland, Ohio",Cleveland,Ohio,41.4996574,-81.6936772,Obama,2008,Democrat
+2008-11-02,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065,Obama,2008,Democrat
+2008-11-03,"Jacksonville, Florida",Jacksonville,Florida,30.3321838,-81.655651,Obama,2008,Democrat
+2008-11-03,"Charlotte, North Carolina",Charlotte,North Carolina,35.2272086,-80.8430827,Obama,2008,Democrat
+2008-11-03,"Manassas, Virginia",Manassas,Virginia,38.7509488,-77.4752667,Obama,2008,Democrat
+2008-11-04,"Indianapolis, Indiana",Indianapolis,Indiana,39.7683331,-86.1583502,Obama,2008,Democrat
+2008-09-01,"Waterville, Ohio",Waterville,Ohio,41.5008859,-83.7182701,Mccain,2008,Republican
+2008-09-02,"Brecksville, Ohio",Brecksville,Ohio,41.3197763,-81.6267904,Mccain,2008,Republican
+2008-09-02,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262,Mccain,2008,Republican
+2008-09-05,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007,Mccain,2008,Republican
+2008-09-05,"Sterling Heights, Michigan",Sterling Heights,Michigan,42.5803122,-83.0302033,Mccain,2008,Republican
+2008-09-05,"Cedarburg, Wisconsin",Cedarburg,Wisconsin,43.2966545,-87.9875348,Mccain,2008,Republican
+2008-09-06,"Colorado Springs, Colorado",Colorado Springs,Colorado,38.8339578,-104.825348,Mccain,2008,Republican
+2008-09-06,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985,Mccain,2008,Republican
+2008-09-07,"Kansas City, Missouri",Kansas City,Missouri,39.100105,-94.5781416,Mccain,2008,Republican
+2008-09-07,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985,Mccain,2008,Republican
+2008-09-08,"Lee's Summit, Missouri",Lee's Summit,Missouri,38.9107156,-94.3821295,Mccain,2008,Republican
+2008-09-09,"Lebanon, Ohio",Lebanon,Ohio,39.4353373,-84.2029922,Mccain,2008,Republican
+2008-09-09,"Lancaster, Pennsylvania",Lancaster,Pennsylvania,40.08067,-76.2411283,Mccain,2008,Republican
+2008-09-01,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262,Mccain,2008,Republican
+2008-09-01,"Fairfax, Virginia",Fairfax,Virginia,38.8156356,-77.2836849,Mccain,2008,Republican
+2008-09-14,"Loudon, New Hampshire",Loudon,New Hampshire,43.285703,-71.467438,Mccain,2008,Republican
+2008-09-15,"Jacksonville, Florida",Jacksonville,Florida,30.3321838,-81.655651,Mccain,2008,Republican
+2008-09-15,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304,Mccain,2008,Republican
+2008-09-16,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444,Mccain,2008,Republican
+2008-09-16,"Vienna Township, Ohio",Vienna Township,Ohio,41.2407091,-80.6639706,Mccain,2008,Republican
+2008-09-16,"Youngstown, Ohio",Youngstown,Ohio,41.1035786,-80.6520161,Mccain,2008,Republican
+2008-09-17,"Grand Rapids, Michigan",Grand Rapids,Michigan,42.9632425,-85.6678639,Mccain,2008,Republican
+2008-09-17,"Lake Orion, Michigan",Lake Orion,Michigan,42.7844752,-83.2396612,Mccain,2008,Republican
+2008-09-18,"Cedar Rapids, Iowa",Cedar Rapids,Iowa,41.9758872,-91.6704053,Mccain,2008,Republican
+2008-09-18,"Green Bay, Wisconsin",Green Bay,Wisconsin,44.5126379,-88.0125794,Mccain,2008,Republican
+2008-09-19,"Blaine, Minnesota",Blaine,Minnesota,45.1607987,-93.2349489,Mccain,2008,Republican
+2008-09-19,"Green Bay, Wisconsin",Green Bay,Wisconsin,44.5126379,-88.0125794,Mccain,2008,Republican
+2008-09-22,"Media, Pennsylvania",Media,Pennsylvania,39.9167783,-75.387693,Mccain,2008,Republican
+2008-09-22,"Scranton, Pennsylvania",Scranton,Pennsylvania,41.4086874,-75.6621294,Mccain,2008,Republican
+2008-09-23,"Freeland, Michigan",Freeland,Michigan,43.5250265,-84.1227598,Mccain,2008,Republican
+2008-09-23,"Berea, Ohio",Berea,Ohio,41.3661614,-81.8543026,Mccain,2008,Republican
+2008-09-23,"Middleburg Heights, Ohio",Middleburg Heights,Ohio,41.3614401,-81.812912,Mccain,2008,Republican
+2008-09-23,"Strongsville, Ohio",Strongsville,Ohio,41.3144733,-81.83511,Mccain,2008,Republican
+2008-09-29,"Bexley, Ohio",Bexley,Ohio,39.9692378,-82.936864,Mccain,2008,Republican
+2008-09-03,"Des Moines, Iowa",Des Moines,Iowa,41.5868654,-93.6249494,Mccain,2008,Republican
+2008-10-01,"Independence, Missouri",Independence,Missouri,39.078055,-94.3740272140559,Mccain,2008,Republican
+2008-10-02,"Denver, Colorado",Denver,Colorado,39.7392364,-104.984862,Mccain,2008,Republican
+2008-10-03,"Pueblo, Colorado",Pueblo,Colorado,38.263995,-104.6141867,Mccain,2008,Republican
+2008-10-06,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985,Mccain,2008,Republican
+2008-10-08,"Strongsville, Ohio",Strongsville,Ohio,41.3144733,-81.83511,Mccain,2008,Republican
+2008-10-08,"Bethlehem, Pennsylvania",Bethlehem,Pennsylvania,40.6178915,-75.3786521,Mccain,2008,Republican
+2008-10-09,"Mosinee, Wisconsin",Mosinee,Wisconsin,44.7927298,-89.7035959,Mccain,2008,Republican
+2008-10-09,"Waukesha, Wisconsin",Waukesha,Wisconsin,43.0622536,-88.3123889,Mccain,2008,Republican
+2008-10-01,"Lakeville, Minnesota",Lakeville,Minnesota,44.650051,-93.2432791,Mccain,2008,Republican
+2008-10-01,"La Crosse, Wisconsin",La Crosse,Wisconsin,43.8122836,-91.2514355,Mccain,2008,Republican
+2008-10-11,"Davenport, Iowa",Davenport,Iowa,41.5235808,-90.5770967,Mccain,2008,Republican
+2008-10-13,"Wilmington, North Carolina",Wilmington,North Carolina,34.2257282,-77.9447107,Mccain,2008,Republican
+2008-10-13,"Virginia Beach, Virginia",Virginia Beach,Virginia,36.8496579,-75.9760751,Mccain,2008,Republican
+2008-10-14,"Blue Bell, Pennsylvania",Blue Bell,Pennsylvania,40.147809,-75.27278098877919,Mccain,2008,Republican
+2008-10-16,"Downingtown, Pennsylvania",Downingtown,Pennsylvania,40.0064958,-75.7032742,Mccain,2008,Republican
+2008-10-17,"Melbourne, Florida",Melbourne,Florida,28.0785034,-80.6077908,Mccain,2008,Republican
+2008-10-17,"Miami, Florida",Miami,Florida,25.7741728,-80.19362,Mccain,2008,Republican
+2008-10-18,"Concord, North Carolina",Concord,North Carolina,35.4094178,-80.5800049,Mccain,2008,Republican
+2008-10-18,"Woodbridge, Virginia",Woodbridge,Virginia,38.6361522,-77.26783643627006,Mccain,2008,Republican
+2008-10-19,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173,Mccain,2008,Republican
+2008-10-19,"Westerville, Ohio",Westerville,Ohio,40.126139,-82.9295287,Mccain,2008,Republican
+2008-10-02,"Belton, Missouri",Belton,Missouri,38.8108097,-94.5313502,Mccain,2008,Republican
+2008-10-02,"Columbia, Missouri",Columbia,Missouri,38.951883,-92.3337366,Mccain,2008,Republican
+2008-10-02,"St. Charles, Missouri",St. Charles,Missouri,38.7877791,-90.6747372,Mccain,2008,Republican
+2008-10-21,"Bensalem, Pennsylvania",Bensalem,Pennsylvania,40.1045549,-74.951279,Mccain,2008,Republican
+2008-10-21,"Harrisburg, Pennsylvania",Harrisburg,Pennsylvania,40.2663107,-76.8861122,Mccain,2008,Republican
+2008-10-21,"Moon Township, Pennsylvania",Moon Township,Pennsylvania,40.506100000000004,-80.2082,Mccain,2008,Republican
+2008-10-22,"Goffstown, New Hampshire",Goffstown,New Hampshire,43.0202574,-71.5999535,Mccain,2008,Republican
+2008-10-22,"Cincinnati, Ohio",Cincinnati,Ohio,39.1014537,-84.5124602,Mccain,2008,Republican
+2008-10-22,"Green, Ohio",Green,Ohio,40.9468077,-81.4670631,Mccain,2008,Republican
+2008-10-23,"Altamonte Springs, Florida",Altamonte Springs,Florida,28.6649055,-81.37626861372098,Mccain,2008,Republican
+2008-10-23,"Daytona Beach, Florida",Daytona Beach,Florida,29.2108147,-81.0228331,Mccain,2008,Republican
+2008-10-23,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304,Mccain,2008,Republican
+2008-10-23,"Ormond Beach, Florida",Ormond Beach,Florida,29.2854132,-81.0557921,Mccain,2008,Republican
+2008-10-23,"Plant City, Florida",Plant City,Florida,28.01806015,-82.11848198507127,Mccain,2008,Republican
+2008-10-23,"Sarasota, Florida",Sarasota,Florida,27.3365805,-82.5308545,Mccain,2008,Republican
+2008-10-24,"Colorado Springs, Colorado",Colorado Springs,Colorado,38.8339578,-104.825348,Mccain,2008,Republican
+2008-10-24,"Denver, Colorado",Denver,Colorado,39.7392364,-104.984862,Mccain,2008,Republican
+2008-10-24,"Durango, Colorado",Durango,Colorado,37.2769484,-107.8766,Mccain,2008,Republican
+2008-10-25,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985,Mccain,2008,Republican
+2008-10-25,"Mesilla, New Mexico",Mesilla,New Mexico,32.2741174,-106.7952056,Mccain,2008,Republican
+2008-10-26,"Cedar Falls, Iowa",Cedar Falls,Iowa,42.5361805,-92.447758,Mccain,2008,Republican
+2008-10-26,"Lancaster, Ohio",Lancaster,Ohio,39.7136754,-82.5993294,Mccain,2008,Republican
+2008-10-26,"Zanesville, Ohio",Zanesville,Ohio,39.9401426,-82.005019,Mccain,2008,Republican
+2008-10-27,"Cleveland, Ohio",Cleveland,Ohio,41.4996574,-81.6936772,Mccain,2008,Republican
+2008-10-27,"Kettering, Ohio",Kettering,Ohio,39.6895036,-84.1688274,Mccain,2008,Republican
+2008-10-27,"Pottsville, Pennsylvania",Pottsville,Pennsylvania,40.6851324,-76.1953701,Mccain,2008,Republican
+2008-10-28,"Fayetteville, North Carolina",Fayetteville,North Carolina,35.0525759,-78.878292,Mccain,2008,Republican
+2008-10-28,"Hershey, Pennsylvania",Hershey,Pennsylvania,40.2854881,-76.6506001,Mccain,2008,Republican
+2008-10-29,"Jupiter, Florida",Jupiter,Florida,26.9342246,-80.0942087,Mccain,2008,Republican
+2008-10-29,"Miami, Florida",Miami,Florida,25.7741728,-80.19362,Mccain,2008,Republican
+2008-10-03,"Defiance, Ohio",Defiance,Ohio,41.3203058,-84.5084835,Mccain,2008,Republican
+2008-10-03,"Elyria, Ohio",Elyria,Ohio,41.3673191,-82.1073583,Mccain,2008,Republican
+2008-10-03,"Mentor, Ohio",Mentor,Ohio,41.6664781,-81.3399769,Mccain,2008,Republican
+2008-10-03,"Sandusky, Ohio",Sandusky,Ohio,41.2951563,-83.1555438,Mccain,2008,Republican
+2008-10-03,"Tiffin, Ohio",Tiffin,Ohio,41.114485,-83.1779537,Mccain,2008,Republican
+2008-10-31,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065,Mccain,2008,Republican
+2008-10-31,"Hanoverton, Ohio",Hanoverton,Ohio,40.7511704,-80.937032,Mccain,2008,Republican
+2008-10-31,"New Philadelphia, Ohio",New Philadelphia,Ohio,40.4897871,-81.4456706,Mccain,2008,Republican
+2008-10-31,"Steubenville, Ohio",Steubenville,Ohio,40.3600714,-80.6151034,Mccain,2008,Republican
+2008-11-01,"Perkasie, Pennsylvania",Perkasie,Pennsylvania,40.372048,-75.292676,Mccain,2008,Republican
+2008-11-01,"Springfield, Virginia",Springfield,Virginia,38.7767435,-77.1807019310668,Mccain,2008,Republican
+2008-11-02,"Peterborough, New Hampshire",Peterborough,New Hampshire,42.8776166,-71.949383,Mccain,2008,Republican
+2008-11-02,"Scranton, Pennsylvania",Scranton,Pennsylvania,41.4086874,-75.6621294,Mccain,2008,Republican
+2008-11-02,"Wallingford, Pennsylvania",Wallingford,Pennsylvania,39.9036359,-75.3716623,Mccain,2008,Republican
+2008-11-03,"Coral Gables, Florida",Coral Gables,Florida,25.7331105,-80.2585107,Mccain,2008,Republican
+2008-11-03,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444,Mccain,2008,Republican
+2008-11-03,"Indianapolis, Indiana",Indianapolis,Indiana,39.7683331,-86.1583502,Mccain,2008,Republican
+2008-11-03,"Henderson, Nevada",Henderson,Nevada,36.0301134,-114.9826194,Mccain,2008,Republican
+2008-11-03,"Roswell, New Mexico",Roswell,New Mexico,33.3943282,-104.5229518,Mccain,2008,Republican
+2008-11-03,"Moon Township, Pennsylvania",Moon Township,Pennsylvania,40.506100000000004,-80.2082,Mccain,2008,Republican
+2008-11-03,"Blountville, Tennessee",Blountville,Tennessee,36.5331586,-82.326806,Mccain,2008,Republican
+2008-11-04,"Prescott, Arizona",Prescott,Arizona,34.539984,-112.468812,Mccain,2008,Republican
+2008-11-04,"Grand Junction, Colorado",Grand Junction,Colorado,39.0672568,-108.56448,Mccain,2008,Republican
+2008-11-04,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985,Mccain,2008,Republican
+2004-09-01,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065,Bush,2004,Republican
+2004-09-01,"Queens, New York",Queens,New York,40.6515585,-73.79267536317502,Bush,2004,Republican
+2004-09-02,"New York, New York",New York,New York,40.7127281,-74.0060152,Bush,2004,Republican
+2004-09-03,"Scranton, Pennsylvania",Scranton,Pennsylvania,41.4086874,-75.6621294,Bush,2004,Republican
+2004-09-03,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751,Bush,2004,Republican
+2004-09-03,"Cedar Rapids, Iowa",Cedar Rapids,Iowa,41.9758872,-91.6704053,Bush,2004,Republican
+2004-09-04,"Broadview Heights, Ohio",Broadview Heights,Ohio,41.3139426,-81.6851271,Bush,2004,Republican
+2004-09-04,"Kirtland, Ohio",Kirtland,Ohio,41.628937,-81.361499,Bush,2004,Republican
+2004-09-04,"Erie, Pennsylvania",Erie,Pennsylvania,42.1294712,-80.0852695,Bush,2004,Republican
+2004-09-05,"Parkserburg, West Virginia",Parkserburg,West Virginia,NA,NA,Bush,2004,Republican
+2004-09-06,"Poplar Bluff, Missouri",Poplar Bluff,Missouri,36.7568327,-90.3957115,Bush,2004,Republican
+2004-09-07,"Lee's Summit, Missouri",Lee's Summit,Missouri,38.9107156,-94.3821295,Bush,2004,Republican
+2004-09-07,"Sedalia, Missouri",Sedalia,Missouri,38.7098314,-93.2295515,Bush,2004,Republican
+2004-09-07,"Colombua, Missouri",Colombua,Missouri,NA,NA,Bush,2004,Republican
+2004-09-08,"Fort Pierce, Florida",Fort Pierce,Florida,27.4467056,-80.3256056,Bush,2004,Republican
+2004-09-08,"Miami, Florida",Miami,Florida,25.7741728,-80.19362,Bush,2004,Republican
+2004-09-09,"Colmar, Pennsylvania",Colmar,Pennsylvania,40.2673286,-75.2535079,Bush,2004,Republican
+2004-09-09,"Johnstown, Pennsylvania",Johnstown,Pennsylvania,40.3267407,-78.9219698,Bush,2004,Republican
+2004-09-10,"Huntington, West Virginia",Huntington,West Virginia,38.4192496,-82.445154,Bush,2004,Republican
+2004-09-10,"Ironton, Ohio",Ironton,Ohio,38.5367471,-82.6829406,Bush,2004,Republican
+2004-09-10,"Portsmouth, Ohio",Portsmouth,Ohio,38.7345374,-82.9962742,Bush,2004,Republican
+2004-09-10,"Chillicothe, Ohio",Chillicothe,Ohio,39.3331197,-82.9824019,Bush,2004,Republican
+2004-09-13,"Muskegon, Michigan",Muskegon,Michigan,43.2484584,-86.129351,Bush,2004,Republican
+2004-09-13,"Holland, Michigan",Holland,Michigan,42.7876022,-86.1090828,Bush,2004,Republican
+2004-09-13,"Battle Creek, Michigan",Battle Creek,Michigan,42.3192548,-85.1824269,Bush,2004,Republican
+2004-09-14,"Greenwood Village, Colorado",Greenwood Village,Colorado,39.6172101,-104.950814,Bush,2004,Republican
+2004-09-14,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516,Bush,2004,Republican
+2004-09-16,"St. Cloud, Minnesota",St. Cloud,Minnesota,45.5616075,-94.1642004,Bush,2004,Republican
+2004-09-16,"Blaine, Minnesota",Blaine,Minnesota,45.1607987,-93.2349489,Bush,2004,Republican
+2004-09-16,"Rochester, Minnesota",Rochester,Minnesota,44.0234387,-92.4630182,Bush,2004,Republican
+2004-09-17,"Washington, District of Colombia",Washington,District of Colombia,38.915419,-77.04728876827758,Bush,2004,Republican
+2004-09-17,"Charlotte, North Carolina",Charlotte,North Carolina,35.2272086,-80.8430827,Bush,2004,Republican
+2004-09-19,"Pensacola, Florida",Pensacola,Florida,30.421309,-87.2169149,Bush,2004,Republican
+2004-09-19,"Orange Beach, Alabama",Orange Beach,Alabama,30.2943681,-87.5735935,Bush,2004,Republican
+2004-09-20,"Derry, New Hampshire",Derry,New Hampshire,42.8808677,-71.3264492,Bush,2004,Republican
+2004-09-20,"New York, New York",New York,New York,40.7127281,-74.0060152,Bush,2004,Republican
+2004-09-21,"New York, New York",New York,New York,40.7127281,-74.0060152,Bush,2004,Republican
+2004-09-22,"King of Prussia, Pennsylvania",King of Prussia,Pennsylvania,40.0908111,-75.3832484,Bush,2004,Republican
+2004-09-22,"Latrobe, Pennsylvania",Latrobe,Pennsylvania,40.317287,-79.3840301,Bush,2004,Republican
+2004-09-23,"Bangor, Maine",Bangor,Maine,44.8016255,-68.7713289,Bush,2004,Republican
+2004-09-24,"Jansesville, Wisconsin",Jansesville,Wisconsin,NA,NA,Bush,2004,Republican
+2004-09-24,"Racine, Wisconsin",Racine,Wisconsin,42.7260523,-87.7825242,Bush,2004,Republican
+2004-09-27,"Springfield, Ohio",Springfield,Ohio,39.9234046,-83.810138,Bush,2004,Republican
+2004-09-27,"West Chester, Ohio",West Chester,Ohio,39.3303357,-84.408275,Bush,2004,Republican
+2004-09-29,"Lake Wales, Florida",Lake Wales,Florida,27.9014133,-81.5859099,Bush,2004,Republican
+2004-09-30,"Stuart, Florida",Stuart,Florida,27.197983,-80.2519175,Bush,2004,Republican
+2004-09-30,"Coral Gables, Florida",Coral Gables,Florida,25.7331105,-80.2585107,Bush,2004,Republican
+2004-10-01,"Allentown, Pennsylvania",Allentown,Pennsylvania,40.6022059,-75.4712794,Bush,2004,Republican
+2004-10-01,"Manchester, New Hampshire",Manchester,New Hampshire,42.9956397,-71.4547891,Bush,2004,Republican
+2004-10-02,"Colombus, Ohio",Colombus,Ohio,NA,NA,Bush,2004,Republican
+2004-10-02,"Mansfeild, Ohio",Mansfeild,Ohio,NA,NA,Bush,2004,Republican
+2004-10-02,"Cuyahoga Falls, Ohio",Cuyahoga Falls,Ohio,41.1362729,-81.4828123,Bush,2004,Republican
+2004-10-04,"Des Moines, Iowa",Des Moines,Iowa,41.5868654,-93.6249494,Bush,2004,Republican
+2004-10-04,"Clive, Iowa",Clive,Iowa,41.6096559,-93.7754644,Bush,2004,Republican
+2004-10-06,"Wilkes-Barre, Pennsylvania",Wilkes-Barre,Pennsylvania,41.2464824,-75.8817316,Bush,2004,Republican
+2004-10-06,"Farmington Hills, Michigan",Farmington Hills,Michigan,42.4853125,-83.3771553,Bush,2004,Republican
+2004-10-07,"Wausau, Wisconsin",Wausau,Wisconsin,44.9597858,-89.6272791,Bush,2004,Republican
+2004-10-08,"St. Louis, Missouri",St. Louis,Missouri,38.6280278,-90.1910154,Bush,2004,Republican
+2004-10-09,"Waterloo, Iowa",Waterloo,Iowa,42.498275,-92.3328743,Bush,2004,Republican
+2004-10-09,"Chanhassen, Minnesota",Chanhassen,Minnesota,44.8618403,-93.5307207,Bush,2004,Republican
+2004-10-11,"Hoobs, New Mexico",Hoobs,New Mexico,NA,NA,Bush,2004,Republican
+2004-10-11,"Denver, Colorado",Denver,Colorado,39.7392364,-104.984862,Bush,2004,Republican
+2004-10-11,"Morrison, Colorado",Morrison,Colorado,39.6535988,-105.191099,Bush,2004,Republican
+2004-10-12,"Colorado Springs, Colorado",Colorado Springs,Colorado,38.8339578,-104.825348,Bush,2004,Republican
+2004-10-12,"Paradise Valley, Arizona",Paradise Valley,Arizona,33.5428006,-111.9556001,Bush,2004,Republican
+2004-10-13,"Phoenix, Arizona",Phoenix,Arizona,33.4484367,-112.074141,Bush,2004,Republican
+2004-10-14,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516,Bush,2004,Republican
+2004-10-14,"Reno, Nevada",Reno,Nevada,39.5261206,-119.8126581,Bush,2004,Republican
+2004-10-14,"Central Point, Oregon",Central Point,Oregon,42.376782,-122.912721,Bush,2004,Republican
+2004-10-15,"Cedar Rapids, Iowa",Cedar Rapids,Iowa,41.9758872,-91.6704053,Bush,2004,Republican
+2004-10-15,"Oshkosh, Wisconsin",Oshkosh,Wisconsin,44.0206919,-88.5408574,Bush,2004,Republican
+2004-10-16,"Sunrise, Florida",Sunrise,Florida,26.1666888,-80.2787573,Bush,2004,Republican
+2004-10-16,"West Palm Beach, Florida",West Palm Beach,Florida,26.715364,-80.0532942,Bush,2004,Republican
+2004-10-16,"Daytona Beach, Florida",Daytona Beach,Florida,29.2108147,-81.0228331,Bush,2004,Republican
+2004-10-18,"Marlton, New Jersey",Marlton,New Jersey,39.9005585,-74.93389105589023,Bush,2004,Republican
+2004-10-18,"Boca Raton, Florida",Boca Raton,Florida,26.3586885,-80.0830984,Bush,2004,Republican
+2004-10-19,"St. Petersburg, Florida",St. Petersburg,Florida,27.7700475,-82.6359078,Bush,2004,Republican
+2004-10-19,"Port Richey, Florida",Port Richey,Florida,28.2716755,-82.7195451,Bush,2004,Republican
+2004-10-19,"The Villages, Florida",The Villages,Florida,28.8759024,-81.98457902636167,Bush,2004,Republican
+2004-10-20,"Mason City, Iowa",Mason City,Iowa,43.1524574,-93.2017941,Bush,2004,Republican
+2004-10-20,"Rochester, Minnesota",Rochester,Minnesota,44.0234387,-92.4630182,Bush,2004,Republican
+2004-10-20,"Eu Claire, Wisconsin",Eu Claire,Wisconsin,NA,NA,Bush,2004,Republican
+2004-10-21,"Downington, Pennsylvania",Downington,Pennsylvania,40.331676,-76.7811298,Bush,2004,Republican
+2004-10-21,"Hershey, Pennsylvania",Hershey,Pennsylvania,40.2854881,-76.6506001,Bush,2004,Republican
+2004-10-22,"Wilkes-Barre, Pennsylvania",Wilkes-Barre,Pennsylvania,41.2464824,-75.8817316,Bush,2004,Republican
+2004-10-22,"Canton, Ohio",Canton,Ohio,40.7985464,-81.3749508,Bush,2004,Republican
+2004-10-22,"St. Petersburg, Florida",St. Petersburg,Florida,27.7700475,-82.6359078,Bush,2004,Republican
+2004-10-23,"Fort Meyers, Florida",Fort Meyers,Florida,27.797846,-81.32804,Bush,2004,Republican
+2004-10-23,"Lakeland, Florida",Lakeland,Florida,28.0394654,-81.9498042,Bush,2004,Republican
+2004-10-23,"Melbourne, Florida",Melbourne,Florida,28.0785034,-80.6077908,Bush,2004,Republican
+2004-10-23,"Jacksonville, Florida",Jacksonville,Florida,30.3321838,-81.655651,Bush,2004,Republican
+2004-10-24,"Alamagorda, New Mexico",Alamagorda,New Mexico,NA,NA,Bush,2004,Republican
+2004-10-25,"Greeley, Colorado",Greeley,Colorado,40.4233142,-104.7091322,Bush,2004,Republican
+2004-10-25,"Council Bluffs, Iowa",Council Bluffs,Iowa,41.258841,-95.8519484,Bush,2004,Republican
+2004-10-25,"Davenport, Iowa",Davenport,Iowa,41.5235808,-90.5770967,Bush,2004,Republican
+2004-10-26,"Onalaska, Wisconsin",Onalaska,Wisconsin,43.8830606,-91.2343539,Bush,2004,Republican
+2004-10-26,"Richland Center, Wisconsin",Richland Center,Wisconsin,43.3355298,-90.3854141,Bush,2004,Republican
+2004-10-26,"Cuba City, Wisconsin",Cuba City,Wisconsin,42.6055549,-90.4298502,Bush,2004,Republican
+2004-10-26,"Dubuque, Iowa",Dubuque,Iowa,42.5006243,-90.6647985,Bush,2004,Republican
+2004-10-27,"Lancaster, Pennsylvania",Lancaster,Pennsylvania,40.08067,-76.2411283,Bush,2004,Republican
+2004-10-27,"Vienna, Ohio",Vienna,Ohio,41.2407091,-80.6639706,Bush,2004,Republican
+2004-10-27,"Findlay, Ohio",Findlay,Ohio,41.0413873,-83.6503982,Bush,2004,Republican
+2004-10-27,"Pontiac, Michigan",Pontiac,Michigan,42.6389216,-83.2910468,Bush,2004,Republican
+2004-10-28,"Saginaw, Michigan",Saginaw,Michigan,43.3326882,-84.0468403,Bush,2004,Republican
+2004-10-28,"Dayton, Ohio",Dayton,Ohio,39.7589478,-84.1916069,Bush,2004,Republican
+2004-10-28,"Westlake, Ohio",Westlake,Ohio,41.4553232,-81.9179174,Bush,2004,Republican
+2004-10-28,"Yardley, Pennsylvania",Yardley,Pennsylvania,40.245664,-74.8459972,Bush,2004,Republican
+2004-10-29,"Manchester, New Hampshire",Manchester,New Hampshire,42.9956397,-71.4547891,Bush,2004,Republican
+2004-10-29,"Portsmouth, New Hampshire",Portsmouth,New Hampshire,43.0764436,-70.7573936,Bush,2004,Republican
+2004-10-29,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173,Bush,2004,Republican
+2004-10-29,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065,Bush,2004,Republican
+2004-10-30,"Grand Rapids, Michigan",Grand Rapids,Michigan,42.9632425,-85.6678639,Bush,2004,Republican
+2004-10-30,"Ashwaubenon, Wisconsin",Ashwaubenon,Wisconsin,44.4752606,-88.060735,Bush,2004,Republican
+2004-10-30,"Minneapolis, Minnesota",Minneapolis,Minnesota,44.9772995,-93.2654692,Bush,2004,Republican
+2004-10-30,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304,Bush,2004,Republican
+2004-10-31,"Miami, Florida",Miami,Florida,25.7741728,-80.19362,Bush,2004,Republican
+2004-10-31,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444,Bush,2004,Republican
+2004-10-31,"Gainesville, Florida",Gainesville,Florida,29.6519684,-82.3249846,Bush,2004,Republican
+2004-10-31,"Cincinnati, Ohio",Cincinnati,Ohio,39.1014537,-84.5124602,Bush,2004,Republican
+2004-11-01,"Wilmington, Ohio",Wilmington,Ohio,39.4453393,-83.8285375,Bush,2004,Republican
+2004-11-01,"Burgettstown, Pennsylvania",Burgettstown,Pennsylvania,40.3820133,-80.3928423,Bush,2004,Republican
+2004-11-01,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751,Bush,2004,Republican
+2004-11-01,"Des Moines, Iowa",Des Moines,Iowa,41.5868654,-93.6249494,Bush,2004,Republican
+2004-11-01,"Sioux City, Iowa",Sioux City,Iowa,42.4966815,-96.4058782,Bush,2004,Republican
+2004-11-01,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985,Bush,2004,Republican
+2004-11-01,"Dallas, Texas",Dallas,Texas,32.7762719,-96.7968559,Bush,2004,Republican
+2004-11-02,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065,Bush,2004,Republican
+2004-09-01,"Nashville, Tennessee",Nashville,Tennessee,36.1622767,-86.7742984,Kerry,2004,Democrat
+2004-09-02,"Springfield, Ohio",Springfield,Ohio,39.9234046,-83.810138,Kerry,2004,Democrat
+2004-09-03,"Newark, Ohio",Newark,Ohio,40.0581205,-82.4012643,Kerry,2004,Democrat
+2004-09-03,"Mansfield, Ohio",Mansfield,Ohio,40.75839,-82.5154471,Kerry,2004,Democrat
+2004-09-03,"Ontario, Ohio",Ontario,Ohio,40.7595418,-82.5901658,Kerry,2004,Democrat
+2004-09-04,"Akron, Ohio",Akron,Ohio,41.083064,-81.518485,Kerry,2004,Democrat
+2004-09-04,"Edinburgh, Ohio",Edinburgh,Ohio,40.7553341,-81.8440264,Kerry,2004,Democrat
+2004-09-04,"Wellsville, Ohio",Wellsville,Ohio,40.6099641,-80.6418888,Kerry,2004,Democrat
+2004-09-04,"Steubenville, Ohio",Steubenville,Ohio,40.3600714,-80.6151034,Kerry,2004,Democrat
+2004-09-06,"Cannonsburg, Pennsylvania",Cannonsburg,Pennsylvania,NA,NA,Kerry,2004,Democrat
+2004-09-06,"Racine, West Virginia",Racine,West Virginia,38.1420461,-81.6603973,Kerry,2004,Democrat
+2004-09-06,"Clevland, Ohio",Clevland,Ohio,40.655124,-80.579114,Kerry,2004,Democrat
+2004-09-07,"Greensboro, North Carolina",Greensboro,North Carolina,36.0726355,-79.7919754,Kerry,2004,Democrat
+2004-09-08,"Cincinnati, Ohio",Cincinnati,Ohio,39.1014537,-84.5124602,Kerry,2004,Democrat
+2004-09-08,"Rochester, Minnesota",Rochester,Minnesota,44.0234387,-92.4630182,Kerry,2004,Democrat
+2004-09-09,"Des Moines, Iowa",Des Moines,Iowa,41.5868654,-93.6249494,Kerry,2004,Democrat
+2004-09-09,"New Orleans, Louisiana",New Orleans,Louisiana,29.9759983,-90.0782127,Kerry,2004,Democrat
+2004-09-10,"St. Louis, Missouri",St. Louis,Missouri,38.6280278,-90.1910154,Kerry,2004,Democrat
+2004-09-10,"Allentown, Pennsylvania",Allentown,Pennsylvania,40.6022059,-75.4712794,Kerry,2004,Democrat
+2004-09-11,"Boston, Massachusetts",Boston,Massachusetts,42.3554334,-71.060511,Kerry,2004,Democrat
+2004-09-11,"Washington, District of Colombia",Washington,District of Colombia,38.915419,-77.04728876827758,Kerry,2004,Democrat
+2004-09-13,"Washington, District of Colombia",Washington,District of Colombia,38.915419,-77.04728876827758,Kerry,2004,Democrat
+2004-09-14,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751,Kerry,2004,Democrat
+2004-09-14,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173,Kerry,2004,Democrat
+2004-09-15,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007,Kerry,2004,Democrat
+2004-09-15,"Madison, Wisconsin",Madison,Wisconsin,43.074761,-89.3837613,Kerry,2004,Democrat
+2004-09-15,"Washington, District of Colombia",Washington,District of Colombia,38.915419,-77.04728876827758,Kerry,2004,Democrat
+2004-09-16,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516,Kerry,2004,Democrat
+2004-09-16,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985,Kerry,2004,Democrat
+2004-09-17,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985,Kerry,2004,Democrat
+2004-09-17,"Aurora, Colorado",Aurora,Colorado,39.7405111,-104.830994,Kerry,2004,Democrat
+2004-09-18,"Boston, Massachusetts",Boston,Massachusetts,42.3554334,-71.060511,Kerry,2004,Democrat
+2004-09-20,"New York, New York",New York,New York,40.7127281,-74.0060152,Kerry,2004,Democrat
+2004-09-21,"Jacksonville, Florida",Jacksonville,Florida,30.3321838,-81.655651,Kerry,2004,Democrat
+2004-09-21,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304,Kerry,2004,Democrat
+2004-09-22,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304,Kerry,2004,Democrat
+2004-09-22,"Palm Beach, Florida",Palm Beach,Florida,26.6279798,-80.4494174,Kerry,2004,Democrat
+2004-09-23,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065,Kerry,2004,Democrat
+2004-09-24,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262,Kerry,2004,Democrat
+2004-09-24,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262,Kerry,2004,Democrat
+2004-09-26,"Madison, Wisconsin",Madison,Wisconsin,43.074761,-89.3837613,Kerry,2004,Democrat
+2004-09-27,"Spring Green, Wisconsin",Spring Green,Wisconsin,43.1769367,-90.0680478,Kerry,2004,Democrat
+2004-09-29,"Fort Lauderdale, Florida",Fort Lauderdale,Florida,26.1223084,-80.1433786,Kerry,2004,Democrat
+2004-09-30,"Miami, Florida",Miami,Florida,25.7741728,-80.19362,Kerry,2004,Democrat
+2004-10-01,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444,Kerry,2004,Democrat
+2004-10-01,"Kissimmee, Florida",Kissimmee,Florida,28.2918995,-81.4075838,Kerry,2004,Democrat
+2004-10-02,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304,Kerry,2004,Democrat
+2004-10-02,"Washington, District of Colombia",Washington,District of Colombia,38.915419,-77.04728876827758,Kerry,2004,Democrat
+2004-10-03,"Austintown, Ohio",Austintown,Ohio,41.0996151,-80.7638514,Kerry,2004,Democrat
+2004-10-04,"Hampton, New Hampshire",Hampton,New Hampshire,42.9417199,-70.8378746,Kerry,2004,Democrat
+2004-10-04,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262,Kerry,2004,Democrat
+2004-10-05,"Tipton, Iowa",Tipton,Iowa,41.7697016,-91.1281732,Kerry,2004,Democrat
+2004-10-05,"Denver, Colorado",Denver,Colorado,39.7392364,-104.984862,Kerry,2004,Democrat
+2004-10-08,"St. Louis, Missouri",St. Louis,Missouri,38.6280278,-90.1910154,Kerry,2004,Democrat
+2004-10-09,"Elyria, Ohio",Elyria,Ohio,41.3673191,-82.1073583,Kerry,2004,Democrat
+2004-10-09,"Davie, Florida",Davie,Florida,26.0628665,-80.2331038,Kerry,2004,Democrat
+2004-10-10,"Miami, Florida",Miami,Florida,25.7741728,-80.19362,Kerry,2004,Democrat
+2004-10-10,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985,Kerry,2004,Democrat
+2004-10-11,"Sante Fe, New Mexico",Sante Fe,New Mexico,36.028174,-104.901659,Kerry,2004,Democrat
+2004-10-13,"Tempe, Arizona",Tempe,Arizona,33.4255117,-111.940016,Kerry,2004,Democrat
+2004-10-14,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516,Kerry,2004,Democrat
+2004-10-14,"Des Moines, Iowa",Des Moines,Iowa,41.5868654,-93.6249494,Kerry,2004,Democrat
+2004-10-15,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751,Kerry,2004,Democrat
+2004-10-15,"Sheboygan, Wisconsin",Sheboygan,Wisconsin,43.7128967,-87.9370433,Kerry,2004,Democrat
+2004-10-15,"Appleton, Wisconsin",Appleton,Wisconsin,44.2613967,-88.4069744,Kerry,2004,Democrat
+2004-10-16,"Xenia, Ohio",Xenia,Ohio,39.6847822,-83.9296526,Kerry,2004,Democrat
+2004-10-16,"Wakefield, Ohio",Wakefield,Ohio,40.1417151,-84.6141222,Kerry,2004,Democrat
+2004-10-17,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065,Kerry,2004,Democrat
+2004-10-17,"Pembroke Pines, Florida",Pembroke Pines,Florida,26.0061943,-80.2872086,Kerry,2004,Democrat
+2004-10-18,"West Palm Beach, Florida",West Palm Beach,Florida,26.715364,-80.0532942,Kerry,2004,Democrat
+2004-10-18,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444,Kerry,2004,Democrat
+2004-10-18,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304,Kerry,2004,Democrat
+2004-10-19,"Wilkes Barre, Pennsylvania",Wilkes Barre,Pennsylvania,41.2464824,-75.8817316,Kerry,2004,Democrat
+2004-10-19,"Dayton, Ohio",Dayton,Ohio,39.7589478,-84.1916069,Kerry,2004,Democrat
+2004-10-20,"Waterloo, Iowa",Waterloo,Iowa,42.498275,-92.3328743,Kerry,2004,Democrat
+2004-10-20,"Pittsburgh, Pennsylvania",Pittsburgh,Pennsylvania,40.4416941,-79.9900861,Kerry,2004,Democrat
+2004-10-21,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065,Kerry,2004,Democrat
+2004-10-21,"Minneapolis, Minnesota",Minneapolis,Minnesota,44.9772995,-93.2654692,Kerry,2004,Democrat
+2004-10-22,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751,Kerry,2004,Democrat
+2004-10-22,"Reno, Nevada",Reno,Nevada,39.5261206,-119.8126581,Kerry,2004,Democrat
+2004-10-23,"Pueblo, Colorado",Pueblo,Colorado,38.263995,-104.6141867,Kerry,2004,Democrat
+2004-10-23,"Las Cruces, New Mexico",Las Cruces,New Mexico,32.3140354,-106.779807,Kerry,2004,Democrat
+2004-10-23,"Anthony, New Mexico",Anthony,New Mexico,32.02100195,-106.59097057542216,Kerry,2004,Democrat
+2004-10-24,"Fort Lauderdale, Florida",Fort Lauderdale,Florida,26.1223084,-80.1433786,Kerry,2004,Democrat
+2004-10-24,"Boca Raton, Florida",Boca Raton,Florida,26.3586885,-80.0830984,Kerry,2004,Democrat
+2004-10-25,"Dover, New Hampshire",Dover,New Hampshire,43.1981117,-70.8739761,Kerry,2004,Democrat
+2004-10-25,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262,Kerry,2004,Democrat
+2004-10-25,"Warren, Michigan",Warren,Michigan,42.4932575,-83.0062746,Kerry,2004,Democrat
+2004-10-25,"Green Bay, Wisconsin",Green Bay,Wisconsin,44.5126379,-88.0125794,Kerry,2004,Democrat
+2004-10-26,"Green Bay, Wisconsin",Green Bay,Wisconsin,44.5126379,-88.0125794,Kerry,2004,Democrat
+2004-10-26,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516,Kerry,2004,Democrat
+2004-10-26,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985,Kerry,2004,Democrat
+2004-10-27,"Sioux City, Iowa",Sioux City,Iowa,42.4966815,-96.4058782,Kerry,2004,Democrat
+2004-10-27,"Rochester, Minnesota",Rochester,Minnesota,44.0234387,-92.4630182,Kerry,2004,Democrat
+2004-10-27,"Cedar Rapids, Iowa",Cedar Rapids,Iowa,41.9758872,-91.6704053,Kerry,2004,Democrat
+2004-10-28,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173,Kerry,2004,Democrat
+2004-10-28,"Madison, Wisconsin",Madison,Wisconsin,43.074761,-89.3837613,Kerry,2004,Democrat
+2004-10-28,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065,Kerry,2004,Democrat
+2004-10-29,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304,Kerry,2004,Democrat
+2004-10-29,"West Palm Beach, Florida",West Palm Beach,Florida,26.715364,-80.0532942,Kerry,2004,Democrat
+2004-10-29,"Miami, Florida",Miami,Florida,25.7741728,-80.19362,Kerry,2004,Democrat
+2004-10-30,"Appleton, Wisconsin",Appleton,Wisconsin,44.2613967,-88.4069744,Kerry,2004,Democrat
+2004-10-30,"Des Moines, Iowa",Des Moines,Iowa,41.5868654,-93.6249494,Kerry,2004,Democrat
+2004-10-30,"Warren, Ohio",Warren,Ohio,39.4203978,-84.180897,Kerry,2004,Democrat
+2004-10-31,"Dayton, Ohio",Dayton,Ohio,39.7589478,-84.1916069,Kerry,2004,Democrat
+2004-10-31,"Manchester, New Hampshire",Manchester,New Hampshire,42.9956397,-71.4547891,Kerry,2004,Democrat
+2004-10-31,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444,Kerry,2004,Democrat
+2004-11-01,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304,Kerry,2004,Democrat
+2004-11-01,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751,Kerry,2004,Democrat
+2004-11-01,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007,Kerry,2004,Democrat
+2004-11-01,"Clevland, Ohio",Clevland,Ohio,40.655124,-80.579114,Kerry,2004,Democrat
+2004-11-01,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173,Kerry,2004,Democrat
+2004-11-02,"LaCrosse, Wisconsin",LaCrosse,Wisconsin,43.43515305,-89.72958335,Kerry,2004,Democrat

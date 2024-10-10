@@ -1,0 +1,53 @@
+state,electoral_votes,obama_2008,mccain_2008,winner_2008
+Alabama,9,0,9,McCain
+Alaska,3,0,3,McCain
+Arizona,10,0,10,McCain
+Arkansas,6,0,6,McCain
+California,55,55,0,Obama
+Colorado,9,9,0,Obama
+Connecticut,7,7,0,Obama
+Delaware,3,3,0,Obama
+District of Columbia,3,3,0,Obama
+Florida,27,27,0,Obama
+Georgia,15,0,15,McCain
+Hawaii,4,4,0,Obama
+Idaho,4,0,4,McCain
+Illinois,21,21,0,Obama
+Indiana,11,11,0,Obama
+Iowa,7,7,0,Obama
+Kansas,6,0,6,McCain
+Kentucky,8,0,8,McCain
+Louisiana,9,0,9,McCain
+Maine,4,4,0,Obama
+Maryland,10,10,0,Obama
+Massachusetts,12,12,0,Obama
+Michigan,17,17,0,Obama
+Minnesota,10,10,0,Obama
+Mississippi,6,0,6,McCain
+Missouri,11,0,11,McCain
+Montana,3,0,3,McCain
+Nebraska,5,1,4,McCain
+Nevada,5,5,0,Obama
+New Hampshire,4,4,0,Obama
+New Jersey,15,15,0,Obama
+New Mexico,5,5,0,Obama
+New York,31,31,0,Obama
+North Carolina,15,15,0,Obama
+North Dakota,3,0,3,McCain
+Ohio,20,20,0,Obama
+Oklahoma,7,0,7,McCain
+Oregon,7,7,0,Obama
+Pennsylvania,21,21,0,Obama
+Rhode Island,4,4,0,Obama
+South Carolina,8,0,8,McCain
+South Dakota,3,0,3,McCain
+Tennessee,11,0,11,McCain
+Texas,34,0,34,McCain
+Utah,5,0,5,McCain
+Vermont,3,3,0,Obama
+Virginia,13,13,0,Obama
+Washington,11,11,0,Obama
+West Virginia,5,0,5,McCain
+Wisconsin,10,10,0,Obama
+Wyoming,3,0,3,McCain
+Total,538,365,173,Obama

@@ -1,0 +1,53 @@
+state,electoral_votes,biden_2020,trump_2020,winner_2020,trump_2016,clinton_2016,winner_2016,obama_2012,romney_2012,winner_2012,obama_2008,mccain_2008,winner_2008,bush_2004,kerry_2004,winner_2004
+Alabama,9,0,9,Trump,9,0,Trump,0,9,Romney,0,9,McCain,9,0,Bush
+Alaska,3,0,3,Trump,3,0,Trump,0,3,Romney,0,3,McCain,3,0,Bush
+Arizona,11,11,0,Biden,11,0,Trump,0,11,Romney,0,10,McCain,10,0,Bush
+Arkansas,6,0,6,Trump,6,0,Trump,0,6,Romney,0,6,McCain,6,0,Bush
+California,55,55,0,Biden,0,55,Clinton,55,0,Obama,55,0,Obama,0,55,Kerry
+Colorado,9,9,0,Biden,0,9,Clinton,9,0,Obama,9,0,Obama,9,0,Bush
+Connecticut,7,7,0,Biden,0,7,Clinton,7,0,Obama,7,0,Obama,0,7,Kerry
+Delaware,3,3,0,Biden,0,3,Clinton,3,0,Obama,3,0,Obama,0,3,Kerry
+District of Columbia,3,3,0,Biden,0,3,Clinton,3,0,Obama,3,0,Obama,0,3,Kerry
+Florida,29,0,29,Trump,29,0,Trump,29,0,Obama,27,0,Obama,27,0,Bush
+Georgia,16,16,0,Biden,16,0,Trump,0,16,Romney,0,15,McCain,15,0,Bush
+Hawaii,4,4,0,Biden,0,3,Clinton,4,0,Obama,4,0,Obama,0,4,Kerry
+Idaho,4,0,4,Trump,4,0,Trump,0,4,Romney,0,4,McCain,4,0,Bush
+Illinois,20,20,0,Biden,0,20,Clinton,20,0,Obama,21,0,Obama,0,21,Kerry
+Indiana,11,0,11,Trump,11,0,Trump,0,11,Romney,11,0,Obama,11,0,Bush
+Iowa,6,0,6,Trump,6,0,Trump,6,0,Obama,7,0,Obama,7,0,Bush
+Kansas,6,0,6,Trump,6,0,Trump,0,6,Romney,0,6,McCain,6,0,Bush
+Kentucky,8,0,8,Trump,8,0,Trump,0,8,Romney,0,8,McCain,8,0,Bush
+Louisiana,8,0,8,Trump,8,0,Trump,0,8,Romney,0,9,McCain,9,0,Bush
+Maine,4,3,1,Biden,1,3,Clinton,4,0,Obama,4,0,Obama,0,4,Kerry
+Maryland,10,10,0,Biden,0,10,Clinton,10,0,Obama,10,0,Obama,0,10,Kerry
+Massachusetts,11,11,0,Biden,0,11,Clinton,11,0,Obama,12,0,Obama,0,12,Kerry
+Michigan,16,16,0,Biden,16,0,Trump,16,0,Obama,17,0,Obama,0,17,Kerry
+Minnesota,10,10,0,Biden,0,10,Clinton,10,0,Obama,10,0,Obama,0,9,Kerry
+Mississippi,6,0,6,Trump,6,0,Trump,0,6,Romney,0,6,McCain,6,0,Bush
+Missouri,10,0,10,Trump,10,0,Trump,0,10,Romney,0,11,McCain,11,0,Bush
+Montana,3,0,3,Trump,3,0,Trump,0,3,Romney,0,3,McCain,3,0,Bush
+Nebraska,5,1,4,Trump,5,0,Trump,0,5,Romney,1,4,McCain,5,0,Bush
+Nevada,6,6,0,Biden,0,6,Clinton,6,0,Obama,5,0,Obama,5,0,Bush
+New Hampshire,4,4,0,Biden,0,4,Clinton,4,0,Obama,4,0,Obama,0,4,Kerry
+New Jersey,14,14,0,Biden,0,14,Clinton,14,0,Obama,15,0,Obama,0,15,Kerry
+New Mexico,5,5,0,Biden,0,5,Clinton,5,0,Obama,5,0,Obama,5,0,Bush
+New York,29,29,0,Biden,0,29,Clinton,29,0,Obama,31,0,Obama,0,31,Kerry
+North Carolina,15,0,15,Trump,15,0,Trump,0,15,Romney,15,0,Obama,15,0,Bush
+North Dakota,3,0,3,Trump,3,0,Trump,0,3,Romney,0,3,McCain,3,0,Bush
+Ohio,18,0,18,Trump,18,0,Trump,18,0,Obama,20,0,Obama,20,0,Bush
+Oklahoma,7,0,7,Trump,7,0,Trump,0,7,Romney,0,7,McCain,7,0,Bush
+Oregon,7,7,0,Biden,0,7,Clinton,7,0,Obama,7,0,Obama,0,7,Kerry
+Pennsylvania,20,20,0,Biden,20,0,Trump,20,0,Obama,21,0,Obama,0,21,Kerry
+Rhode Island,4,4,0,Biden,0,4,Clinton,4,0,Obama,4,0,Obama,0,4,Kerry
+South Carolina,9,0,9,Trump,9,0,Trump,0,9,Romney,0,8,McCain,8,0,Bush
+South Dakota,3,0,3,Trump,3,0,Trump,0,3,Romney,0,3,McCain,3,0,Bush
+Tennessee,11,0,11,Trump,11,0,Trump,0,11,Romney,0,11,McCain,11,0,Bush
+Texas,38,0,38,Trump,36,0,Trump,0,38,Romney,0,34,McCain,34,0,Bush
+Utah,6,0,6,Trump,6,0,Trump,0,6,Romney,0,5,McCain,5,0,Bush
+Vermont,3,3,0,Biden,0,3,Clinton,3,0,Obama,3,0,Obama,0,3,Kerry
+Virginia,13,13,0,Biden,0,13,Clinton,13,0,Obama,13,0,Obama,13,0,Bush
+Washington,12,12,0,Biden,0,8,Clinton,12,0,Obama,11,0,Obama,0,11,Kerry
+West Virginia,5,0,5,Trump,5,0,Trump,0,5,Romney,0,5,McCain,5,0,Bush
+Wisconsin,10,10,0,Biden,10,0,Trump,10,0,Obama,10,0,Obama,0,10,Kerry
+Wyoming,3,0,3,Trump,3,0,Trump,0,3,Romney,0,3,McCain,3,0,Bush
+Total,538,306,232,Biden,304,227,Trump,332,206,Obama,365,173,Obama,286,251,Bush

@@ -1,0 +1,114 @@
+date,location,city,state,lat,lng
+2004-09-01,"Nashville, Tennessee",Nashville,Tennessee,36.1622767,-86.7742984
+2004-09-02,"Springfield, Ohio",Springfield,Ohio,39.9234046,-83.810138
+2004-09-03,"Newark, Ohio",Newark,Ohio,40.0581205,-82.4012643
+2004-09-03,"Mansfield, Ohio",Mansfield,Ohio,40.75839,-82.5154471
+2004-09-03,"Ontario, Ohio",Ontario,Ohio,40.7595418,-82.5901658
+2004-09-04,"Akron, Ohio",Akron,Ohio,41.083064,-81.518485
+2004-09-04,"Edinburgh, Ohio",Edinburgh,Ohio,40.7553341,-81.8440264
+2004-09-04,"Wellsville, Ohio",Wellsville,Ohio,40.6099641,-80.6418888
+2004-09-04,"Steubenville, Ohio",Steubenville,Ohio,40.3600714,-80.6151034
+2004-09-06,"Cannonsburg, Pennsylvania",Cannonsburg,Pennsylvania,NA,NA
+2004-09-06,"Racine, West Virginia",Racine,West Virginia,38.1420461,-81.6603973
+2004-09-06,"Clevland, Ohio",Clevland,Ohio,40.655124,-80.579114
+2004-09-07,"Greensboro, North Carolina",Greensboro,North Carolina,36.0726355,-79.7919754
+2004-09-08,"Cincinnati, Ohio",Cincinnati,Ohio,39.1014537,-84.5124602
+2004-09-08,"Rochester, Minnesota",Rochester,Minnesota,44.0234387,-92.4630182
+2004-09-09,"Des Moines, Iowa",Des Moines,Iowa,41.5868654,-93.6249494
+2004-09-09,"New Orleans, Louisiana",New Orleans,Louisiana,29.9759983,-90.0782127
+2004-09-10,"St. Louis, Missouri",St. Louis,Missouri,38.6280278,-90.1910154
+2004-09-10,"Allentown, Pennsylvania",Allentown,Pennsylvania,40.6022059,-75.4712794
+2004-09-11,"Boston, Massachusetts",Boston,Massachusetts,42.3554334,-71.060511
+2004-09-11,"Washington, District of Colombia",Washington,District of Colombia,38.915419,-77.04728876827758
+2004-09-13,"Washington, District of Colombia",Washington,District of Colombia,38.915419,-77.04728876827758
+2004-09-14,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751
+2004-09-14,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173
+2004-09-15,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007
+2004-09-15,"Madison, Wisconsin",Madison,Wisconsin,43.074761,-89.3837613
+2004-09-15,"Washington, District of Colombia",Washington,District of Colombia,38.915419,-77.04728876827758
+2004-09-16,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516
+2004-09-16,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985
+2004-09-17,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985
+2004-09-17,"Aurora, Colorado",Aurora,Colorado,39.7405111,-104.830994
+2004-09-18,"Boston, Massachusetts",Boston,Massachusetts,42.3554334,-71.060511
+2004-09-20,"New York, New York",New York,New York,40.7127281,-74.0060152
+2004-09-21,"Jacksonville, Florida",Jacksonville,Florida,30.3321838,-81.655651
+2004-09-21,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304
+2004-09-22,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304
+2004-09-22,"Palm Beach, Florida",Palm Beach,Florida,26.6279798,-80.4494174
+2004-09-23,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065
+2004-09-24,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262
+2004-09-24,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262
+2004-09-26,"Madison, Wisconsin",Madison,Wisconsin,43.074761,-89.3837613
+2004-09-27,"Spring Green, Wisconsin",Spring Green,Wisconsin,43.1769367,-90.0680478
+2004-09-29,"Fort Lauderdale, Florida",Fort Lauderdale,Florida,26.1223084,-80.1433786
+2004-09-30,"Miami, Florida",Miami,Florida,25.7741728,-80.19362
+2004-10-01,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444
+2004-10-01,"Kissimmee, Florida",Kissimmee,Florida,28.2918995,-81.4075838
+2004-10-02,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304
+2004-10-02,"Washington, District of Colombia",Washington,District of Colombia,38.915419,-77.04728876827758
+2004-10-03,"Austintown, Ohio",Austintown,Ohio,41.0996151,-80.7638514
+2004-10-04,"Hampton, New Hampshire",Hampton,New Hampshire,42.9417199,-70.8378746
+2004-10-04,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262
+2004-10-05,"Tipton, Iowa",Tipton,Iowa,41.7697016,-91.1281732
+2004-10-05,"Denver, Colorado",Denver,Colorado,39.7392364,-104.984862
+2004-10-08,"St. Louis, Missouri",St. Louis,Missouri,38.6280278,-90.1910154
+2004-10-09,"Elyria, Ohio",Elyria,Ohio,41.3673191,-82.1073583
+2004-10-09,"Davie, Florida",Davie,Florida,26.0628665,-80.2331038
+2004-10-10,"Miami, Florida",Miami,Florida,25.7741728,-80.19362
+2004-10-10,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985
+2004-10-11,"Sante Fe, New Mexico",Sante Fe,New Mexico,36.028174,-104.901659
+2004-10-13,"Tempe, Arizona",Tempe,Arizona,33.4255117,-111.940016
+2004-10-14,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516
+2004-10-14,"Des Moines, Iowa",Des Moines,Iowa,41.5868654,-93.6249494
+2004-10-15,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751
+2004-10-15,"Sheboygan, Wisconsin",Sheboygan,Wisconsin,43.7128967,-87.9370433
+2004-10-15,"Appleton, Wisconsin",Appleton,Wisconsin,44.2613967,-88.4069744
+2004-10-16,"Xenia, Ohio",Xenia,Ohio,39.6847822,-83.9296526
+2004-10-16,"Wakefield, Ohio",Wakefield,Ohio,40.1417151,-84.6141222
+2004-10-17,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065
+2004-10-17,"Pembroke Pines, Florida",Pembroke Pines,Florida,26.0061943,-80.2872086
+2004-10-18,"West Palm Beach, Florida",West Palm Beach,Florida,26.715364,-80.0532942
+2004-10-18,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444
+2004-10-18,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304
+2004-10-19,"Wilkes Barre, Pennsylvania",Wilkes Barre,Pennsylvania,41.2464824,-75.8817316
+2004-10-19,"Dayton, Ohio",Dayton,Ohio,39.7589478,-84.1916069
+2004-10-20,"Waterloo, Iowa",Waterloo,Iowa,42.498275,-92.3328743
+2004-10-20,"Pittsburgh, Pennsylvania",Pittsburgh,Pennsylvania,40.4416941,-79.9900861
+2004-10-21,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065
+2004-10-21,"Minneapolis, Minnesota",Minneapolis,Minnesota,44.9772995,-93.2654692
+2004-10-22,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751
+2004-10-22,"Reno, Nevada",Reno,Nevada,39.5261206,-119.8126581
+2004-10-23,"Pueblo, Colorado",Pueblo,Colorado,38.263995,-104.6141867
+2004-10-23,"Las Cruces, New Mexico",Las Cruces,New Mexico,32.3140354,-106.779807
+2004-10-23,"Anthony, New Mexico",Anthony,New Mexico,32.02100195,-106.59097057542215
+2004-10-24,"Fort Lauderdale, Florida",Fort Lauderdale,Florida,26.1223084,-80.1433786
+2004-10-24,"Boca Raton, Florida",Boca Raton,Florida,26.3586885,-80.0830984
+2004-10-25,"Dover, New Hampshire",Dover,New Hampshire,43.1981117,-70.8739761
+2004-10-25,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262
+2004-10-25,"Warren, Michigan",Warren,Michigan,42.4932575,-83.0062746
+2004-10-25,"Green Bay, Wisconsin",Green Bay,Wisconsin,44.5126379,-88.0125794
+2004-10-26,"Green Bay, Wisconsin",Green Bay,Wisconsin,44.5126379,-88.0125794
+2004-10-26,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516
+2004-10-26,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985
+2004-10-27,"Sioux City, Iowa",Sioux City,Iowa,42.4966815,-96.4058782
+2004-10-27,"Rochester, Minnesota",Rochester,Minnesota,44.0234387,-92.4630182
+2004-10-27,"Cedar Rapids, Iowa",Cedar Rapids,Iowa,41.9758872,-91.6704053
+2004-10-28,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173
+2004-10-28,"Madison, Wisconsin",Madison,Wisconsin,43.074761,-89.3837613
+2004-10-28,"Columbus, Ohio",Columbus,Ohio,39.9622601,-83.0007065
+2004-10-29,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304
+2004-10-29,"West Palm Beach, Florida",West Palm Beach,Florida,26.715364,-80.0532942
+2004-10-29,"Miami, Florida",Miami,Florida,25.7741728,-80.19362
+2004-10-30,"Appleton, Wisconsin",Appleton,Wisconsin,44.2613967,-88.4069744
+2004-10-30,"Des Moines, Iowa",Des Moines,Iowa,41.5868654,-93.6249494
+2004-10-30,"Warren, Ohio",Warren,Ohio,39.4203978,-84.180897
+2004-10-31,"Dayton, Ohio",Dayton,Ohio,39.7589478,-84.1916069
+2004-10-31,"Manchester, New Hampshire",Manchester,New Hampshire,42.9956397,-71.4547891
+2004-10-31,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444
+2004-11-01,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304
+2004-11-01,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751
+2004-11-01,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007
+2004-11-01,"Clevland, Ohio",Clevland,Ohio,40.655124,-80.579114
+2004-11-01,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173
+2004-11-02,"LaCrosse, Wisconsin",LaCrosse,Wisconsin,43.43515305,-89.72958335
