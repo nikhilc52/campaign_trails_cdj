@@ -141,6 +141,13 @@ svg.data-background{
     text-wrap: nowrap;
 }
 
+#bush-kerry-2004 {
+    position: absolute;
+    left: 7600px;
+    bottom: 300px;
+    text-wrap: nowrap;
+}
+
 
 h1{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
