@@ -710,7 +710,7 @@ date,location,city,state,lat,lng,candidate,year,candidate_party
 2004-09-16,"St. Cloud, Minnesota",St. Cloud,Minnesota,45.5616075,-94.1642004,Bush,2004,Republican
 2004-09-16,"Blaine, Minnesota",Blaine,Minnesota,45.1607987,-93.2349489,Bush,2004,Republican
 2004-09-16,"Rochester, Minnesota",Rochester,Minnesota,44.0234387,-92.4630182,Bush,2004,Republican
-2004-09-17,"Washington, District of Colombia",Washington,District of Colombia,38.915419,-77.04728876827758,Bush,2004,Republican
+2004-09-17,"Washington, District of Columbia",Washington,District of Columbia,38.8950368,-77.0365427,Bush,2004,Republican
 2004-09-17,"Charlotte, North Carolina",Charlotte,North Carolina,35.2272086,-80.8430827,Bush,2004,Republican
 2004-09-19,"Pensacola, Florida",Pensacola,Florida,30.421309,-87.2169149,Bush,2004,Republican
 2004-09-19,"Orange Beach, Alabama",Orange Beach,Alabama,30.2943681,-87.5735935,Bush,2004,Republican
@@ -827,13 +827,13 @@ date,location,city,state,lat,lng,candidate,year,candidate_party
 2004-09-10,"St. Louis, Missouri",St. Louis,Missouri,38.6280278,-90.1910154,Kerry,2004,Democrat
 2004-09-10,"Allentown, Pennsylvania",Allentown,Pennsylvania,40.6022059,-75.4712794,Kerry,2004,Democrat
 2004-09-11,"Boston, Massachusetts",Boston,Massachusetts,42.3554334,-71.060511,Kerry,2004,Democrat
-2004-09-11,"Washington, District of Colombia",Washington,District of Colombia,38.915419,-77.04728876827758,Kerry,2004,Democrat
-2004-09-13,"Washington, District of Colombia",Washington,District of Colombia,38.915419,-77.04728876827758,Kerry,2004,Democrat
+2004-09-11,"Washington, District of Columbia",Washington,District of Columbia,38.8950368,-77.0365427,Kerry,2004,Democrat
+2004-09-13,"Washington, District of Columbia",Washington,District of Columbia,38.8950368,-77.0365427,Kerry,2004,Democrat
 2004-09-14,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751,Kerry,2004,Democrat
 2004-09-14,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173,Kerry,2004,Democrat
 2004-09-15,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007,Kerry,2004,Democrat
 2004-09-15,"Madison, Wisconsin",Madison,Wisconsin,43.074761,-89.3837613,Kerry,2004,Democrat
-2004-09-15,"Washington, District of Colombia",Washington,District of Colombia,38.915419,-77.04728876827758,Kerry,2004,Democrat
+2004-09-15,"Washington, District of Columbia",Washington,District of Columbia,38.8950368,-77.0365427,Kerry,2004,Democrat
 2004-09-16,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516,Kerry,2004,Democrat
 2004-09-16,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985,Kerry,2004,Democrat
 2004-09-17,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985,Kerry,2004,Democrat
@@ -854,7 +854,7 @@ date,location,city,state,lat,lng,candidate,year,candidate_party
 2004-10-01,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444,Kerry,2004,Democrat
 2004-10-01,"Kissimmee, Florida",Kissimmee,Florida,28.2918995,-81.4075838,Kerry,2004,Democrat
 2004-10-02,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304,Kerry,2004,Democrat
-2004-10-02,"Washington, District of Colombia",Washington,District of Colombia,38.915419,-77.04728876827758,Kerry,2004,Democrat
+2004-10-02,"Washington, District of Columbia",Washington,District of Columbia,38.8950368,-77.0365427,Kerry,2004,Democrat
 2004-10-03,"Austintown, Ohio",Austintown,Ohio,41.0996151,-80.7638514,Kerry,2004,Democrat
 2004-10-04,"Hampton, New Hampshire",Hampton,New Hampshire,42.9417199,-70.8378746,Kerry,2004,Democrat
 2004-10-04,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262,Kerry,2004,Democrat

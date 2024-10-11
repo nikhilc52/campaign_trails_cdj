@@ -19,13 +19,13 @@ date,location,city,state,lat,lng
 2004-09-10,"St. Louis, Missouri",St. Louis,Missouri,38.6280278,-90.1910154
 2004-09-10,"Allentown, Pennsylvania",Allentown,Pennsylvania,40.6022059,-75.4712794
 2004-09-11,"Boston, Massachusetts",Boston,Massachusetts,42.3554334,-71.060511
-2004-09-11,"Washington, District of Colombia",Washington,District of Colombia,38.915419,-77.04728876827758
-2004-09-13,"Washington, District of Colombia",Washington,District of Colombia,38.915419,-77.04728876827758
+2004-09-11,"Washington, District of Columbia",Washington,District of Columbia,38.8950368,-77.0365427
+2004-09-13,"Washington, District of Columbia",Washington,District of Columbia,38.8950368,-77.0365427
 2004-09-14,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751
 2004-09-14,"Toledo, Ohio",Toledo,Ohio,41.6529143,-83.5378173
 2004-09-15,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007
 2004-09-15,"Madison, Wisconsin",Madison,Wisconsin,43.074761,-89.3837613
-2004-09-15,"Washington, District of Colombia",Washington,District of Colombia,38.915419,-77.04728876827758
+2004-09-15,"Washington, District of Columbia",Washington,District of Columbia,38.8950368,-77.0365427
 2004-09-16,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516
 2004-09-16,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985
 2004-09-17,"Albuquerque, New Mexico",Albuquerque,New Mexico,35.0841034,-106.650985
@@ -46,7 +46,7 @@ date,location,city,state,lat,lng
 2004-10-01,"Tampa, Florida",Tampa,Florida,27.9477595,-82.458444
 2004-10-01,"Kissimmee, Florida",Kissimmee,Florida,28.2918995,-81.4075838
 2004-10-02,"Orlando, Florida",Orlando,Florida,28.5421109,-81.3790304
-2004-10-02,"Washington, District of Colombia",Washington,District of Colombia,38.915419,-77.04728876827758
+2004-10-02,"Washington, District of Columbia",Washington,District of Columbia,38.8950368,-77.0365427
 2004-10-03,"Austintown, Ohio",Austintown,Ohio,41.0996151,-80.7638514
 2004-10-04,"Hampton, New Hampshire",Hampton,New Hampshire,42.9417199,-70.8378746
 2004-10-04,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262

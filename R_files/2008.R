@@ -7,7 +7,7 @@ library(sf)
 
 ##################
 #read in a candidate file
-democrat <- read_csv('clinton_2016.csv')
+democrat <- read_csv('obama_2008.csv')
 
 #format the date column (if needed)
 #democrat$date <- as_date(democrat$date, format="%m/%d/%Y")
@@ -39,7 +39,7 @@ democrat <- democrat |>
 usa <- st_as_sf(maps::map("state", fill=TRUE, plot=FALSE))
 
 ##################
-republican <- read_csv('trump_2016.csv')
+republican <- read_csv('mccain_2008.csv')
 
 #republican$date <- as_date(republican$date, format="%m/%d/%Y")
 
@@ -79,15 +79,15 @@ animation <- ggplot() +
   geom_sf(data=democrat, color="white", fill="blue", shape=21, size=3, aes(group = party), stroke=1)+
   geom_sf(data=republican, color="black", fill="green",shape=21, size=3, aes(group = party), stroke=1)+
   geom_sf(data=democrat, color="black", fill="green",shape=21, size=3, aes(group = party), stroke=1)+
-  annotate("text", label="Clinton",x=-100, y=23)+
-  annotate("text", label="Trump",x=-27, y=23)+
+  annotate("text", label="Obama",x=-100, y=23)+
+  annotate("text", label="McCain",x=-27, y=23)+
   theme_void()+
-  labs(title="2016 Presidental Campaign Trail", 
+  labs(title="2008 Presidental Campaign Trail", 
        subtitle="{format(frame_time, \"%h. %d\")}",
        caption="<br><br>Nikhil Chinchalkar for Cornell Data Journal | christopherjdevine.com | 2024 ")+
   theme(plot.title = ggtext::element_markdown(size = 22, hjust =0.5, face = "bold"), 
         plot.subtitle = ggtext::element_markdown(size = 16, hjust =0.5, face = "bold"), 
-        plot.caption = ggtext::element_markdown(size = 8, hjust =od0.5))+
+        plot.caption = ggtext::element_markdown(size = 8, hjust =0.5))+
   transition_time(date_time)+
   shadow_mark(color="white", shape=21, exclude_layer = c(5,6))+
   ease_aes("cubic-in-out")

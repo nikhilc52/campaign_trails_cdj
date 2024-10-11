@@ -1,0 +1,163 @@
+#campaign-trails {
+    position: absolute;
+    left: 150px;
+    bottom: 300px;
+    text-wrap: nowrap;
+}
+
+#campaign-trails-description-1 {
+    position: absolute;
+    left: 170px;
+    bottom: 220px;
+    text-wrap: nowrap;
+}
+
+#campaign-trails-description-2 {
+    position: absolute;
+    left: 170px;
+    bottom: 130px;
+    text-wrap: nowrap;
+}
+
+svg.america-line path {
+    stroke: lightgreen;
+    stroke-width: 10px;
+}
+
+svg.america-line {
+    position: absolute;
+    left: 900px;
+    bottom: 0%;
+    width: 3108px;
+    z-index: -1;
+}
+
+
+#america-map {
+    position: absolute;
+    left: 1700px;
+    bottom: 130px;
+    text-wrap: nowrap;
+}
+
+#methodology {
+    position: absolute;
+    left: 3000px;
+    bottom: 350px;
+    text-wrap: nowrap;
+}
+
+#methodology-description-1 {
+    position: absolute;
+    left: 3050px;
+    bottom: 150px;
+    text-wrap: nowrap;
+}
+
+#methodology-description-2 {
+    position: absolute;
+    left: 4050px;
+    top: 150px;
+    text-wrap: nowrap;
+}
+
+svg.numbers-line path {
+    stroke: #90ee90;
+    stroke-width: 10px;
+}
+
+svg.numbers-line {
+    position: absolute;
+    left: 4050px;
+    bottom: 0px;
+    width: 2700px;
+    z-index: -1;
+}
+
+.statistic{
+    text-align: center;
+}
+
+#visits-number{
+    position: absolute;
+    left: 5500px;
+    top:45%;
+    text-wrap: nowrap;
+}
+
+#visits-number h1{
+    font-size: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#years-number{
+    position: absolute;
+    left: 5900px;
+    top:45%;
+    text-wrap: nowrap;
+}
+
+#years-number h1{
+    font-size: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#states-number{
+    position: absolute;
+    left: 6300px;
+    top:45%;
+    text-wrap: nowrap;
+}
+
+#states-number h1{
+    font-size: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#past-elections{
+    position: absolute;
+    left: 7000px;
+    top:50%;
+    text-wrap: nowrap;
+}
+
+svg.data-background{
+    position: absolute;
+    left: 6770px;
+    bottom:50%;
+    height:600px;
+    width: 600px;
+    z-index: -1;
+    transform: translateY(325px);
+}
+
+#election-2004{
+    position: absolute;
+    left: 7600px;
+    bottom: 100px;
+    text-wrap: nowrap;
+}
+
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.4;
+    color: #444;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    color: #444;
+    font-weight: normal;
+}
+
+body {
+    width: 90vw;
+    height: 90vh;
+    margin: 0;
+    background: #FFF8EB;
+}
