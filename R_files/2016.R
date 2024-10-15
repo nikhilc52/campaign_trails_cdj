@@ -87,7 +87,8 @@ animation <- ggplot() +
        caption="<br><br>Nikhil Chinchalkar for Cornell Data Journal | christopherjdevine.com | 2024 ")+
   theme(plot.title = ggtext::element_markdown(size = 22, hjust =0.5, face = "bold"), 
         plot.subtitle = ggtext::element_markdown(size = 16, hjust =0.5, face = "bold"), 
-        plot.caption = ggtext::element_markdown(size = 8, hjust =od0.5))+
+        plot.caption = ggtext::element_markdown(size = 8, hjust =0.5),
+        plot.background = element_rect(fill = "#FFF8EB"))+
   transition_time(date_time)+
   shadow_mark(color="white", shape=21, exclude_layer = c(5,6))+
   ease_aes("cubic-in-out")

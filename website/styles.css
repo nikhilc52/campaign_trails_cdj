@@ -137,7 +137,7 @@ svg.data-background{
 #election-2004{
     position: absolute;
     left: 7600px;
-    bottom: 100px;
+    bottom: 200px;
     text-wrap: nowrap;
 }
 
@@ -148,6 +148,53 @@ svg.data-background{
     text-wrap: nowrap;
 }
 
+#election-2004-writeup-1 {
+    position: absolute;
+    left: 7650px;
+    bottom: 30px;
+    text-wrap: nowrap;
+}
+
+#election-2004-writeup-2 {
+    position: absolute;
+    left: 8900px;
+    top: 175px;
+    text-wrap: nowrap;
+}
+
+#bush-kerry-2004-newspaper {
+    position: absolute;
+    left: 8900px;
+    top: 375px;
+    text-wrap: nowrap;
+}
+
+#election-2004-writeup-3 {
+    position: absolute;
+    left: 9800px;
+    top: 45%;
+    text-wrap: nowrap;
+}
+
+svg.bush-obama-line path {
+    stroke: #90ee90;
+    stroke-width: 10px;
+}
+
+svg.bush-obama-line {
+    position: absolute;
+    left: 10600px;
+    top: 45%;
+    width: 600px;
+    z-index: -1;
+}
+
+#test {
+    position: absolute;
+    left: 12000px;
+    top: 45%;
+    text-wrap: nowrap;
+}
 
 h1{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -155,7 +202,7 @@ h1{
     color: #444;
 }
 
-h2{
+h2, h4{
     font-family: 'Times New Roman', Times, serif;
     line-height: 1.6;
     color: #444;

@@ -82,12 +82,13 @@ animation <- ggplot() +
   annotate("text", label="Obama",x=-100, y=23)+
   annotate("text", label="McCain",x=-27, y=23)+
   theme_void()+
-  labs(title="2008 Presidental Campaign Trail", 
+  labs(title="2008 Presidental  Campaign Trail", 
        subtitle="{format(frame_time, \"%h. %d\")}",
-       caption="<br><br>Nikhil Chinchalkar for Cornell Data Journal | christopherjdevine.com | 2024 ")+
-  theme(plot.title = ggtext::element_markdown(size = 22, hjust =0.5, face = "bold"), 
-        plot.subtitle = ggtext::element_markdown(size = 16, hjust =0.5, face = "bold"), 
-        plot.caption = ggtext::element_markdown(size = 8, hjust =0.5))+
+       caption="Nikhil Chinchalkar for Cornell Data Journal | christopherjdevine.com | 2024 ")+
+  theme(plot.title = ggtext::element_markdown(size = 22, hjust =0.5, face = "bold", color="#444444"), 
+        plot.subtitle = ggtext::element_markdown(size = 16, hjust =0.5, face = "bold", color="#444444"), 
+        plot.caption = ggtext::element_markdown(size = 8, hjust =0.5, color="#444444"),
+        plot.background = element_rect(fill = "#FFF8EB"))+
   transition_time(date_time)+
   shadow_mark(color="white", shape=21, exclude_layer = c(5,6))+
   ease_aes("cubic-in-out")
@@ -99,5 +100,5 @@ animate(animation, nframes=67*5, height = 4, duration = 30, end_pause = 30,
         width = 9, units = "in", res = 200)
 
 #testing animation, much quicker to render
-#animate(animation, fps=3, duration=20, height = 4,
+#animate(animation, fps=1, duration=20, height = 4,
 #        width = 9, units = "in", res = 200)
