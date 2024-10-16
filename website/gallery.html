@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Campaign Trails</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="title" id="close-button">
+        <h1><a href="index.html">Close</a></h1>
+    </div>
+
+    <div class="title" id="campaign-trails">
+        <h1>Campaign trails...</h1>
+    </div>
+
+    <div class="body" id="campaign-trails-description-1">
+        <h2>Each election cycle, candidates campaign to various <br>states to try and appeal to voters from across the
+            country.</h2>
+    </div>
+
+    <div class="body" id="campaign-trails-description-2">
+        <h2>But how much of that actually matters? Are there any patterns that we can identify?<br>
+            Can we use past campaigns to predict election winners?</h2>
+    </div>
+
+    <svg width="3108" height="1065" viewBox="0 0 3108 1065" fill="none" xmlns="http://www.w3.org/2000/svg"
+        class="america-line">
+        <path
+            d="M7.86646 1050.99C33.2969 1063.7 68.5285 1054.32 94.9711 1049.47C150.391 1039.31 201.862 1014.78 248.881 984.181C290.571 957.05 323.474 930.571 352.043 889.502C389.871 835.125 418.27 775.085 452.327 718.323C592.102 485.365 774.649 270.385 1010.71 130.556C1125.16 62.7608 1262.63 1.75214 1398.66 8.45799C1513.57 14.1225 1628.47 56.0053 1722.99 121.315C1813.23 183.663 1877.55 270.481 1927.5 367.178C1982.67 473.99 1993.9 589.42 1914.78 688.329C1873.81 739.541 1784.63 809.129 1717.54 761.648C1690.07 742.206 1687.85 701.791 1692.39 671.514C1701.23 612.58 1738.36 560.142 1779.2 518.664C1871.03 425.379 1999.98 375.729 2130.19 379.297C2278.33 383.355 2411.56 458.627 2553.44 491.396C2714.38 528.566 2915.67 504.133 3020.32 361.421C3077.44 283.539 3100 183.328 3100 88.4427"
+            stroke="#26D067" stroke-width="15" stroke-linecap="round" />
+    </svg>
+
+    <div class="image" id="america-map">
+        <img src="images/america.svg" width=600px>
+    </div>
+
+    <div class="title" id="methodology">
+        <h1>Methodology</h1>
+    </div>
+
+    <div class="body" id="methodology-description-1">
+        <h2>To answer these questions, we looked at every single campaign visit<br>
+            for the past five elections. For transparency, we defined campaign <br>
+            visits as "any public, in-person appearance apparently organized <br>
+            or initiated by the candidates or their campaign, for the purpose <br>
+            of appealing to a localized concentration
+            of voters".</h2>
+    </div>
+
+    <div class="body" id="methodology-description-included">
+        <h2>Included:</h2>
+    </div>
+
+    <div class="body" id="methodology-description-excluded">
+        <h2>Excluded:</h2>
+    </div>
+
+    <div class="image" id="methodology-included">
+        <div class="hoverable-image" onmousemove="myFunction(event, 'tooltip-rally','methodology-included')">
+            <img style="padding-left: 50px; padding-right: 50px;" src="images/rally.svg" width=55px>
+            <div class="tooltip" id="tooltip-rally">
+                <h3>Public Rally</h3>
+            </div>
+        </div>
+        <div class="hoverable-image" onmousemove="myFunction(event, 'tooltip-local-meeting','methodology-included')">
+            <img style="padding-left: 50px; padding-right: 50px;" src="images/local_meeting.svg" height=65px>
+            <div class="tooltip" id="tooltip-local-meeting">
+                <h3>Local Meeting</h3>
+            </div>
+        </div>
+        <div class="hoverable-image" onmousemove="myFunction(event, 'tooltip-town-hall','methodology-included')">
+            <img style="padding-left: 50px; padding-right: 50px;" src="images/town_hall.svg" height=65px>
+            <div class="tooltip" id="tooltip-town-hall">
+                <h3>Town Hall</h3>
+            </div>
+        </div>
+    </div>
+
+    <div class="image" id="methodology-excluded">
+        <div class="hoverable-image" onmousemove="myFunction(event, 'tooltip-debate','methodology-excluded')">
+            <img style="padding-left: 50px; padding-right: 50px;" src="images/debate.svg" height=80px>
+            <div class="tooltip" id="tooltip-debate">
+                <h3>Debate</h3>
+            </div>
+        </div>
+        <div class="hoverable-image" onmousemove="myFunction(event, 'tooltip-fundraiser','methodology-excluded')">
+            <img style="padding-left: 50px; padding-right: 50px;" src="images/fundraiser.svg" height=80px>
+            <div class="tooltip" id="tooltip-fundraiser">
+                <h3>Private Fundraiser</h3>
+            </div>
+        </div>
+        <div class="hoverable-image" onmousemove="myFunction(event, 'tooltip-national-event','methodology-excluded')">
+            <img style="padding-left: 50px; padding-right: 50px;" src="images/national_event.svg" height=80px>
+            <div class="tooltip" id="tooltip-national-event">
+                <h3>National Event</h3>
+            </div>
+        </div>
+    </div>
+
+    <div class="body" id="methodology-description-2">
+        <h2>A campaign visit might include a public rally or a town hall,<br>
+            but doesn't include national events like debates or private events<br>
+            like small fundraisers.</h2>
+    </div>
+
+    <div class="body" id="methodology-description-3">
+        <h2>We scraped the data from christopherjdevine.com, as well as p2004.org. </h2>
+    </div>
+
+    <svg width="3338" height="982" viewBox="0 0 3338 982" fill="none" xmlns="http://www.w3.org/2000/svg"
+        class="numbers-line">
+        <path
+            d="M7.49353 707.004C9.18688 691.764 36.1953 683.627 47.2558 682.153C177.445 664.794 311.684 685.951 432.57 735.169C625.655 813.782 804.662 973.979 1023.09 973.979C1218.77 973.979 1383.39 856.559 1493.84 702.507C1589.2 569.507 1650.93 414.25 1743.78 279.087C1820.77 167.006 1948.41 24.6899 2093.12 10.2188C2254.81 -5.951 2379.26 74.4688 2444.35 217.077C2507.41 355.247 2511.31 509.424 2598.66 638.84C2792.85 926.528 3145.49 668.69 3330.48 502.513"
+            stroke="#26D067" stroke-width="15" stroke-linecap="round" />
+    </svg>
+
+
+    <div class="statistic" id="visits-number">
+        <h1>921</h1>
+        <h2>Visits</h2>
+    </div>
+
+    <div class="statistic" id="years-number">
+        <h1>20</h1>
+        <h2>Years</h2>
+    </div>
+
+    <div class="statistic" id="states-number">
+        <h1>30</h1>
+        <h2>States</h2>
+    </div>
+
+    <div class="title" id="past-elections">
+        <h1>Past Elections</h1>
+    </div>
+
+    <svg width="1892" height="1785" viewBox="0 0 1892 1785" fill="none" xmlns="http://www.w3.org/2000/svg"
+        class="data-background">
+        <path
+            d="M494.808 149.361C573.198 37.777 709.26 -18.1175 843.452 6.13694L1581 139.445C1742.94 168.714 1862.62 306.845 1868.53 471.302L1891.49 1110.84C1896.75 1257.27 1810.25 1391.47 1674.72 1447.15L916.594 1758.59C781.062 1814.27 625.195 1779.63 526.001 1671.79L92.7575 1200.79C-18.6509 1079.68 -30.6366 897.305 63.9619 762.649L494.808 149.361Z"
+            fill="#90EE90" />
+    </svg>
+
+
+    <div class="title" id="election-2004">
+        <h1>2004 Election</h1>
+    </div>
+
+    <div class="image" id="bush-kerry-2004">
+        <img src="images/bush_kerry_2004_website.gif" width=1000px>
+    </div>
+
+    <div class="body" id="election-2004-writeup-1">
+        <h2>This election featured extremely similar campaigns between<br>
+            candidates, with Bush having X visits and Kerry Y. The above map<br>
+            might not show this since Kerry tended to re-visit cities, while Bush<br>
+            went to new locations.
+        </h2>
+    </div>
+
+    <div class="body" id="election-2004-writeup-2">
+        <h2>Campaigns were so similar that one newspaper thought Bush and<br>
+            Kerry would run into each other in Ohio, one of the key states in the<br>
+            election:
+        </h2>
+    </div>
+
+    <div class="image" id="bush-kerry-2004-newspaper">
+        <img src="images/bush_kerry_2004_newspaper.png" width=600px>
+        <h4 style="text-indent: 30px;">The Bryan Times | Sep 14, 2004</h4>
+    </div>
+
+    <div class="body" id="election-2004-writeup-3">
+        <h2>Despite campaigning very similarly across states, the incumbent<br>
+            advantage gave Bush the presidency, which will become a trend<br>
+            across the next few election cycles.
+        </h2>
+    </div>
+
+    <svg width="587" height="163" viewBox="0 0 587 163" fill="none" xmlns="http://www.w3.org/2000/svg"
+        class="bush-obama-line">
+        <path
+            d="M2 161C16.1208 134.764 48.868 106.457 80.723 84.5974C97.3833 73.1646 121.609 66.0977 149.549 64.4069C177.18 62.7349 213.173 71.0067 235.92 78.4026C262.51 87.0484 294.276 94.8637 324.09 100.199C376.056 109.499 427.35 104.537 472.539 88.2684C514.892 73.0201 537.519 51.6531 558.909 28.1558C566.711 19.5852 571.634 8.81719 585 2"
+            stroke="#90EE90" stroke-width="3" stroke-linecap="round" />
+    </svg>
+
+    <div class="image" id="test">
+        <h1>random text testing</h1>
+    </div>
+
+</body>
+
+<script src="svg_scrolling.js"></script>
+<script src="tooltips.js"></script>
+
+</html>

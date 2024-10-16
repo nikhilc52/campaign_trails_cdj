@@ -54,10 +54,50 @@ svg.america-line {
     text-wrap: nowrap;
 }
 
+#methodology-description-included {
+    position: absolute;
+    left: 3950px;
+    top: 250px;
+    text-wrap: nowrap;
+}
+
+#methodology-description-excluded {
+    position: absolute;
+    left: 3945px;
+    bottom: 150px;
+    text-wrap: nowrap;
+}
+
 #methodology-description-2 {
     position: absolute;
     left: 4050px;
-    top: 150px;
+    top: 50px;
+    text-wrap: nowrap;
+}
+
+.hoverable-image{
+    display: inline-block;
+}
+
+#methodology-included {
+    display: inline-block;
+    position: absolute;
+    left: 4050px;
+    top: 250px;
+    text-wrap: nowrap;
+}
+
+#methodology-excluded {
+    position: absolute;
+    left: 4050px;
+    bottom: 150px;
+    text-wrap: nowrap;
+}
+
+#methodology-description-3 {
+    position: absolute;
+    left: 4050px;
+    bottom: 25px;
     text-wrap: nowrap;
 }
 
@@ -74,67 +114,67 @@ svg.numbers-line {
     z-index: -1;
 }
 
-.statistic{
+.statistic {
     text-align: center;
 }
 
-#visits-number{
+#visits-number {
     position: absolute;
     left: 5500px;
-    top:45%;
+    top: 45%;
     text-wrap: nowrap;
 }
 
-#visits-number h1{
+#visits-number h1 {
     font-size: 100px;
     margin-top: 0px;
     margin-bottom: 0px;
 }
 
-#years-number{
+#years-number {
     position: absolute;
     left: 5900px;
-    top:45%;
+    top: 45%;
     text-wrap: nowrap;
 }
 
-#years-number h1{
+#years-number h1 {
     font-size: 100px;
     margin-top: 0px;
     margin-bottom: 0px;
 }
 
-#states-number{
+#states-number {
     position: absolute;
     left: 6300px;
-    top:45%;
+    top: 45%;
     text-wrap: nowrap;
 }
 
-#states-number h1{
+#states-number h1 {
     font-size: 100px;
     margin-top: 0px;
     margin-bottom: 0px;
 }
 
-#past-elections{
+#past-elections {
     position: absolute;
     left: 7000px;
-    top:50%;
+    top: 50%;
     text-wrap: nowrap;
 }
 
-svg.data-background{
+svg.data-background {
     position: absolute;
     left: 6770px;
-    bottom:50%;
-    height:600px;
+    bottom: 50%;
+    height: 600px;
     width: 600px;
     z-index: -1;
     transform: translateY(325px);
 }
 
-#election-2004{
+#election-2004 {
     position: absolute;
     left: 7600px;
     bottom: 200px;
@@ -196,13 +236,54 @@ svg.bush-obama-line {
     text-wrap: nowrap;
 }
 
-h1{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+#close-button{
+    position: fixed;
+    top: -5px;
+    right: 20px;
+}
+
+a {
+    color: #444;
+    text-decoration: none;
+}
+
+#close-button a:hover {
+    text-decoration: line-through;
+}
+
+.tooltip {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #FFF8EB;
+    color: white;
+    border-style: solid;
+    border-color: lightgrey;
+    border-width: 1px;
+    border-radius: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.hoverable-image:hover .tooltip {
+    opacity: 1;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     line-height: 1.4;
     color: #444;
 }
 
-h2, h4{
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.4;
+    color: #444;
+}
+
+h2,
+h4 {
     font-family: 'Times New Roman', Times, serif;
     line-height: 1.6;
     color: #444;
