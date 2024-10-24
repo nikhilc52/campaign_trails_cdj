@@ -1,8 +1,11 @@
 library(tidyverse)
 library(dplyr)
 library(ggplot2)
+library(scales)
 
+setwd("~/GitHub/campaign_trails_cdj/campaign_csvs")
 all_visits <- read.csv("all_visits.csv")
+setwd("~/GitHub/campaign_trails_cdj")
 cities <- read.csv("us-cities-top-1k.csv")
 
 cities <- cities |>
@@ -34,4 +37,4 @@ ggplot(data = all_visits_cities,
     axis.title.x = element_text(margin = margin(t = 20)),
     axis.title.y = element_text(margin = margin(r = 20)),
   ) +
-  scale_y_continuous(labels = scales::label_number())
+  scale_y_continuous(labels = label_comma())
