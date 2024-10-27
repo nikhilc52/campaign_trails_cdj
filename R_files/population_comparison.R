@@ -1,7 +1,6 @@
 #import libraries
 library(tidyverse)
 library(dplyr)
-library(sf)
 library(ggplot2)
 
 setwd("~/GitHub/campaign_trails_cdj/campaign_csvs")
@@ -15,8 +14,8 @@ cities <- cities |>
 
 all_visits_location <- all_visits |> 
   left_join(cities, join_by(location == location)) |> 
-  group_by(location, candidate_party, year) |> 
   replace_na(list(Population=25000)) |>  
+  group_by(location, candidate_party, year) |> 
   summarize(count=n(), lng=first(lng),lat=first(lat), population=first(Population),
             candidate=first(candidate))
 
