@@ -229,9 +229,169 @@ svg.bush-obama-line {
     z-index: -1;
 }
 
+#obama-mccain-2008 {
+    position: absolute;
+    left: 11400px;
+    top: 300px;
+    text-wrap: nowrap;
+}
+
+#election-2008 {
+    position: absolute;
+    left: 11450px;
+    top: 50px;
+    text-wrap: nowrap;
+}
+
+#election-2008-writeup-1 {
+    position: absolute;
+    left: 11500px;
+    top: 120px;
+    text-wrap: nowrap;
+}
+
+#election-2008-writeup-2 {
+    position: absolute;
+    left: 12500px;
+    top: 150px;
+    text-wrap: nowrap;
+}
+
+#election-2008-writeup-3 {
+    position: absolute;
+    left: 12500px;
+    bottom: 150px;
+    text-wrap: nowrap;
+}
+
+#obama-virginia-newspaper {
+    position: absolute;
+    left: 13500px;
+    top: 350px;
+    text-wrap: nowrap;
+}
+
+svg.obama-obama-line path {
+    stroke: #90ee90;
+    stroke-width: 6px;
+}
+
+svg.obama-obama-line {
+    position: absolute;
+    left: 13800px;
+    top: 45%;
+    width: 600px;
+    z-index: -1;
+}
+
+#obama-romney-2012 {
+    position: absolute;
+    left: 14500px;
+    top: 50px;
+    text-wrap: nowrap;
+}
+
+#election-2012 {
+    position: absolute;
+    left: 14500px;
+    top: 450px;
+    text-wrap: nowrap;
+}
+
+#election-2012-writeup-1 {
+    position: absolute;
+    left: 14550px;
+    top: 500px;
+    text-wrap: nowrap;
+}
+
+svg.obama-trump-line path {
+    stroke: #90ee90;
+    stroke-width: 10px;
+}
+
+svg.obama-trump-line {
+    position: absolute;
+    left: 15500px;
+    top: 45%;
+    width: 600px;
+    z-index: -1;
+}
+
+#trump-clinton-2016 {
+    position: absolute;
+    left: 16200px;
+    top: 350px;
+    text-wrap: nowrap;
+}
+
+#election-2016 {
+    position: absolute;
+    left: 16250px;
+    top: 50px;
+    text-wrap: nowrap;
+}
+
+#election-2016-writeup-1 {
+    position: absolute;
+    left: 16300px;
+    top: 100px;
+    text-wrap: nowrap;
+}
+
+#election-2016-writeup-2 {
+    position: absolute;
+    left: 17500px;
+    top: 170px;
+    text-wrap: nowrap;
+}
+
+#trump-clinton-newspaper {
+    position: absolute;
+    left: 17500px;
+    top: 350px;
+    text-wrap: nowrap;
+}
+
+svg.trump-obama-line path {
+    stroke: #90ee90;
+    stroke-width: 10px;
+}
+
+svg.trump-biden-line {
+    position: absolute;
+    left: 18300px;
+    top: 15%;
+    width: 600px;
+    z-index: -1;
+}
+
+#election-2020 {
+    position: absolute;
+    left: 19000px;
+    top: 50px;
+    text-wrap: nowrap;
+}
+
+#election-2020-writeup-1 {
+    position: absolute;
+    left: 19050px;
+    top: 100px;
+    text-wrap: nowrap;
+}
+
+#biden-trump-2020 {
+    position: absolute;
+    left: 19050px;
+    top: 350px;
+    text-wrap: nowrap;
+}
+
+/* below are general styles */
+
 #test {
     position: absolute;
-    left: 20000px;
+    left: 40000px;
     top: 45%;
     text-wrap: nowrap;
 }

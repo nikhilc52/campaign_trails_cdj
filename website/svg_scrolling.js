@@ -2,6 +2,7 @@ var svg
 var path
 
 const scroll = () => {
+    //conditions based on when to start checking to update svg
     if (window.scrollX <= 3000) {
         svg = document.querySelector("svg.america-line")
         animate(svg, 0, 1.5)
@@ -13,6 +14,18 @@ const scroll = () => {
     if (window.scrollX > 7000) {
         svg = document.querySelector("svg.bush-obama-line")
         animate(svg, 9500, 1)
+    }
+    if (window.scrollX > 10200) {
+        svg = document.querySelector("svg.obama-obama-line")
+        animate(svg, 12700, 1)
+    }
+    if (window.scrollX > 12500) {
+        svg = document.querySelector("svg.obama-trump-line")
+        animate(svg, 14500, 1)
+    }
+    if (window.scrollX > 16000) {
+        svg = document.querySelector("svg.trump-biden-line")
+        animate(svg, 17000, 0.7)
     }
 }
 
@@ -37,8 +50,8 @@ const animate = (svg, offset, speed) => {
     //using max on the whole value so that after the animation is finished - percentage is > 1, but we just want to show the full path, so offset is 0
     path.style.strokeDashoffset = `${Math.max(pathLength * (1 - Math.max(percentage,0) * speed),0)}`
 
-    // console.log(percentage)
-    // console.log(window.scrollX)
+    console.log(percentage)
+    console.log(window.scrollX)
     // console.log(pathLength)
 }
 
