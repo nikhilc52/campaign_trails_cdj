@@ -24,7 +24,7 @@ party_location_visits <- all_visits_location |>
   group_by(candidate_party, year) |> 
   summarize(
     candidate=first(candidate),
-    average = mean(population)
+    average = median(population)
   )
 
 ggplot(party_location_visits, aes(x=factor(year), y=average, fill=candidate_party)) +

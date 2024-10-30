@@ -28,6 +28,10 @@ swing_states_2020 <- list('Minnesota','New Hampshire',
                           'Michigan','Nevada','Iowa',
                           'Florida','Colorado','Arizona','Georgia')
 
+swing_states_2024 <- list('Pennsylvania',
+                          'Michigan','Nevada',
+                          'Florida','North Carolina','Arizona','Georgia')
+
 
 all_visits_state <- all_visits |> 
   group_by(state, candidate, year) |>  
@@ -45,7 +49,9 @@ matrix <- function(winner_year, candidate1_year, candidate2_year, swing_states_y
     rename(c2v = candidate2_year) |> 
     rename(c1v = candidate1_year) |> 
     rename(winner = winner_year) |> 
-    filter(state %in% swing_states_year)# |> 
+    filter(state %in% swing_states_year) |> 
+    filter(c1v > c2v +2 | c2v > c1v+2)
+  # |> 
     #filter(c2v > -1 | c1v > -1) #subject to change
     
     c1 = tools::toTitleCase(sub("(.*)_(.*)", "\\1", candidate1_year))

@@ -1,0 +1,61 @@
+date,location,city,state,lat,lng
+2024-09-04,"Harrisburg, Pennsylvania",Harrisburg,Pennsylvania,40.2663107,-76.8861122
+2024-09-06,"Charlotte, North Carolina",Charlotte,North Carolina,35.2272086,-80.8430827
+2024-09-07,"Mosinee, Wisconsin",Mosinee,Wisconsin,44.7927298,-89.7035959
+2024-09-12,"Tuscon, Arizona",Tuscon,Arizona,32.3090726,-111.0827253
+2024-09-13,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516
+2024-09-17,"Flint, Michigan",Flint,Michigan,43.0161693,-83.6900211
+2024-09-18,"Uniondale, New York",Uniondale,New York,40.7095827,-73.592341
+2024-09-19,"Washington, D.C.",Washington,D.C.,38.8950368,-77.0365427
+2024-09-21,"Wilmington, North Carolina",Wilmington,North Carolina,34.2257282,-77.9447107
+2024-09-23,"Kittanning, Pennsylvania",Kittanning,Pennsylvania,40.8164531,-79.5219893
+2024-09-23,"Smithton, Pennsylvania",Smithon,Pennsylvania,40.1539613,-79.7411535
+2024-09-23,"Indiana, Pennsylvania",Indiana,Pennsylvania,40.6424116,-79.1262839
+2024-09-24,"Savannah, Georgia",Savannah,Georgia,32.0790074,-81.0921335
+2024-09-25,"Mint Hill, North Carolina",Mint Hill,North Carolina,35.1735388,-80.6570377
+2024-09-27,"Walker, Michigan",Walker,Michigan,43.005597,-85.7741906
+2024-09-27,"Warren, Michigan",Warren,Michigan,42.4932575,-83.0062746
+2024-09-28,"Praire du Chein, Wisconsin",Praire du Chein,Wisconsin,NA,NA
+2024-09-29,"Erie, Pennsylvania",Erie,Pennsylvania,42.1294712,-80.0852695
+2024-09-30,"Valdosta, Georgia",Valdosta,Georgia,30.8327022,-83.2784851
+2024-10-01,"Waunakee, Wisconsin",Waunakee,Wisconsin,43.1919623,-89.4548402
+2024-10-01,"Milwaukee, Wisconsin",Milwaukee,Wisconsin,43.0386475,-87.9090751
+2024-10-03,"Saginaw, Michigan",Saginaw,Michigan,43.3326882,-84.0468403
+2024-10-04,"Fayetteville, North Carolina",Fayetteville,North Carolina,35.0525759,-78.878292
+2024-10-04,"Evans, Georgia",Evans,Georgia,32.1613648,-81.8980725
+2024-10-05,"Butler, Pennsylvania",Bulter,Pennsylvania,40.86108,-79.895197
+2024-10-06,"Juneau, Wisconsin",Juneau,Wisconsin,43.9532381,-90.1218405
+2024-10-07,"New York, New York",New York,New York,40.7127281,-74.0060152
+2024-10-09,"Reading, Pennsylvania",Reading,Pennsylvania,40.335345,-75.9279495
+2024-10-09,"Scranton, Pennsylvania",Scranton,Pennsylvania,41.4086874,-75.6621294
+2024-10-10,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007
+2024-10-11,"Aurora, Colorado",Aurora,Colorado,39.7405111,-104.830994
+2024-10-11,"Reno, Nevada",Reno,Nevada,39.5261206,-119.8126581
+2024-10-12,"Coachella, California",Coachella,California,33.67114675,-116.1342346710064
+2024-10-12,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516
+2024-10-13,"Prescott Valley, Arizona",Prescott Valley,Arizona,34.5950776,-112.3338634
+2024-10-14,"Oaks, Pennsylvania",Oaks,Pennsylvania,40.1317722,-75.4596319
+2024-10-15,"Atlanta, Georgia",Atlanta,Georgia,33.7489924,-84.3902644
+2024-10-17,"New York, New York",New York,New York,40.7127281,-74.0060152
+2024-10-18,"Detroit, Michigan",Detroit,Michigan,42.3315509,-83.046640300000007
+2024-10-18,"Oakland County, Michigan",Oakland County,Michigan,42.6618842,-83.3804439
+2024-10-19,"LaTrobe, Pennsylvania",LaTrobe,Pennsylvania,40.317287,-79.3840301
+2024-10-20,"Lancaster, Pennsylvania",Lancaster,Pennsylvania,40.08067,-76.2411283
+2024-10-20,"Philadelphia, Pennsylvania",Philadelphia,Pennsylvania,39.9527237,-75.1635262
+2024-10-20,"Bucks County, Pennsylvania",Bucks County,Pennsylvania,40.3451668,-75.1263909
+2024-10-21,"Greenville, North Carolina",Greenville,North Carolina,35.613224,-77.3724593
+2024-10-21,"Concord, North Carolina",Concord,North Carolina,35.4094178,-80.5800049
+2024-10-22,"Greenville, North Carolina",Greenville,North Carolina,35.613224,-77.3724593
+2024-10-23,"Duluth, Georgia",Duluth,Georgia,34.0028569,-84.1441046
+2024-10-23,"Zebulon, Georgia",Zebulon,Georgia,33.1023454,-84.3426997
+2024-10-24,"Tempe, Arizona",Tempe,Arizona,33.4255117,-111.940016
+2024-10-24,"Las Vegas, Nevada",Las Vegas,Nevada,36.1672559,-115.148516
+2024-10-25,"Traverse City, Michigan",Traverse City,Michigan,44.7606481,-85.6165976
+2024-10-26,"Novi, Michigan",Novi,Michigan,42.48059,-83.4754913
+2024-10-26,"State College, Pennsylvania",State College,Pennsylvania,40.7944504,-77.8616386
+2024-10-27,"New York, New York",New York,New York,40.7127281,-74.0060152
+2024-10-28,"Atlanta, Georgia",Atlanta,Georgia,33.7489924,-84.3902644
+2024-10-29,"Allentown, Pennsylvania",Allentown,Pennsylvania,40.6022059,-75.4712794
+2024-10-29,"Drexel Hill, Pennsylvania",Drexel Hill,Pennsylvania,39.9483282,-75.30688778777797
+2024-10-30,"Green Bay, Wisconsin",Green Bay,Wisconsin,44.5126379,-88.0125794
+2024-10-30,"Rocky Mount, North Carolina",Rocky Mount,North Carolina,35.9423833,-77.7956949
