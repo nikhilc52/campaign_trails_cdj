@@ -18,16 +18,16 @@ all_visits_cities <- all_visits |>
   group_by(candidate_party,year) |>
   summarize(
     candidate = first(candidate),
-    average = mean(Population)
+    median = median(Population)
   )
 
 ggplot(data = all_visits_cities, 
-       aes(x = factor(year), y = average, fill = candidate_party)) + 
+       aes(x = factor(year), y = median, fill = candidate_party)) + 
   geom_bar(stat = "identity", 
            position = "dodge") +
   labs(x = "Election", 
-       y = "Average Population", 
-       title = "Average Population of Campaign Stops in Presidential Elections",
+       y = "Median Population", 
+       title = "Median Population of Campaign Stops in Presidential Elections",
        fill = "Party") +
   scale_fill_manual(values = c("Democrat" = "blue", "Republican" = "red")) +
   theme_minimal() +
