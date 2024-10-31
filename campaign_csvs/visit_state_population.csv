@@ -1,0 +1,169 @@
+candidate,year,state,candidate_party,people_visited
+Bush,2004,Alabama,Republican,8668
+Bush,2004,Arizona,Republican,1525806
+Bush,2004,Colorado,Republican,1189591
+Bush,2004,District of Columbia,Republican,646449
+Bush,2004,Florida,Republican,3138694
+Bush,2004,Iowa,Republican,755050
+Bush,2004,Maine,Republican,31597
+Bush,2004,Michigan,Republican,507442
+Bush,2004,Minnesota,Republican,663438
+Bush,2004,Missouri,Republican,580244
+Bush,2004,Nevada,Republican,836782
+Bush,2004,New Hampshire,Republican,167236
+Bush,2004,New Jersey,Republican,10403
+Bush,2004,New Mexico,Republican,628403
+Bush,2004,New York,Republican,10683866
+Bush,2004,North Carolina,Republican,792862
+Bush,2004,Ohio,Republican,2003659
+Bush,2004,Oregon,Republican,19197
+Bush,2004,Pennsylvania,Republican,475052
+Bush,2004,Texas,Republican,1257676
+Bush,2004,West Virginia,Republican,77989
+Bush,2004,Wisconsin,Republican,963847
+Kerry,2004,Arizona,Democrat,168228
+Kerry,2004,Colorado,Democrat,1103547
+Kerry,2004,District of Columbia,Democrat,646449
+Kerry,2004,Florida,Democrat,2566472
+Kerry,2004,Iowa,Democrat,489786
+Kerry,2004,Louisiana,Democrat,378715
+Kerry,2004,Massachusetts,Democrat,645966
+Kerry,2004,Michigan,Democrat,823574
+Kerry,2004,Minnesota,Democrat,510812
+Kerry,2004,Missouri,Democrat,318416
+Kerry,2004,Nevada,Democrat,836782
+Kerry,2004,New Hampshire,Democrat,160397
+Kerry,2004,New Mexico,Democrat,756197
+Kerry,2004,New York,Democrat,8405837
+Kerry,2004,North Carolina,Democrat,279639
+Kerry,2004,Ohio,Democrat,2105167
+Kerry,2004,Pennsylvania,Democrat,2031295
+Kerry,2004,Tennessee,Democrat,634464
+Kerry,2004,West Virginia,Democrat,457
+Kerry,2004,Wisconsin,Democrat,1123854
+Mccain,2008,Arizona,Republican,40590
+Mccain,2008,Colorado,Republican,1276556
+Mccain,2008,Florida,Republican,2291400
+Mccain,2008,Indiana,Republican,843393
+Mccain,2008,Iowa,Republican,478662
+Mccain,2008,Michigan,Republican,1022457
+Mccain,2008,Minnesota,Republican,118969
+Mccain,2008,Missouri,Republican,886309
+Mccain,2008,Nevada,Republican,270811
+Mccain,2008,New Hampshire,Republican,30754
+Mccain,2008,New Mexico,Republican,606895
+Mccain,2008,North Carolina,Republican,399981
+Mccain,2008,Ohio,Republican,2373774
+Mccain,2008,Pennsylvania,Republican,1973537
+Mccain,2008,Tennessee,Republican,3297
+Mccain,2008,Virginia,Republican,554103
+Mccain,2008,Wisconsin,Republican,244517
+Obama,2008,Colorado,Democrat,1143924
+Obama,2008,Florida,Democrat,2697457
+Obama,2008,Indiana,Democrat,927797
+Obama,2008,Iowa,Democrat,207510
+Obama,2008,Michigan,Democrat,1130575
+Obama,2008,Missouri,Democrat,1064821
+Obama,2008,Nevada,Democrat,1128453
+Obama,2008,New Hampshire,Democrat,214248
+Obama,2008,New Mexico,Democrat,576037
+Obama,2008,North Carolina,Democrat,1795891
+Obama,2008,Ohio,Democrat,2141003
+Obama,2008,Pennsylvania,Democrat,2086809
+Obama,2008,Virginia,Democrat,1369697
+Obama,2008,Wisconsin,Democrat,755465
+Obama,2012,Colorado,Democrat,1118655
+Obama,2012,Florida,Democrat,1788063
+Obama,2012,Illinois,Democrat,2718782
+Obama,2012,Iowa,Democrat,568301
+Obama,2012,Nevada,Democrat,1101176
+Obama,2012,New Hampshire,Democrat,291962
+Obama,2012,Ohio,Democrat,2200173
+Obama,2012,Virginia,Democrat,1030290
+Obama,2012,Wisconsin,Democrat,947287
+Romney,2012,Colorado,Republican,1232506
+Romney,2012,Florida,Republican,2525022
+Romney,2012,Iowa,Republican,566062
+Romney,2012,Missouri,Republican,467007
+Romney,2012,Nevada,Republican,1107593
+Romney,2012,New Hampshire,Republican,255043
+Romney,2012,North Carolina,Republican,87236
+Romney,2012,Ohio,Republican,2467922
+Romney,2012,Pennsylvania,Republican,40500
+Romney,2012,Virginia,Republican,1383795
+Romney,2012,Wisconsin,Republican,60697
+Clinton,2016,Arizona,Democrat,168228
+Clinton,2016,Colorado,Democrat,108249
+Clinton,2016,Florida,Democrat,1769841
+Clinton,2016,Illinois,Democrat,1726
+Clinton,2016,Iowa,Democrat,335939
+Clinton,2016,Michigan,Democrat,811062
+Clinton,2016,Nevada,Democrat,830365
+Clinton,2016,New Hampshire,Democrat,125297
+Clinton,2016,North Carolina,Democrat,1997087
+Clinton,2016,Ohio,Democrat,2018713
+Clinton,2016,Pennsylvania,Democrat,1958625
+Trump,2016,Arizona,Republican,1553158
+Trump,2016,Colorado,Republican,1445472
+Trump,2016,Florida,Republican,2754443
+Trump,2016,Illinois,Republican,2718782
+Trump,2016,Iowa,Republican,291979
+Trump,2016,Maine,Republican,41317
+Trump,2016,Michigan,Republican,1205052
+Trump,2016,Minnesota,Republican,400070
+Trump,2016,Nevada,Republican,1107593
+Trump,2016,New Hampshire,Republican,187876
+Trump,2016,New Mexico,Republican,556495
+Trump,2016,New York,Republican,8097282
+Trump,2016,North Carolina,Republican,2019440
+Trump,2016,Ohio,Republican,2060072
+Trump,2016,Pennsylvania,Republican,1793053
+Trump,2016,Virginia,Republican,619669
+Trump,2016,Wisconsin,Republican,243340
+Biden,2020,Arizona,Democrat,1681595
+Biden,2020,Florida,Democrat,1357578
+Biden,2020,Georgia,Democrat,448275
+Biden,2020,Iowa,Democrat,207510
+Biden,2020,Michigan,Democrat,1188637
+Biden,2020,Minnesota,Democrat,391203
+Biden,2020,Nevada,Democrat,603488
+Biden,2020,North Carolina,Democrat,1038337
+Biden,2020,Ohio,Democrat,991433
+Biden,2020,Pennsylvania,Democrat,2209190
+Biden,2020,Wisconsin,Democrat,780733
+Trump,2020,Arizona,Republican,2119456
+Trump,2020,Florida,Republican,2055380
+Trump,2020,Georgia,Republican,575535
+Trump,2020,Iowa,Republican,265763
+Trump,2020,Maine,Republican,2970
+Trump,2020,Michigan,Republican,463879
+Trump,2020,Minnesota,Republican,212721
+Trump,2020,Nebraska,Republican,434353
+Trump,2020,Nevada,Republican,931519
+Trump,2020,New Hampshire,Republican,27856
+Trump,2020,North Carolina,Republican,1567503
+Trump,2020,Ohio,Republican,33368
+Trump,2020,Pennsylvania,Republican,1779110
+Trump,2020,Virginia,Republican,182020
+Trump,2020,Wisconsin,Republican,349362
+Harris,2024,Arizona,Democrat,1755629
+Harris,2024,D.C.,Democrat,678972
+Harris,2024,Georgia,Democrat,515176
+Harris,2024,Michigan,Democrat,2862375
+Harris,2024,Nevada,Democrat,603488
+Harris,2024,New Hampshire,Democrat,25210
+Harris,2024,North Carolina,Democrat,1505231
+Harris,2024,Pennsylvania,Democrat,2553007
+Harris,2024,Texas,Democrat,2195914
+Harris,2024,Wisconsin,Democrat,1418139
+Trump,2024,Arizona,Republican,756791
+Trump,2024,California,Republican,43092
+Trump,2024,Colorado,Republican,345803
+Trump,2024,D.C.,Republican,678972
+Trump,2024,Georgia,Republican,719823
+Trump,2024,Michigan,Republican,2342230
+Trump,2024,Nevada,Republican,836782
+Trump,2024,New York,Republican,8440435
+Trump,2024,North Carolina,Republican,1367171
+Trump,2024,Pennsylvania,Republican,2801632
+Trump,2024,Wisconsin,Republican,731517
