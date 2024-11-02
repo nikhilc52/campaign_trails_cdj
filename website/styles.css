@@ -315,7 +315,7 @@ svg.map-bubble-line {
 
 svg.data-background {
     position: absolute;
-    left: 15770px;
+    left: 15790px;
     bottom: 50%;
     height: 600px;
     width: 600px;
@@ -351,17 +351,17 @@ svg.data-background {
     text-wrap: nowrap;
 }
 
-#bush-kerry-2004-newspaper {
+#election-2004-writeup-3 {
     position: absolute;
     left: 17900px;
     top: 375px;
     text-wrap: nowrap;
 }
 
-#election-2004-writeup-3 {
+#bush-florida-newspaper {
     position: absolute;
-    left: 18800px;
-    top: 45%;
+    left: 18900px;
+    top: 35%;
     text-wrap: nowrap;
 }
 
@@ -413,10 +413,17 @@ svg.bush-obama-line {
     text-wrap: nowrap;
 }
 
-#obama-virginia-newspaper {
+#election-2008-writeup-4 {
     position: absolute;
     left: 22500px;
-    top: 350px;
+    top: 150px;
+    text-wrap: nowrap;
+}
+
+#obama-virginia-newspaper {
+    position: absolute;
+    left: 22550px;
+    bottom: 150px;
     text-wrap: nowrap;
 }
 
@@ -427,7 +434,7 @@ svg.obama-obama-line path {
 
 svg.obama-obama-line {
     position: absolute;
-    left: 22800px;
+    left: 23300px;
     top: 45%;
     width: 600px;
     z-index: -1;
@@ -435,22 +442,45 @@ svg.obama-obama-line {
 
 #obama-romney-2012 {
     position: absolute;
-    left: 23500px;
+    left: 24000px;
     top: 50px;
     text-wrap: nowrap;
 }
 
 #election-2012 {
     position: absolute;
-    left: 23500px;
+    left: 24000px;
     top: 450px;
     text-wrap: nowrap;
 }
 
 #election-2012-writeup-1 {
     position: absolute;
-    left: 23550px;
+    left: 24050px;
     top: 500px;
+    text-wrap: nowrap;
+}
+
+
+#election-2012-writeup-2 {
+    position: absolute;
+    left: 25000px;
+    top: 45%;
+    text-wrap: nowrap;
+}
+
+
+#election-2012-writeup-3 {
+    position: absolute;
+    left: 25900px;
+    top: 75px;
+    text-wrap: nowrap;
+}
+
+#romney-2012-article {
+    position: absolute;
+    left: 26100px;
+    bottom: 120px;
     text-wrap: nowrap;
 }
 
@@ -461,7 +491,7 @@ svg.obama-trump-line path {
 
 svg.obama-trump-line {
     position: absolute;
-    left: 24500px;
+    left: 26600px;
     top: 45%;
     width: 600px;
     z-index: -1;
@@ -469,35 +499,35 @@ svg.obama-trump-line {
 
 #trump-clinton-2016 {
     position: absolute;
-    left: 25200px;
+    left: 27200px;
     top: 350px;
     text-wrap: nowrap;
 }
 
 #election-2016 {
     position: absolute;
-    left: 25250px;
+    left: 27300px;
     top: 50px;
     text-wrap: nowrap;
 }
 
 #election-2016-writeup-1 {
     position: absolute;
-    left: 25300px;
+    left: 27350px;
     top: 100px;
     text-wrap: nowrap;
 }
 
 #election-2016-writeup-2 {
     position: absolute;
-    left: 26500px;
+    left: 28400px;
     top: 170px;
     text-wrap: nowrap;
 }
 
 #trump-clinton-newspaper {
     position: absolute;
-    left: 26500px;
+    left: 28450px;
     top: 350px;
     text-wrap: nowrap;
 }
@@ -509,7 +539,7 @@ svg.trump-obama-line path {
 
 svg.trump-biden-line {
     position: absolute;
-    left: 27300px;
+    left: 29400px;
     top: 15%;
     width: 600px;
     z-index: -1;
@@ -517,22 +547,60 @@ svg.trump-biden-line {
 
 #election-2020 {
     position: absolute;
-    left: 28000px;
+    left: 30100px;
     top: 50px;
     text-wrap: nowrap;
 }
 
 #election-2020-writeup-1 {
     position: absolute;
-    left: 28050px;
+    left: 30150px;
     top: 100px;
     text-wrap: nowrap;
 }
 
 #biden-trump-2020 {
     position: absolute;
-    left: 28050px;
+    left: 30000px;
     top: 350px;
+    text-wrap: nowrap;
+}
+
+#election-2020-writeup-2 {
+    position: absolute;
+    left: 31050px;
+    top: 100px;
+    text-wrap: nowrap;
+}
+
+#biden-trump-newspaper {
+    position: absolute;
+    left: 31050px;
+    bottom: 100px;
+    text-wrap: nowrap;
+}
+
+svg.prediction-background {
+    position: absolute;
+    left: 32050px;
+    bottom: 50%;
+    height: 600px;
+    width: 600px;
+    z-index: -1;
+    transform: translateY(325px);
+}
+
+#prediction-2024 {
+    position: absolute;
+    left: 32255px;
+    top: 50%;
+    text-wrap: nowrap;
+}
+
+#trump-harris-2024 {
+    position: absolute;
+    left: 32955px;
+    top: 20px;
     text-wrap: nowrap;
 }
 

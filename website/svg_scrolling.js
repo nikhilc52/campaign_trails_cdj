@@ -19,21 +19,21 @@ const scroll = () => {
         svg = document.querySelector("svg.map-bubble-line")
         animate(svg, 11500, 1.5)
     }
-    if (window.scrollX > 7000+9000) {
+    if (window.scrollX > 16000) {
         svg = document.querySelector("svg.bush-obama-line")
-        animate(svg, 9500+9000, 1)
+        animate(svg, 18500, 1)
     }
-    if (window.scrollX > 10200+9000) {
+    if (window.scrollX > 19200) {
         svg = document.querySelector("svg.obama-obama-line")
-        animate(svg, 12700+9000, 1)
+        animate(svg, 22300, 1)
     }
-    if (window.scrollX > 12500+9000) {
+    if (window.scrollX > 23600) {
         svg = document.querySelector("svg.obama-trump-line")
-        animate(svg, 14500+9000, 1)
+        animate(svg, 25600, 1)
     }
-    if (window.scrollX > 16000+9000) {
+    if (window.scrollX > 27400) {
         svg = document.querySelector("svg.trump-biden-line")
-        animate(svg, 17000+9000, 0.7)
+        animate(svg, 28400, 0.7)
     }
 }
 

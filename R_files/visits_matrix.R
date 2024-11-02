@@ -48,7 +48,7 @@ matrix <- function(winner_year, candidate1_year, candidate2_year, swing_states_y
     rename(c2v = candidate2_year) |> 
     rename(c1v = candidate1_year) |> 
     rename(winner = winner_year) |> 
-    filter(state %in% swing_states_year) |> 
+    #filter(state %in% swing_states_year) |> 
     filter(c1v > 0 & c2v > 0) #|> 
     #filter(c1v > c2v + 500000 | c2v > c1v+500000)
   # |> 
