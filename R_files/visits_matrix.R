@@ -3,7 +3,7 @@ library(tidyverse)
 library(dplyr)
 
 setwd("~/GitHub/campaign_trails_cdj/campaign_csvs")
-all_visits <- read_csv('all_visits.csv')
+all_visits_pop <- read_csv('visit_state_population.csv')
 
 setwd("~/GitHub/campaign_trails_cdj/results_csvs")
 all_results <- read_csv('all_results.csv') |> 
@@ -33,15 +33,14 @@ swing_states_2024 <- list('Pennsylvania',
                           'Florida','North Carolina','Arizona','Georgia')
 
 
-all_visits_state <- all_visits |> 
+data <- all_visits_pop |> 
   group_by(state, candidate, year) |>  
-  summarize(visits=n()) |> 
   mutate(candidate_year = paste0(candidate,'_',year)) |> 
-  pivot_wider(id_cols=state, names_from = candidate_year, values_from = visits)
+  pivot_wider(id_cols=state, names_from = candidate_year, values_from = people_visited)
 
-all_visits_state[is.na(all_visits_state)] <- 0
+data[is.na(data)] <- 0
 
-visits_results <- inner_join(all_results, all_visits_state, join_by(state == state))
+visits_results <- inner_join(all_results, data, join_by(state == state))
 
 matrix <- function(winner_year, candidate1_year, candidate2_year, swing_states_year){
   temp <- visits_results |> 
@@ -50,7 +49,8 @@ matrix <- function(winner_year, candidate1_year, candidate2_year, swing_states_y
     rename(c1v = candidate1_year) |> 
     rename(winner = winner_year) |> 
     filter(state %in% swing_states_year) |> 
-    filter(c1v > c2v +2 | c2v > c1v+2)
+    filter(c1v > 0 & c2v > 0) #|> 
+    #filter(c1v > c2v + 500000 | c2v > c1v+500000)
   # |> 
     #filter(c2v > -1 | c1v > -1) #subject to change
     

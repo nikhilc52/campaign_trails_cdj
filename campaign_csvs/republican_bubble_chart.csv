@@ -1,26 +1,22 @@
-location,candidate_party,count
-"Albuquerque, New Mexico",Republican,7
-"Cedar Rapids, Iowa",Republican,5
-"Charlotte, North Carolina",Republican,4
-"Cincinnati, Ohio",Republican,5
-"Cleveland, Ohio",Republican,4
-"Colorado Springs, Colorado",Republican,6
-"Columbus, Ohio",Republican,6
-"Denver, Colorado",Republican,8
-"Des Moines, Iowa",Republican,5
-"Grand Rapids, Michigan",Republican,5
-"Green Bay, Wisconsin",Republican,4
-"Henderson, Nevada",Republican,4
-"Jacksonville, Florida",Republican,7
-"Las Vegas, Nevada",Republican,6
-"Manchester, New Hampshire",Republican,5
-"Miami, Florida",Republican,8
-"Moon Township, Pennsylvania",Republican,4
-"Orlando, Florida",Republican,4
-"Pensacola, Florida",Republican,5
-"Philadelphia, Pennsylvania",Republican,4
-"Phoenix, Arizona",Republican,4
-"Scranton, Pennsylvania",Republican,4
-"Tampa, Florida",Republican,8
-"Toledo, Ohio",Republican,5
-"Virginia Beach, Virginia",Republican,5
+candidate_party,location,count
+Republican,"Albuquerque, New Mexico",7
+Republican,"Cedar Rapids, Iowa",5
+Republican,"Charlotte, North Carolina",5
+Republican,"Cincinnati, Ohio",5
+Republican,"Colorado Springs, Colorado",6
+Republican,"Columbus, Ohio",6
+Republican,"Denver, Colorado",8
+Republican,"Des Moines, Iowa",5
+Republican,"Grand Rapids, Michigan",5
+Republican,"Green Bay, Wisconsin",5
+Republican,"Jacksonville, Florida",7
+Republican,"Las Vegas, Nevada",9
+Republican,"Manchester, New Hampshire",5
+Republican,"Miami, Florida",8
+Republican,"New York, New York",6
+Republican,"Pensacola, Florida",5
+Republican,"Philadelphia, Pennsylvania",5
+Republican,"Scranton, Pennsylvania",5
+Republican,"Tampa, Florida",8
+Republican,"Toledo, Ohio",5
+Republican,"Virginia Beach, Virginia",5

@@ -1,27 +1,23 @@
-location,candidate_party,count
-"Albuquerque, New Mexico",Democrat,6
-"Charlotte, North Carolina",Democrat,6
-"Cincinnati, Ohio",Democrat,7
-"Cleveland, Ohio",Democrat,9
-"Columbus, Ohio",Democrat,10
-"Dayton, Ohio",Democrat,4
-"Denver, Colorado",Democrat,4
-"Des Moines, Iowa",Democrat,8
-"Detroit, Michigan",Democrat,9
-"Fort Lauderdale, Florida",Democrat,6
-"Green Bay, Wisconsin",Democrat,4
-"Greensboro, North Carolina",Democrat,4
-"Kissimmee, Florida",Democrat,4
-"Las Vegas, Nevada",Democrat,11
-"Madison, Wisconsin",Democrat,5
-"Manchester, New Hampshire",Democrat,6
-"Miami, Florida",Democrat,9
-"Milwaukee, Wisconsin",Democrat,8
-"Orlando, Florida",Democrat,9
-"Philadelphia, Pennsylvania",Democrat,12
-"Pittsburgh, Pennsylvania",Democrat,7
-"Pueblo, Colorado",Democrat,4
-"Raleigh, North Carolina",Democrat,5
-"Tampa, Florida",Democrat,10
-"Toledo, Ohio",Democrat,8
-"Washington, District of Columbia",Democrat,4
+candidate_party,location,count
+Democrat,"Albuquerque, New Mexico",6
+Democrat,"Atlanta, Georgia",5
+Democrat,"Charlotte, North Carolina",8
+Democrat,"Cincinnati, Ohio",7
+Democrat,"Cleveland, Ohio",9
+Democrat,"Columbus, Ohio",10
+Democrat,"Des Moines, Iowa",8
+Democrat,"Detroit, Michigan",12
+Democrat,"Fort Lauderdale, Florida",6
+Democrat,"Green Bay, Wisconsin",5
+Democrat,"Greensboro, North Carolina",6
+Democrat,"Las Vegas, Nevada",12
+Democrat,"Madison, Wisconsin",7
+Democrat,"Manchester, New Hampshire",6
+Democrat,"Miami, Florida",9
+Democrat,"Milwaukee, Wisconsin",9
+Democrat,"Orlando, Florida",9
+Democrat,"Philadelphia, Pennsylvania",16
+Democrat,"Pittsburgh, Pennsylvania",10
+Democrat,"Raleigh, North Carolina",7
+Democrat,"Tampa, Florida",10
+Democrat,"Toledo, Ohio",8

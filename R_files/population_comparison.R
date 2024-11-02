@@ -17,21 +17,27 @@ cities <- cities |>
   )
 
 all_visits_location <- all_visits |> 
-  left_join(cities, join_by(location == Location))|> 
-  group_by(location, candidate_party, year) |> 
-  summarize(count=n(), population=first(Population),date=first(date),
-            candidate=first(candidate), state=first(state)) |> 
-  filter(!is.na(population))
+  left_join(cities, join_by(location == Location)) |> 
+  group_by(location, candidate, year) |> 
+  filter(!is.na(Population)) |> 
+  summarise(
+    visits=n(),
+    population=first(Population),
+    candidate_party=first(candidate_party),
+    people_visited = population * (2 - 1 / (2 ^ (visits - 1)))
+  )
 
-#party_location_visits <- all_visits_location |> 
-#  group_by(candidate_party, year) |> 
-#  summarize(
-#    candidate=first(candidate),
-#    average = median(population)
-#  )
+write_csv(all_visits_location, 'test2.csv')
 
-#ggplot(party_location_visits, aes(x=factor(year), y=average, fill=candidate_party)) +
-#  geom_bar(stat="identity", position="dodge")+
-#  labs(x="Year", y="Population (Average)", title="Population by Election Year and Party") +
-#  scale_fill_manual(values=c("Democrat"="blue", "Republican"="red")) +
-#  theme_minimal()
+party_location_visits <- all_visits_location |> 
+  group_by(candidate_party, year) |> 
+  summarize(
+    candidate=first(candidate),
+    average = median(population)
+  )
+
+ggplot(party_location_visits, aes(x=factor(year), y=average, fill=candidate_party)) +
+  geom_bar(stat="identity", position="dodge")+
+  labs(x="Year", y="Population (Average)", title="Population by Election Year and Party") +
+  scale_fill_manual(values=c("Democrat"="blue", "Republican"="red")) +
+  theme_minimal()

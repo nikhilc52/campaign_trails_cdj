@@ -53,15 +53,14 @@ all_visits_state <- all_visits |>
 
 visit_state_plot <- inner_join(usa, all_visits_state, join_by(ID == state))
 
-ggplot(visit_state_plot)+
-  geom_sf(data=usa, color="#fff8eb", linewidth=.75)+
-  geom_sf(aes(fill=count),color="#444444")+
+plot <- ggplot(visit_state_plot)+
+  geom_sf(data=usa, color="#fff8eb", linewidth=1)+
+  geom_sf(aes(fill=count),color="#444444", linewidth=1)+
   scale_fill_gradient2(mid="#fff8eb", high = "#90ee90",
-                       guide = guide_colorbar(barwidth = 10, barheight = 0.5))+
+                       guide = guide_colorbar(barwidth = 10, barheight = 0.5,frame.colour = "black"))+
   theme_minimal()+
   theme_void()+
-  labs(title="All Campaign Visits From 2004 Onwards<br>",
-       caption="<br><br>Nikhil Chinchalkar for Cornell Data Journal | 2024 ", 
+  labs(title="All Campaign Visits From 2004 Onwards<br>", 
        fill="Visits")+
   theme(plot.title = ggtext::element_markdown(size = 22, hjust =0.5, face = "bold", color="#444444"), 
         plot.subtitle = ggtext::element_markdown(size = 16, hjust =0.5, face = "bold", color="#444444"), 
@@ -69,4 +68,8 @@ ggplot(visit_state_plot)+
         legend.position = "bottom",
         legend.title = element_text(size = 12),
         legend.text = element_text(size = 12),
-        plot.background = element_rect(fill = "#FFF8EB"))
+        plot.background = element_rect(fill = "#FFF8EB", color="#FFF8EB"),
+        plot.margin = margin(10, 10, 10, 10))
+
+ggsave("heatmap.svg", plot = plot, width = 10, height = 8, device = "svg")
+

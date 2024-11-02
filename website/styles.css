@@ -8,7 +8,7 @@
 #campaign-trails-description-1 {
     position: absolute;
     left: 170px;
-    bottom: 220px;
+    bottom: 210px;
     text-wrap: nowrap;
 }
 
@@ -133,7 +133,7 @@ svg.numbers-line {
 
 #years-number {
     position: absolute;
-    left: 5900px;
+    left: 5970px;
     top: 45%;
     text-wrap: nowrap;
 }
@@ -157,14 +157,14 @@ svg.numbers-line {
     margin-bottom: 0px;
 }
 
-#past-elections {
+#general-insights {
     position: absolute;
     left: 7000px;
     top: 50%;
     text-wrap: nowrap;
 }
 
-svg.data-background {
+svg.general-insights {
     position: absolute;
     left: 6770px;
     bottom: 50%;
@@ -174,44 +174,193 @@ svg.data-background {
     transform: translateY(325px);
 }
 
+#pop-bar {
+    position: absolute;
+    left: 7500px;
+    bottom: 250px;
+    text-wrap: nowrap;
+}
+
+#pop-bar-writeup-1 {
+    position: absolute;
+    left: 7500px;
+    bottom: 75px;
+    text-wrap: nowrap;
+}
+
+#visit-bar {
+    position: absolute;
+    left: 8300px;
+    top: 250px;
+    text-wrap: nowrap;
+}
+
+#visit-bar-writeup-1 {
+    position: absolute;
+    left: 8300px;
+    top: 75px;
+    text-wrap: nowrap;
+}
+
+#visit-bar-writeup-2 {
+    position: absolute;
+    left: 9200px;
+    top: 100px;
+    text-wrap: nowrap;
+}
+
+
+#visit-bar-writeup-3 {
+    position: absolute;
+    left: 9200px;
+    bottom: 100px;
+    text-wrap: nowrap;
+}
+
+svg.bar-map-line path {
+    stroke: #90ee90;
+    stroke-width: 7px;
+}
+
+svg.bar-map-line {
+    position: absolute;
+    left: 10000px;
+    top: 40%;
+    width: 600px;
+    z-index: -1;
+}
+
+#heatmap {
+    position: absolute;
+    left: 10700px;
+    top: 0px;
+    text-wrap: nowrap;
+}
+
+#heatmap-writeup-1 {
+    position: absolute;
+    left: 10700px;
+    top: 450px;
+    text-wrap: nowrap;
+}
+
+#heatmap-writeup-2 {
+    position: absolute;
+    left: 11700px;
+    top: 150px;
+    text-wrap: nowrap;
+}
+
+#heatmap-writeup-3 {
+    position: absolute;
+    left: 11700px;
+    top: 450px;
+    text-wrap: nowrap;
+}
+
+svg.map-bubble-line path {
+    stroke: #90ee90;
+    stroke-width: 7px;
+}
+
+svg.map-bubble-line {
+    position: absolute;
+    left: 12600px;
+    top: 40%;
+    width: 600px;
+    z-index: -1;
+}
+
+#r-bubble {
+    position: absolute;
+    left: 13500px;
+    top: 20px;
+    text-wrap: nowrap;
+}
+
+#bubble-writeup-1 {
+    position: absolute;
+    left: 13300px;
+    bottom: 50px;
+    text-wrap: nowrap;
+}
+
+#d-bubble {
+    position: absolute;
+    left: 14300px;
+    bottom: 20px;
+    text-wrap: nowrap;
+}
+
+#bubble-writeup-2 {
+    position: absolute;
+    left: 14150px;
+    top: 50px;
+    text-wrap: nowrap;
+}
+
+#bubble-writeup-3 {
+    position: absolute;
+    left: 14900px;
+    top: 45%;
+    text-wrap: nowrap;
+}
+
+#past-elections {
+    position: absolute;
+    left: 16000px;
+    top: 50%;
+    text-wrap: nowrap;
+}
+
+svg.data-background {
+    position: absolute;
+    left: 15770px;
+    bottom: 50%;
+    height: 600px;
+    width: 600px;
+    z-index: -1;
+    transform: translateY(325px);
+}
+
 #election-2004 {
     position: absolute;
-    left: 7600px;
+    left: 16600px;
     bottom: 200px;
     text-wrap: nowrap;
 }
 
 #bush-kerry-2004 {
     position: absolute;
-    left: 7600px;
+    left: 16600px;
     bottom: 300px;
     text-wrap: nowrap;
 }
 
 #election-2004-writeup-1 {
     position: absolute;
-    left: 7650px;
+    left: 16650px;
     bottom: 30px;
     text-wrap: nowrap;
 }
 
 #election-2004-writeup-2 {
     position: absolute;
-    left: 8900px;
+    left: 17900px;
     top: 175px;
     text-wrap: nowrap;
 }
 
 #bush-kerry-2004-newspaper {
     position: absolute;
-    left: 8900px;
+    left: 17900px;
     top: 375px;
     text-wrap: nowrap;
 }
 
 #election-2004-writeup-3 {
     position: absolute;
-    left: 9800px;
+    left: 18800px;
     top: 45%;
     text-wrap: nowrap;
 }
@@ -223,7 +372,7 @@ svg.bush-obama-line path {
 
 svg.bush-obama-line {
     position: absolute;
-    left: 10600px;
+    left: 19600px;
     top: 45%;
     width: 600px;
     z-index: -1;
@@ -231,42 +380,42 @@ svg.bush-obama-line {
 
 #obama-mccain-2008 {
     position: absolute;
-    left: 11400px;
+    left: 20400px;
     top: 300px;
     text-wrap: nowrap;
 }
 
 #election-2008 {
     position: absolute;
-    left: 11450px;
+    left: 20450px;
     top: 50px;
     text-wrap: nowrap;
 }
 
 #election-2008-writeup-1 {
     position: absolute;
-    left: 11500px;
+    left: 20500px;
     top: 120px;
     text-wrap: nowrap;
 }
 
 #election-2008-writeup-2 {
     position: absolute;
-    left: 12500px;
+    left: 21500px;
     top: 150px;
     text-wrap: nowrap;
 }
 
 #election-2008-writeup-3 {
     position: absolute;
-    left: 12500px;
+    left: 21500px;
     bottom: 150px;
     text-wrap: nowrap;
 }
 
 #obama-virginia-newspaper {
     position: absolute;
-    left: 13500px;
+    left: 22500px;
     top: 350px;
     text-wrap: nowrap;
 }
@@ -278,7 +427,7 @@ svg.obama-obama-line path {
 
 svg.obama-obama-line {
     position: absolute;
-    left: 13800px;
+    left: 22800px;
     top: 45%;
     width: 600px;
     z-index: -1;
@@ -286,21 +435,21 @@ svg.obama-obama-line {
 
 #obama-romney-2012 {
     position: absolute;
-    left: 14500px;
+    left: 23500px;
     top: 50px;
     text-wrap: nowrap;
 }
 
 #election-2012 {
     position: absolute;
-    left: 14500px;
+    left: 23500px;
     top: 450px;
     text-wrap: nowrap;
 }
 
 #election-2012-writeup-1 {
     position: absolute;
-    left: 14550px;
+    left: 23550px;
     top: 500px;
     text-wrap: nowrap;
 }
@@ -312,7 +461,7 @@ svg.obama-trump-line path {
 
 svg.obama-trump-line {
     position: absolute;
-    left: 15500px;
+    left: 24500px;
     top: 45%;
     width: 600px;
     z-index: -1;
@@ -320,35 +469,35 @@ svg.obama-trump-line {
 
 #trump-clinton-2016 {
     position: absolute;
-    left: 16200px;
+    left: 25200px;
     top: 350px;
     text-wrap: nowrap;
 }
 
 #election-2016 {
     position: absolute;
-    left: 16250px;
+    left: 25250px;
     top: 50px;
     text-wrap: nowrap;
 }
 
 #election-2016-writeup-1 {
     position: absolute;
-    left: 16300px;
+    left: 25300px;
     top: 100px;
     text-wrap: nowrap;
 }
 
 #election-2016-writeup-2 {
     position: absolute;
-    left: 17500px;
+    left: 26500px;
     top: 170px;
     text-wrap: nowrap;
 }
 
 #trump-clinton-newspaper {
     position: absolute;
-    left: 17500px;
+    left: 26500px;
     top: 350px;
     text-wrap: nowrap;
 }
@@ -360,7 +509,7 @@ svg.trump-obama-line path {
 
 svg.trump-biden-line {
     position: absolute;
-    left: 18300px;
+    left: 27300px;
     top: 15%;
     width: 600px;
     z-index: -1;
@@ -368,21 +517,21 @@ svg.trump-biden-line {
 
 #election-2020 {
     position: absolute;
-    left: 19000px;
+    left: 28000px;
     top: 50px;
     text-wrap: nowrap;
 }
 
 #election-2020-writeup-1 {
     position: absolute;
-    left: 19050px;
+    left: 28050px;
     top: 100px;
     text-wrap: nowrap;
 }
 
 #biden-trump-2020 {
     position: absolute;
-    left: 19050px;
+    left: 28050px;
     top: 350px;
     text-wrap: nowrap;
 }
@@ -399,6 +548,7 @@ svg.trump-biden-line {
 #close-button{
     position: fixed;
     top: -5px;
+    z-index: 10;
     right: 20px;
 }
 
