@@ -1,21 +1,21 @@
 #campaign-trails {
     position: absolute;
     left: 150px;
-    bottom: 300px;
+    top: 330px;
     text-wrap: nowrap;
 }
 
 #campaign-trails-description-1 {
     position: absolute;
     left: 170px;
-    bottom: 210px;
+    top: 400px;
     text-wrap: nowrap;
 }
 
 #campaign-trails-description-2 {
     position: absolute;
     left: 170px;
-    bottom: 130px;
+    top: 530px;
     text-wrap: nowrap;
 }
 
@@ -36,21 +36,21 @@ svg.america-line {
 #america-map {
     position: absolute;
     left: 1700px;
-    bottom: 130px;
+    top: 230px;
     text-wrap: nowrap;
 }
 
 #methodology {
     position: absolute;
     left: 3000px;
-    bottom: 350px;
+    top: 250px;
     text-wrap: nowrap;
 }
 
 #methodology-description-1 {
     position: absolute;
     left: 3050px;
-    bottom: 150px;
+    top: 300px;
     text-wrap: nowrap;
 }
 
@@ -64,7 +64,7 @@ svg.america-line {
 #methodology-description-excluded {
     position: absolute;
     left: 3945px;
-    bottom: 150px;
+    top: 450px;
     text-wrap: nowrap;
 }
 
@@ -90,7 +90,7 @@ svg.america-line {
 #methodology-excluded {
     position: absolute;
     left: 4050px;
-    bottom: 150px;
+    top: 450px;
     text-wrap: nowrap;
 }
 
@@ -170,14 +170,14 @@ svg.general-insights {
 #pop-bar {
     position: absolute;
     left: 7500px;
-    bottom: 250px;
+    top: 50px;
     text-wrap: nowrap;
 }
 
 #pop-bar-writeup-1 {
     position: absolute;
     left: 7500px;
-    bottom: 75px;
+    top: 475px;
     text-wrap: nowrap;
 }
 
@@ -206,7 +206,7 @@ svg.general-insights {
 #visit-bar-writeup-3 {
     position: absolute;
     left: 9200px;
-    bottom: 100px;
+    top: 450px;
     text-wrap: nowrap;
 }
 
@@ -274,14 +274,14 @@ svg.map-bubble-line {
 #bubble-writeup-1 {
     position: absolute;
     left: 13300px;
-    bottom: 50px;
+    top: 500px;
     text-wrap: nowrap;
 }
 
 #d-bubble {
     position: absolute;
     left: 14300px;
-    bottom: 20px;
+    top: 220px;
     text-wrap: nowrap;
 }
 
@@ -319,21 +319,21 @@ svg.data-background {
 #election-2004 {
     position: absolute;
     left: 16600px;
-    bottom: 200px;
+    top: 400px;
     text-wrap: nowrap;
 }
 
 #bush-kerry-2004 {
     position: absolute;
     left: 16600px;
-    bottom: 300px;
+    top: 30px;
     text-wrap: nowrap;
 }
 
 #election-2004-writeup-1 {
     position: absolute;
     left: 16650px;
-    bottom: 30px;
+    top: 450px;
     text-wrap: nowrap;
 }
 
@@ -402,7 +402,7 @@ svg.bush-obama-line {
 #election-2008-writeup-3 {
     position: absolute;
     left: 21500px;
-    bottom: 150px;
+    top: 350px;
     text-wrap: nowrap;
 }
 
@@ -416,7 +416,7 @@ svg.bush-obama-line {
 #obama-virginia-newspaper {
     position: absolute;
     left: 22550px;
-    bottom: 150px;
+    top: 350px;
     text-wrap: nowrap;
 }
 
@@ -473,7 +473,7 @@ svg.obama-obama-line {
 #romney-2012-article {
     position: absolute;
     left: 26100px;
-    bottom: 120px;
+    top: 320px;
     text-wrap: nowrap;
 }
 
@@ -579,14 +579,14 @@ svg.prediction-background {
 #trump-harris-2024 {
     position: absolute;
     left: 32955px;
-    top: 20px;
+    top: 70px;
     text-wrap: nowrap;
 }
 
 #prediction-2024-writeup-1 {
     position: absolute;
     left: 33100px;
-    bottom: 20px;
+    top: 450px;
     text-wrap: nowrap;
 }
 
@@ -600,21 +600,21 @@ svg.prediction-background {
 #prediction-2024-writeup-3 {
     position: absolute;
     left: 34100px;
-    bottom: 50px;
+    top: 400px;
     text-wrap: nowrap;
 }
 
 #prediction-2024-writeup-4 {
     position: absolute;
     left: 35100px;
-    top: 50px;
+    top: 70px;
     text-wrap: nowrap;
 }
 
 #prediction-2024-writeup-5 {
     position: absolute;
     left: 35100px;
-    bottom: 50px;
+    top: 450px;
     text-wrap: nowrap;
 }
 
@@ -630,7 +630,7 @@ svg.prediction-background {
     display: inline-block;
     position: absolute;
     left: 36350px;
-    bottom: 50px;
+    top: 450px;
     text-wrap: nowrap;
 }
 
@@ -652,7 +652,7 @@ svg.prediction-background {
 #prediction-2024-writeup-7 {
     position: absolute;
     left: 37100px;
-    bottom: 150px;
+    top: 350px;
     text-wrap: nowrap;
 }
 
@@ -736,7 +736,7 @@ svg.about-background {
 #about-github {
     position: absolute;
     left: 41000px;
-    top: 80%;
+    top: 100px;
     text-wrap: nowrap;
 }
 

@@ -58,8 +58,9 @@ const animate = (svg, offset, speed) => {
     //using max on the whole value so that after the animation is finished - percentage is > 1, but we just want to show the full path, so offset is 0
     path.style.strokeDashoffset = `${Math.max(pathLength * (1 - Math.max(percentage,0) * speed),0)}`
 
-    console.log(percentage)
-    console.log(window.scrollX)
+    // console.log(percentage)
+    console.log(screen.height)
+    // console.log(window.scrollX)
     // console.log(pathLength)
 }
 
