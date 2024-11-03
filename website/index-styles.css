@@ -116,28 +116,38 @@ a:hover {
     cursor: url("images/cursor-alt.svg"), auto;
 }
 
-@media only screen and (max-width: 500px) {
+#mobile-image{
+    display: none;
+}
 
-    /* formatting for mobile */
+@media only screen and (max-width: 500px) {
+    #michigan{
+        display: none;
+    }
+
+    #pennsylvania{
+        display: none;
+    }
+
+    #ohio {
+        display: none;
+    }
+
+    #florida{
+        display: none;
+    }
+
+    #begin-journey{
+        display: none;
+    }
 
     #logo {
-        display: grid;
-        place-items: center;
+        display: none;
     }
 
-    svg.pennsylvania-svg path {
-        stroke: #FFF8EB;
-    }
-
-    svg.ohio-svg path {
-        stroke: #FFF8EB;
-    }
-
-    svg.florida-svg path {
-        stroke: #FFF8EB;
-    }
-
-    svg.michigan-svg path {
-        stroke: #FFF8EB;
+    #mobile-image {
+        display: block;
+        width: 100%;
+        z-index: 1;
     }
 }
