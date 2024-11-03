@@ -11,7 +11,7 @@ working <- all_visits %>%
            count=n()) %>% 
   filter(count > 4)
 
-write_csv(x = working, file = "democrat_bubblechart.csv")  
+write_csv(x = working, file = "democrat_bubble_chart.csv")  
 
 
 all_visits <- read.csv("all_visits.csv") %>% 
@@ -23,7 +23,7 @@ working <- all_visits %>%
     count=n()) %>% 
   filter(count > 4)
 
-write_csv(x = working, file = "republican_bubblechart.csv")  
+write_csv(x = working, file = "republican_bubble_chart.csv")  
 
 
 
