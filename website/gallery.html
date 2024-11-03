@@ -6,11 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Campaign Trails</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" href="images/cursor.svg">
 </head>
 
 <body>
     <div class="title" id="close-button">
         <h1><a href="index.html">Close</a></h1>
+    </div>
+
+    <div id="nav-bar">
+        <img src="images/nav-bar.svg" height="75px">
     </div>
 
     <div class="title" id="campaign-trails">
@@ -294,7 +299,19 @@
             the total populations of all the cities he visited versus the one's<br>
             that Kerry visited. Bush campaigned to a total of 3.1 million people in<br>
             Florida, whereas Kerry only reached 2.6 million people, a difference that<br>
-            led Bush to win the state and the election.
+            led Bush to win the state and the election. We'll continue to use this idea of<br>
+            
+            <div class="hoverable-image" onmousemove="myFunction(event, 'tooltip-campaigning-def','election-2004-writeup-3')">
+                "<u>campaigning to people</u>"
+                <div class="tooltip" id="tooltip-campaigning-def">
+                    <p>We're using this as a compromise between biasing to Republicans and Democrats:<br>
+                    if we didn't uniquely count cities, we'd be biasing towards Democrats, since candidates<br>
+                    are more likely to visit more-populated cities, which would inflate numbers. Conversely,<br>
+                    if we were to solely count the number of visits, as indicated in a prior bar chart,<br>
+                    this would bias towards Republicans, who visit more cities.</p>
+                </div>
+            </div>
+            throughout the rest of our analysis.
         </h2>
     </div>
 
@@ -368,21 +385,20 @@
     </div>
 
     <div class="body" id="election-2012-writeup-1">
-        <h2>The 2012 election was an outlier in terms of campaigning. While the margins<br>
-            of how many people each campaign visited were extremely close, Romney barely<br>
-            edged out Obama in 5 of 8 swing states, but failed to win a single one.
+        <h2>In 2012, the margins of how many people each campaign visited were extremely<br>
+            close, so while Romney barely edged out Obama in 5 of 8 swing states, he failed<br>
+            to win a single one.
         </h2>
     </div>
 
     <div class="body" id="election-2012-writeup-2">
-        <h2>Still, campaigning seems to have some predictive value, since all 3 of Obama's<br>
-            campaigning advantages translated to state victories.
+        <h2>Obama, on the other hand, had all 3 of his campaign advantages Obama's<br>
+            translate to state victories.
         </h2>
     </div>
 
     <div class="body" id="election-2012-writeup-3">
-        <h2>While we'll consider this an inaccuracy for our prediction model,<br>
-            there are a number of possible reasons for this outlier, ranging from Obama's<br>
+        <h2>There are a number of possible reasons for this oddity, ranging from Obama's<br>
             incumbent advantage to Romney, though visiting more people, not genuinely<br>
             engaging with them.
         </h2>
@@ -424,10 +440,6 @@
         <img src="images/trump_clinton_2016_website.gif" loading="lazy" width=1000px>
     </div>
 
-    <div class="image" id="trump-clinton-newspaper">
-        <img src="https://placehold.co/600x400/" width=400px>
-    </div>
-
     <svg width="224" height="450" viewBox="0 0 224 147" fill="none" xmlns="http://www.w3.org/2000/svg"
         class="trump-biden-line">
         <path
@@ -452,10 +464,6 @@
             visiting more people than Trump in key states like Pennsylvania, Ohio, Wisconsin,<br>
             Michigan, and Minnesota, eventually winning all but Ohio.
         </h2>
-    </div>
-
-    <div class="image" id="biden-trump-newspaper">
-        <img src="https://placehold.co/600x400/" loading="lazy" width=300px>
     </div>
 
     <div class="image" id="biden-trump-2020">
@@ -522,6 +530,23 @@
         </h2>
     </div>
 
+    <div class="body" id="model-elections-title">
+        <h2>Below are our model's predictions for the distribution of electoral votes<br>
+            in each election. In every case, the model correctly predicts the winner.<br>
+        </h2>
+    </div>
+
+    <div class="image" id="model-elections-1">
+        <img style="padding-right: 50px;" src="images/kerry-bush-pie.svg" width="150px">
+        <img style="padding-right: 50px;" src="images/mccain-obama-pie.svg" width="150px">
+        <img style="padding-right: 50px;" src="images/romney-obama-pie.svg" width="150px">
+    </div>
+
+    <div class="image" id="model-elections-2">
+        <img style="padding-right: 50px;" src="images/trump-clinton-pie.svg" width="150px">
+        <img style="padding-right: 50px;" src="images/trump-biden-pie.svg" width="150px">
+    </div>
+
     <div class="body" id="prediction-2024-writeup-6">
         <h2>In 2024, the 7 swing states, as defined by our data, are Pennsylvania, Michigan, Nevada,<br>
             Wisconsin, North Carolina, Arizona, and Georgia. Extracting the expected values by campaign<br>
@@ -532,7 +557,7 @@
 
     <div class="body" id="prediction-2024-writeup-7">
         <h2>That is, with Harris winning the majority of swing state votes, we predict that<br>
-            <b>Kamala Harris will win the 2024 election and be the 47th president of the United States</b>.
+            <b style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;;">Kamala Harris will win the 2024 election and be the 47th president of the United States</b>.
         </h2>
     </div>
 
@@ -567,7 +592,7 @@
     </div>
 
     <div class="image" id="nikhil-headshot">
-        <img src="images/nikhil-headshot.svg" height="200px">
+        <a href="https://nikhilchinchalkar.com/"><img src="images/nikhil-headshot.svg" height="200px"></a>
         <h1 style="text-indent: 15px; font-size: 20px;">Nikhil Chinchalkar</h1>
     </div>
 

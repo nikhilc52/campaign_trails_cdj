@@ -8,5 +8,5 @@ function myFunction(e, tooltipID, elementID) {
     
     //places the tool tip at the pixel location along the canvas (relative to the top of the page)
     // offset by the position of the element we're hovering over (offsetTop)
-    document.getElementById(tooltipID).style.top = y-document.getElementById(elementID).offsetTop+20 + "px";
+    document.getElementById(tooltipID).style.top = y-document.getElementById(elementID).offsetTop-50 + "px";
 }

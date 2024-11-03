@@ -75,7 +75,7 @@ svg.america-line {
     text-wrap: nowrap;
 }
 
-.hoverable-image{
+.hoverable-image {
     display: inline-block;
 }
 
@@ -457,7 +457,7 @@ svg.obama-obama-line {
 
 #election-2012-writeup-2 {
     position: absolute;
-    left: 25000px;
+    left: 25050px;
     top: 45%;
     text-wrap: nowrap;
 }
@@ -514,14 +514,7 @@ svg.obama-trump-line {
 #election-2016-writeup-2 {
     position: absolute;
     left: 28400px;
-    top: 170px;
-    text-wrap: nowrap;
-}
-
-#trump-clinton-newspaper {
-    position: absolute;
-    left: 28450px;
-    top: 350px;
+    top: 45%;
     text-wrap: nowrap;
 }
 
@@ -562,14 +555,7 @@ svg.trump-biden-line {
 #election-2020-writeup-2 {
     position: absolute;
     left: 31050px;
-    top: 100px;
-    text-wrap: nowrap;
-}
-
-#biden-trump-newspaper {
-    position: absolute;
-    left: 31050px;
-    bottom: 100px;
+    top: 45%;
     text-wrap: nowrap;
 }
 
@@ -632,17 +618,41 @@ svg.prediction-background {
     text-wrap: nowrap;
 }
 
+#model-elections-1 {
+    display: inline-block;
+    position: absolute;
+    left: 36280px;
+    top: 250px;
+    text-wrap: nowrap;
+}
+
+#model-elections-2 {
+    display: inline-block;
+    position: absolute;
+    left: 36350px;
+    bottom: 50px;
+    text-wrap: nowrap;
+}
+
+#model-elections-title {
+    display: inline-block;
+    position: absolute;
+    left: 36200px;
+    top: 50px;
+    text-wrap: nowrap;
+}
+
 #prediction-2024-writeup-6 {
     position: absolute;
-    left: 36100px;
-    top: 45%;
+    left: 37100px;
+    top: 150px;
     text-wrap: nowrap;
 }
 
 #prediction-2024-writeup-7 {
     position: absolute;
     left: 37100px;
-    top: 45%;
+    bottom: 150px;
     text-wrap: nowrap;
 }
 
@@ -687,35 +697,35 @@ svg.about-background {
     text-wrap: nowrap;
 }
 
-#nikhil-headshot{
+#nikhil-headshot {
     position: absolute;
     left: 40550px;
     top: 35%;
     text-wrap: nowrap;
 }
 
-#ella-headshot{
+#ella-headshot {
     position: absolute;
     left: 40850px;
     top: 35%;
     text-wrap: nowrap;
 }
 
-#natalie-headshot{
+#natalie-headshot {
     position: absolute;
     left: 41150px;
     top: 35%;
     text-wrap: nowrap;
 }
 
-#shashank-headshot{
+#shashank-headshot {
     position: absolute;
     left: 41450px;
     top: 35%;
     text-wrap: nowrap;
 }
 
-#vivian-headshot{
+#vivian-headshot {
     position: absolute;
     left: 41750px;
     top: 35%;
@@ -732,7 +742,15 @@ svg.about-background {
 
 /* below are general styles */
 
-#close-button{
+html {
+    cursor: url("images/cursor.svg"), auto;
+}
+
+a:hover {
+    cursor: url("images/cursor-alt.svg"), auto;
+}
+
+#close-button {
     position: fixed;
     top: -5px;
     z-index: 10;
@@ -783,6 +801,14 @@ h2,
 h4 {
     font-family: 'Times New Roman', Times, serif;
     line-height: 1.6;
+    color: #444;
+    font-weight: normal;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    font-size: 12px;
     color: #444;
     font-weight: normal;
 }
