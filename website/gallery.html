@@ -107,10 +107,6 @@
             like small fundraisers.</h2>
     </div>
 
-    <div class="body" id="methodology-description-3">
-        <h2>We scraped the data from christopherjdevine.com, as well as p2004.org. </h2>
-    </div>
-
     <svg width="3338" height="982" viewBox="0 0 3338 982" fill="none" xmlns="http://www.w3.org/2000/svg"
         class="numbers-line">
         <path
@@ -264,7 +260,7 @@
         class="data-background">
         <path
             d="M494.808 149.361C573.198 37.777 709.26 -18.1175 843.452 6.13694L1581 139.445C1742.94 168.714 1862.62 306.845 1868.53 471.302L1891.49 1110.84C1896.75 1257.27 1810.25 1391.47 1674.72 1447.15L916.594 1758.59C781.062 1814.27 625.195 1779.63 526.001 1671.79L92.7575 1200.79C-18.6509 1079.68 -30.6366 897.305 63.9619 762.649L494.808 149.361Z"
-            fill="#90EE90" transform="rotate(180,946, 892.5)"/>
+            fill="#90EE90" transform="rotate(180,946, 892.5)" />
     </svg>
 
 
@@ -470,7 +466,7 @@
         class="prediction-background">
         <path
             d="M494.808 149.361C573.198 37.777 709.26 -18.1175 843.452 6.13694L1581 139.445C1742.94 168.714 1862.62 306.845 1868.53 471.302L1891.49 1110.84C1896.75 1257.27 1810.25 1391.47 1674.72 1447.15L916.594 1758.59C781.062 1814.27 625.195 1779.63 526.001 1671.79L92.7575 1200.79C-18.6509 1079.68 -30.6366 897.305 63.9619 762.649L494.808 149.361Z"
-            fill="#90EE90" transform="rotate(270,946, 892.5)"/>
+            fill="#90EE90" transform="rotate(270,946, 892.5)" />
     </svg>
 
     <div class="title" id="prediction-2024">
@@ -482,9 +478,9 @@
     </div>
 
     <div class="body" id="prediction-2024-writeup-1">
-        <h2>Above is the same map we've seen for each of the previous elections<br>.
-            As of October 30th, 2024, Harris has had 55 public events, and Trump has<br>
-            had 60.
+        <h2>Above is the same map we've seen for each of the previous elections.<br>
+            As of November 2nd, 2024, Harris has had 62 public events, and Trump has<br>
+            had 67.
         </h2>
     </div>
 
@@ -493,20 +489,110 @@
             at the 'total number of people visited' on the campaign trail, which is<br>
             calculated by the sum of the populations of all the different cities a<br>
             candidate visits, is our best predictor of election results, looking solely<br>
-            at our data. 
+            at our data.
         </h2>
     </div>
 
-    <div class="body" id="prediction-2024-writeup-2">
+    <div class="body" id="prediction-2024-writeup-3">
         <h2>Historically, this metric has successfully predicted swing state results (where<br>
             a swing state is defined as a state in which both candidates visit at least once)<br>
-            58% of the time. While this seems like just a slight increase from the 'true' 50%<br>
-            chance that these tossup states have, 
+            61% of the time. While this seems like just a slight increase from the 'true' 50%<br>
+            chance that these tossup states have, it is statistically significant (p=0.03609),<br>
+            indicating that campaigns have some ability to predict election results.
         </h2>
     </div>
 
-    <div class="image" id="test">
-        <h1>random text testing</h1>
+    <div class="body" id="prediction-2024-writeup-4">
+        <h2>We can increase the significance of our findings by looking into how much a candidate<br>
+            campaigned more than the other, not just if they campaigned more. To filter out noise,<br>
+            we'll also only look at swing states in which either candidate campaigned to 200,000<br>
+            more people than the other, leaving the states that are 'too close' as true toss-ups.<br>
+            We'll generate a logistic model based on those conditions, assigning win probability values to<br>
+            each state, and multiplying those values by the state's electoral votes, to find an<br>
+            expected value of votes for each candidate.
+        </h2>
+    </div>
+
+    <div class="body" id="prediction-2024-writeup-5">
+        <h2>Applying this model to each of the last 5 elections results in accurate predictions<br>
+            of every single election. That is, our model accurately predicted the candidate that would<br>
+            win a majority of swing state electoral votes, and thus win the White House. This is<br>
+            statistically significant (p=0.03125), and provides good evidence that campaigning in swing<br>
+            states is very important to winning the election.
+        </h2>
+    </div>
+
+    <div class="body" id="prediction-2024-writeup-6">
+        <h2>In 2024, the 7 swing states, as defined by our data, are Pennsylvania, Michigan, Nevada,<br>
+            Wisconsin, North Carolina, Arizona, and Georgia. Extracting the expected values by campaign<br>
+            visits gives us a split of the 93 swing state electoral votes that yields 51.5 votes to Harris<br>
+            and 41.5 votes to Trump.
+        </h2>
+    </div>
+
+    <div class="body" id="prediction-2024-writeup-7">
+        <h2>That is, with Harris winning the majority of swing state votes, we predict that<br>
+            <b>Kamala Harris will win the 2024 election and be the 47th president of the United States</b>.
+        </h2>
+    </div>
+
+    <svg width="1892" height="1785" viewBox="0 0 1892 1785" fill="none" xmlns="http://www.w3.org/2000/svg"
+        class="conclusion-background">
+        <path
+            d="M494.808 149.361C573.198 37.777 709.26 -18.1175 843.452 6.13694L1581 139.445C1742.94 168.714 1862.62 306.845 1868.53 471.302L1891.49 1110.84C1896.75 1257.27 1810.25 1391.47 1674.72 1447.15L916.594 1758.59C781.062 1814.27 625.195 1779.63 526.001 1671.79L92.7575 1200.79C-18.6509 1079.68 -30.6366 897.305 63.9619 762.649L494.808 149.361Z"
+            fill="#90EE90" transform="rotate(330, 946, 892.5)" />
+    </svg>
+
+    <div class="title" id="conclusion">
+        <h1>Conclusion</h1>
+    </div>
+
+    <div class="body" id="conclusion-1">
+        <h2>To answer the questions posed at the beginning of the page, yes, campaigning does matter,<br>
+            but it's relative value has decreased over the years. Additionally, there are several<br>
+            patterns that we can identify, especially across party-lines. Finally, we can indeed<br>
+            use campaign visits as a means of predicting election outcomes.
+        </h2>
+    </div>
+
+    <svg width="1892" height="1785" viewBox="0 0 1892 1785" fill="none" xmlns="http://www.w3.org/2000/svg"
+        class="about-background">
+        <path
+            d="M494.808 149.361C573.198 37.777 709.26 -18.1175 843.452 6.13694L1581 139.445C1742.94 168.714 1862.62 306.845 1868.53 471.302L1891.49 1110.84C1896.75 1257.27 1810.25 1391.47 1674.72 1447.15L916.594 1758.59C781.062 1814.27 625.195 1779.63 526.001 1671.79L92.7575 1200.79C-18.6509 1079.68 -30.6366 897.305 63.9619 762.649L494.808 149.361Z"
+            fill="#90EE90" transform="rotate(0, 946, 892.5)" />
+    </svg>
+
+    <div class="title" id="about">
+        <h1>About</h1>
+    </div>
+
+    <div class="image" id="nikhil-headshot">
+        <img src="images/nikhil-headshot.svg" height="200px">
+        <h1 style="text-indent: 15px; font-size: 20px;">Nikhil Chinchalkar</h1>
+    </div>
+
+    <div class="image" id="ella-headshot">
+        <img src="images/ella-headshot.svg" height="200px">
+        <h1 style="text-indent: 35px; font-size: 20px;">Ella Sanchez</h1>
+    </div>
+
+    <div class="image" id="natalie-headshot">
+        <img src="images/natalie-headshot.svg" height="200px">
+        <h1 style="text-indent: 35px; font-size: 20px;">Natalie Miller</h1>
+    </div>
+
+    <div class="image" id="shashank-headshot">
+        <img src="images/shashank-headshot.svg" height="200px">
+        <h1 style="text-indent: -10px; font-size: 20px;">Shashank Kalyanaraman</h1>
+    </div>
+
+    <div class="image" id="vivian-headshot">
+        <img src="images/vivian-headshot.svg" height="200px">
+        <h1 style="text-indent: 55px; font-size: 20px;">Vivian Guo</h1>
+    </div>
+
+    <div class="title" id="about-github">
+        <h3>Sourcing information and files can be found on our <u><a href="https://github.com/nikhilc52/campaign_trails_cdj" target="_blank">GitHub</a></u>.</h3>
     </div>
 
 </body>

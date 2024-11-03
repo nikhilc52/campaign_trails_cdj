@@ -94,13 +94,6 @@ svg.america-line {
     text-wrap: nowrap;
 }
 
-#methodology-description-3 {
-    position: absolute;
-    left: 4050px;
-    bottom: 25px;
-    text-wrap: nowrap;
-}
-
 svg.numbers-line path {
     stroke: #90ee90;
     stroke-width: 10px;
@@ -604,14 +597,140 @@ svg.prediction-background {
     text-wrap: nowrap;
 }
 
-/* below are general styles */
-
-#test {
+#prediction-2024-writeup-1 {
     position: absolute;
-    left: 40000px;
+    left: 33100px;
+    bottom: 20px;
+    text-wrap: nowrap;
+}
+
+#prediction-2024-writeup-2 {
+    position: absolute;
+    left: 34100px;
+    top: 50px;
+    text-wrap: nowrap;
+}
+
+#prediction-2024-writeup-3 {
+    position: absolute;
+    left: 34100px;
+    bottom: 50px;
+    text-wrap: nowrap;
+}
+
+#prediction-2024-writeup-4 {
+    position: absolute;
+    left: 35100px;
+    top: 50px;
+    text-wrap: nowrap;
+}
+
+#prediction-2024-writeup-5 {
+    position: absolute;
+    left: 35100px;
+    bottom: 50px;
+    text-wrap: nowrap;
+}
+
+#prediction-2024-writeup-6 {
+    position: absolute;
+    left: 36100px;
     top: 45%;
     text-wrap: nowrap;
 }
+
+#prediction-2024-writeup-7 {
+    position: absolute;
+    left: 37100px;
+    top: 45%;
+    text-wrap: nowrap;
+}
+
+svg.conclusion-background {
+    position: absolute;
+    left: 38100px;
+    bottom: 50%;
+    height: 600px;
+    width: 600px;
+    z-index: -1;
+    transform: translateY(325px);
+}
+
+#conclusion {
+    position: absolute;
+    left: 38340px;
+    top: 45%;
+    text-wrap: nowrap;
+}
+
+#conclusion-1 {
+    position: absolute;
+    left: 38900px;
+    top: 45%;
+    text-wrap: nowrap;
+}
+
+svg.about-background {
+    position: absolute;
+    left: 39875px;
+    bottom: 50%;
+    height: 600px;
+    width: 600px;
+    z-index: -1;
+    transform: translateY(325px);
+}
+
+#about {
+    position: absolute;
+    left: 40150px;
+    top: 45%;
+    text-wrap: nowrap;
+}
+
+#nikhil-headshot{
+    position: absolute;
+    left: 40550px;
+    top: 35%;
+    text-wrap: nowrap;
+}
+
+#ella-headshot{
+    position: absolute;
+    left: 40850px;
+    top: 35%;
+    text-wrap: nowrap;
+}
+
+#natalie-headshot{
+    position: absolute;
+    left: 41150px;
+    top: 35%;
+    text-wrap: nowrap;
+}
+
+#shashank-headshot{
+    position: absolute;
+    left: 41450px;
+    top: 35%;
+    text-wrap: nowrap;
+}
+
+#vivian-headshot{
+    position: absolute;
+    left: 41750px;
+    top: 35%;
+    padding-right: 100px;
+    text-wrap: nowrap;
+}
+
+#about-github {
+    position: absolute;
+    left: 41000px;
+    top: 80%;
+    text-wrap: nowrap;
+}
+
+/* below are general styles */
 
 #close-button{
     position: fixed;
