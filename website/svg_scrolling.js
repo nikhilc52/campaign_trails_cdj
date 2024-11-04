@@ -59,7 +59,7 @@ const animate = (svg, offset, speed) => {
     path.style.strokeDashoffset = `${Math.max(pathLength * (1 - Math.max(percentage,0) * speed),0)}`
 
     // console.log(percentage)
-    console.log(screen.height)
+    // console.log(screen.height)
     // console.log(window.scrollX)
     // console.log(pathLength)
 }

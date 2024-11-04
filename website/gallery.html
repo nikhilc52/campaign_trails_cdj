@@ -32,7 +32,7 @@
         class="america-line">
         <path
             d="M7.86646 1050.99C33.2969 1063.7 68.5285 1054.32 94.9711 1049.47C150.391 1039.31 201.862 1014.78 248.881 984.181C290.571 957.05 323.474 930.571 352.043 889.502C389.871 835.125 418.27 775.085 452.327 718.323C592.102 485.365 774.649 270.385 1010.71 130.556C1125.16 62.7608 1262.63 1.75214 1398.66 8.45799C1513.57 14.1225 1628.47 56.0053 1722.99 121.315C1813.23 183.663 1877.55 270.481 1927.5 367.178C1982.67 473.99 1993.9 589.42 1914.78 688.329C1873.81 739.541 1784.63 809.129 1717.54 761.648C1690.07 742.206 1687.85 701.791 1692.39 671.514C1701.23 612.58 1738.36 560.142 1779.2 518.664C1871.03 425.379 1999.98 375.729 2130.19 379.297C2278.33 383.355 2411.56 458.627 2553.44 491.396C2714.38 528.566 2915.67 504.133 3020.32 361.421C3077.44 283.539 3100 183.328 3100 88.4427"
-            stroke="#26D067" stroke-width="15" stroke-linecap="round"/>
+            stroke="#26D067" stroke-width="15" stroke-linecap="round" />
     </svg>
 
     <div class="image" id="america-map">
@@ -296,15 +296,16 @@
             that Kerry visited. Bush campaigned to a total of 3.1 million people in<br>
             Florida, whereas Kerry only reached 2.6 million people, a difference that<br>
             led Bush to win the state and the election. We'll continue to use this idea of<br>
-            
-            <div class="hoverable-image" onmousemove="myFunction(event, 'tooltip-campaigning-def','election-2004-writeup-3')">
+
+            <div class="hoverable-image"
+                onmousemove="myFunction(event, 'tooltip-campaigning-def','election-2004-writeup-3')">
                 "<u>campaigning to people</u>"
                 <div class="tooltip" id="tooltip-campaigning-def">
                     <p>We're using this as a compromise between biasing to Republicans and Democrats:<br>
-                    if we didn't uniquely count cities, we'd be biasing towards Democrats, since candidates<br>
-                    are more likely to visit more-populated cities, which would inflate numbers. Conversely,<br>
-                    if we were to solely count the number of visits, as indicated in a prior bar chart,<br>
-                    this would bias towards Republicans, who visit more cities.</p>
+                        if we didn't uniquely count cities, we'd be biasing towards Democrats, since candidates<br>
+                        are more likely to visit more-populated cities, which would inflate numbers. Conversely,<br>
+                        if we were to solely count the number of visits, as indicated in a prior bar chart,<br>
+                        this would bias towards Republicans, who visit more cities.</p>
                 </div>
             </div>
             throughout the rest of our analysis.
@@ -474,7 +475,14 @@
     </svg>
 
     <div class="title" id="prediction-2024">
-        <h1>2024 Prediction</h1>
+        <h1>2024 Prediction
+            <div class="hoverable-image" onmousemove="myFunction(event, 'tooltip-prediction','prediction-2024')">
+                *
+                <div class="tooltip" id="tooltip-prediction">
+                    <p>These predictions were made as of October 30th, 2024</p>
+                </div>
+            </div>
+        </h1>
     </div>
 
     <div class="image" id="trump-harris-2024">
@@ -483,8 +491,8 @@
 
     <div class="body" id="prediction-2024-writeup-1">
         <h2>Above is the same map we've seen for each of the previous elections.<br>
-            As of November 2nd, 2024, Harris has had 62 public events, and Trump has<br>
-            had 67.
+            As of October 30th, 2024, Harris has had 55 public events, and Trump has<br>
+            had 62.
         </h2>
     </div>
 
@@ -553,7 +561,8 @@
 
     <div class="body" id="prediction-2024-writeup-7">
         <h2>That is, with Harris winning the majority of swing state votes, we predict that<br>
-            <b style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;;">Kamala Harris will win the 2024 election and be the 47th president of the United States</b>.
+            <b style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;;">Kamala Harris will win
+                the 2024 election and be the 47th president of the United States</b>.
         </h2>
     </div>
 
@@ -613,7 +622,8 @@
     </div>
 
     <div class="title" id="about-github">
-        <h3>Sourcing information and files can be found on our <u><a href="https://github.com/nikhilc52/campaign_trails_cdj" target="_blank">GitHub</a></u>.</h3>
+        <h3>Sourcing information and files can be found on our <u><a
+                    href="https://github.com/nikhilc52/campaign_trails_cdj" target="_blank">GitHub</a></u>.</h3>
     </div>
 
 </body>

@@ -18,6 +18,8 @@ All the files and programs used to build the website and images used in [Campaig
    *  Website used to produce reference bubble charts for campaign cities
 *  **Google Newspaper Archive**
    *  Archive used to obtain certain newspaper clippings used on webpage
+*  **CLOC**
+   *  Used to obtain metadata about the project's code
 
 ## Sources used
 
@@ -27,6 +29,14 @@ All the files and programs used to build the website and images used in [Campaig
 * [**Vote Hub**](https://projects.votehub.com/pages/campaign-tracker): Page used to manually scrape campaign visits for the 2024 election
 * [**Odyssee**](https://odyssee.community/): Previous Cornell Data Journal project mainly used for webpage inspiration
 * [**FiveThirtyEight**](https://fivethirtyeight.com/features/the-last-10-weeks-of-2016-campaign-stops-in-one-handy-gif/): Visual inspiration for past-election animated maps
+
+## Metadata
+
+ * 2216 lines of hand-written code
+ * 16 R files
+ * 30 CSVs
+ * 4688 CSV rows
+ * 53 images
 
 ## Contributors
 
