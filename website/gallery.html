@@ -506,15 +506,6 @@
     </div>
 
     <div class="body" id="prediction-2024-writeup-3">
-        <h2>Historically, this metric has successfully predicted swing state results (where<br>
-            a swing state is defined as a state in which both candidates visit at least once)<br>
-            61% of the time. While this seems like just a slight increase from the 'true' 50%<br>
-            chance that these tossup states have, it is statistically significant (p=0.03609),<br>
-            indicating that campaigns have some ability to predict election results.
-        </h2>
-    </div>
-
-    <div class="body" id="prediction-2024-writeup-4">
         <h2>We can increase the significance of our findings by looking into how much a candidate<br>
             campaigned more than the other, not just if they campaigned more. To filter out noise,<br>
             we'll also only look at swing states in which either candidate campaigned to 200,000<br>
@@ -525,18 +516,28 @@
         </h2>
     </div>
 
-    <div class="body" id="prediction-2024-writeup-5">
+    <div class="body" id="prediction-2024-writeup-4">
         <h2>Applying this model to each of the last 5 elections results in accurate predictions<br>
-            of every single election. That is, our model accurately predicted the candidate that would<br>
-            win a majority of swing state electoral votes, and thus win the White House. This is<br>
-            statistically significant (p=0.03125), and provides good evidence that campaigning in swing<br>
-            states is very important to winning the election.
+            of 4 of them, the sole error being in 2012. That is, our model accurately predicted the<br>
+            candidate that would win a majority of swing state electoral votes, and thus win the White House<br>
+            in 4 of 5 cases. Unfortunately, this is not statistically significant, assuming each election is a true 50-50<br>
+            toss up (p=0.1875), indicating that campaigning in swing states is not the only factor that<br>
+            allows a candidate to win the election.
+        </h2>
+    </div>
+
+    <div class="body" id="prediction-2024-writeup-5">
+        <h2>Even though the lack of significance of the model is disappointing, it goes to show<br>
+            that reaching a wide audience and campaigning to a large number of people isn't the only<br>
+            thing that matters in an election. Ultimately, it's the candidate's messaging and platform<br>
+            that can truly make a difference, which when combined with solid campaigning numbers, can<br>
+            lead a candidate to the presidency.
         </h2>
     </div>
 
     <div class="body" id="model-elections-title">
-        <h2>Below are our model's predictions for the distribution of electoral votes<br>
-            in each election. In every case, the model correctly predicts the winner.<br>
+        <h2>For reference, below are our model's predictions for the distribution of electoral votes<br>
+            in each election. In 4 of 5 cases, the model correctly predicts the winner.<br>
         </h2>
     </div>
 
@@ -552,17 +553,23 @@
     </div>
 
     <div class="body" id="prediction-2024-writeup-6">
-        <h2>In 2024, the 7 swing states, as defined by our data, are Pennsylvania, Michigan, Nevada,<br>
+        <h2>While it's negligible to apply an insignificant model to a new dataset, we can still attempt to<br>
+            use our model to predict the 2024 election.<br><br>
+
+            In 2024, the 7 swing states, as defined by our data, are Pennsylvania, Michigan, Nevada,<br>
             Wisconsin, North Carolina, Arizona, and Georgia. Extracting the expected values by campaign<br>
-            visits gives us a split of the 93 swing state electoral votes that yields 51.5 votes to Harris<br>
-            and 41.5 votes to Trump.
+            visits gives us a split of the 93 swing state electoral votes that yields 48.7 votes to Harris<br>
+            and 44.2 votes to Trump.
         </h2>
     </div>
 
     <div class="body" id="prediction-2024-writeup-7">
         <h2>That is, with Harris winning the majority of swing state votes, we predict that<br>
-            <b style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;;">Kamala Harris will win
-                the 2024 election and be the 47th president of the United States</b>.
+            Kamala Harris will win the 2024 election and be the 47th president of the United States.<br><br>
+
+            Keep in mind that this is from an insignificant model, so if this prediction is right<br>
+            it could just be a broken clock being right twice a day, and if it's wrong, it's just a<br>
+            broken clock being broken.
         </h2>
     </div>
 
@@ -580,8 +587,8 @@
     <div class="body" id="conclusion-1">
         <h2>To answer the questions posed at the beginning of the page, yes, campaigning does matter,<br>
             but it's relative value has decreased over the years. Additionally, there are several<br>
-            patterns that we can identify, especially across party-lines. Finally, we can indeed<br>
-            use campaign visits as a means of predicting election outcomes.
+            patterns that we can identify, especially across party-lines. Finally, at least in our study,<br>
+            we cannot use campaign visits <b>alone</b> as a means of predicting election outcomes.
         </h2>
     </div>
 

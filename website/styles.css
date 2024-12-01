@@ -593,7 +593,7 @@ svg.prediction-background {
 #prediction-2024-writeup-2 {
     position: absolute;
     left: 34100px;
-    top: 50px;
+    top: 100px;
     text-wrap: nowrap;
 }
 
@@ -645,14 +645,14 @@ svg.prediction-background {
 #prediction-2024-writeup-6 {
     position: absolute;
     left: 37100px;
-    top: 150px;
+    top: 100px;
     text-wrap: nowrap;
 }
 
 #prediction-2024-writeup-7 {
     position: absolute;
     left: 37100px;
-    top: 350px;
+    top: 400px;
     text-wrap: nowrap;
 }
 
