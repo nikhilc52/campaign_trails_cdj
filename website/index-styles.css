@@ -110,6 +110,7 @@ h1 {
 
 html {
     cursor: url("images/cursor.svg"), auto;
+    overflow: hidden;
 }
 
 a:hover {
