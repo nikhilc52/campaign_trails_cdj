@@ -818,5 +818,5 @@ body {
     height: 90vh;
     margin: 0;
     background: #FFF8EB;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
