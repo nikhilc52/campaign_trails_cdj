@@ -520,7 +520,8 @@
         <h2>Applying this model to each of the last 5 elections results in accurate predictions<br>
             of 4 of them, the sole error being in 2012. That is, our model accurately predicted the<br>
             candidate that would win a majority of swing state electoral votes, and thus win the White House<br>
-            in 4 of 5 cases. Unfortunately, this is not statistically significant, assuming each election is a true 50-50<br>
+            in 4 of 5 cases. Unfortunately, this is not statistically significant, assuming each election is a true
+            50-50<br>
             toss up (p=0.1875), indicating that campaigning in swing states is not the only factor that<br>
             allows a candidate to win the election.
         </h2>
@@ -638,5 +639,11 @@
 <script src="svg_scrolling.js"></script>
 <script src="tooltips.js"></script>
 <!-- <script src="general_scrolling.js"></script> -->
+<!-- edited script below -->
+<script>
+    if (screen && screen.width > 480) {
+        document.write('<script type="text/javascript" src="general_scrolling.js"><\/script>');
+    }
+</script>
 
 </html>
