@@ -90,8 +90,16 @@ svg.pennsylvania-svg path {
     transform: translateX(130px);
     right: 50%;
     bottom: 150px;
-    text-wrap: nowrap;
+    text-wrap: nowrap; 
+     animation: fade 3s infinite ease-in-out;
 }
+
+@keyframes fade {
+    0%, 100% {opacity: 0;}
+    50% {opacity: 1;}
+}
+
+
 
 a {
     color: #444;
