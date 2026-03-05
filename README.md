@@ -41,12 +41,11 @@ All the files and programs used to build the website and images used in [Campaig
 ## Contributors
 
 **Project lead**:
-* Shashank Kalyanaraman
+* Nikhil Chinchalkar
 
 **Team members**:
 * Ella Sanchez
 * Natalie Miller
-* Nikhil Chinchalkar
 * Vivian Guo
 
 ## Acknowledgments
